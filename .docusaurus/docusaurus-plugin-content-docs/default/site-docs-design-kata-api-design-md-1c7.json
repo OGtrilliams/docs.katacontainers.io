@@ -7,8 +7,8 @@
   "source": "@site/docs/design/kata-api-design.md",
   "sourceDirName": "design",
   "slug": "/design/kata-api-design",
-  "permalink": "/docs/design/kata-api-design",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/design/kata-api-design.md",
+  "permalink": "/docs/intro/docs/design/kata-api-design",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/design/kata-api-design.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,11 +18,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Kubernetes Support",
-    "permalink": "/docs/architecture-overview/kubernetes"
+    "title": "Kata Containers & vSOCKS",
+    "permalink": "/docs/intro/docs/Virtualization/VSocks"
   },
   "next": {
     "title": "Design Requirements",
-    "permalink": "/docs/design/kata-design-requirements"
+    "permalink": "/docs/intro/docs/design/kata-design-requirements"
   }
 }

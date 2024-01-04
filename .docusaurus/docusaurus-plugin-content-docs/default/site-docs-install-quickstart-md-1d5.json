@@ -1,0 +1,28 @@
+{
+  "unversionedId": "install/quickstart",
+  "id": "install/quickstart",
+  "isDocsHomePage": false,
+  "title": "Kata Containers installation guides",
+  "description": "The following is an overview of the different installation methods available.",
+  "source": "@site/docs/install/quickstart.md",
+  "sourceDirName": "install",
+  "slug": "/install/quickstart",
+  "permalink": "/docs/intro/docs/install/quickstart",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/install/quickstart.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Quickstart",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Install with kata-deploy (Recommended)",
+    "permalink": "/docs/intro/docs/install/kata-deploy"
+  },
+  "next": {
+    "title": "Example command",
+    "permalink": "/docs/intro/docs/install/example-command"
+  }
+}

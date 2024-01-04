@@ -7,8 +7,8 @@
   "source": "@site/docs/requirements.md",
   "sourceDirName": ".",
   "slug": "/requirements",
-  "permalink": "/docs/requirements",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/requirements.md",
+  "permalink": "/docs/intro/docs/requirements",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/requirements.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/docs/intro"
+    "permalink": "/docs/intro/docs/intro"
   },
   "next": {
-    "title": "vCPU Pinning Feature",
-    "permalink": "/docs/vcpu-threads-pinning"
+    "title": "API Hooks Handling",
+    "permalink": "/docs/intro/docs/API Reference/hooks-handling"
   }
 }

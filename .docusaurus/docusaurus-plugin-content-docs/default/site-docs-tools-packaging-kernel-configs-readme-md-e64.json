@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/kernel/configs/README",
+  "id": "tools/packaging/kernel/configs/README",
+  "isDocsHomePage": false,
+  "title": "Kata Containers kernel config files",
+  "description": "This directory contains Linux Kernel config files used to configure Kata",
+  "source": "@site/docs/tools/packaging/kernel/configs/README.md",
+  "sourceDirName": "tools/packaging/kernel/configs",
+  "slug": "/tools/packaging/kernel/configs/README",
+  "permalink": "/docs/intro/docs/tools/packaging/kernel/configs/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/kernel/configs/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Build Kata Containers Kernel",
+    "permalink": "/docs/intro/docs/tools/packaging/kernel/README"
+  },
+  "next": {
+    "title": "QEMU patches",
+    "permalink": "/docs/intro/docs/tools/packaging/qemu/README"
+  }
+}

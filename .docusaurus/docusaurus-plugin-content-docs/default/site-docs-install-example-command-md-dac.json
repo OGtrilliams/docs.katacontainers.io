@@ -1,0 +1,28 @@
+{
+  "unversionedId": "install/example-command",
+  "id": "install/example-command",
+  "isDocsHomePage": false,
+  "title": "Example command",
+  "description": "The following containerd command creates a container. It is referred",
+  "source": "@site/docs/install/example-command.md",
+  "sourceDirName": "install",
+  "slug": "/install/example-command",
+  "permalink": "/docs/intro/docs/install/example-command",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/install/example-command.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "sidebar_label": "Example command"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/docs/intro/docs/install/quickstart"
+  },
+  "next": {
+    "title": "Host cgroup Management",
+    "permalink": "/docs/intro/docs/networking/host-cgroups"
+  }
+}

@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Networking",
-    "permalink": "/docs/architecture-overview/networking"
+    "title": "Storage",
+    "permalink": "/docs/architecture-overview/storage"
   },
   "next": {
     "title": "Guest Assets",

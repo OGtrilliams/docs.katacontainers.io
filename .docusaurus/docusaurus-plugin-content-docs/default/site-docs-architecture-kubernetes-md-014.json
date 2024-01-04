@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Architecture/kubernetes",
+  "id": "Architecture/kubernetes",
+  "isDocsHomePage": false,
+  "title": "Kubernetes support",
+  "description": "Kubernetes, or K8s, is a popular open source",
+  "source": "@site/docs/Architecture/kubernetes.md",
+  "sourceDirName": "Architecture",
+  "slug": "/Architecture/kubernetes",
+  "permalink": "/docs/intro/docs/Architecture/kubernetes",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/kubernetes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "sidebar_label": "Kubernetes Support"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guest Assets",
+    "permalink": "/docs/intro/docs/Architecture/guest-assets"
+  },
+  "next": {
+    "title": "vCPU Handling | RUST",
+    "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs"
+  }
+}

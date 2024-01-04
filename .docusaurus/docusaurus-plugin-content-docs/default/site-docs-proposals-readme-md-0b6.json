@@ -1,0 +1,28 @@
+{
+  "unversionedId": "proposals/README",
+  "id": "proposals/README",
+  "isDocsHomePage": false,
+  "title": "Design proposals",
+  "description": "Kata Containers design proposal documents:",
+  "source": "@site/docs/proposals/README.md",
+  "sourceDirName": "proposals",
+  "slug": "/proposals/README",
+  "permalink": "/docs/intro/docs/proposals/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/proposals/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Design Proposals"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kata Containers E2E Flow Diagram",
+    "permalink": "/docs/intro/docs/networking/end-to-end-flow"
+  },
+  "next": {
+    "title": "Tracing Proposals",
+    "permalink": "/docs/intro/docs/proposals/tracing-proposals"
+  }
+}

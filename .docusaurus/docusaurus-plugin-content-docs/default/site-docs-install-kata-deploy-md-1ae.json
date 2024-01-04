@@ -1,0 +1,28 @@
+{
+  "unversionedId": "install/kata-deploy",
+  "id": "install/kata-deploy",
+  "isDocsHomePage": false,
+  "title": "kata-deploy",
+  "description": "kata-deploy provides a Dockerfile, which contains all of the binaries",
+  "source": "@site/docs/install/kata-deploy.md",
+  "sourceDirName": "install",
+  "slug": "/install/kata-deploy",
+  "permalink": "/docs/intro/docs/install/kata-deploy",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/install/kata-deploy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "Install with kata-deploy (Recommended)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kata Containers installation guides",
+    "permalink": "/docs/intro/docs/install/README"
+  },
+  "next": {
+    "title": "Quickstart",
+    "permalink": "/docs/intro/docs/install/quickstart"
+  }
+}

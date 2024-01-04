@@ -1,0 +1,28 @@
+{
+  "unversionedId": "networking/agent-systemd-cgroup",
+  "id": "networking/agent-systemd-cgroup",
+  "isDocsHomePage": false,
+  "title": "Systemd Cgroup for Agent",
+  "description": "As we know, we can interact with cgroups in two ways, cgroupfs and systemd. The former is achieved by reading and writing cgroup tmpfs files under /sys/fs/cgroup while the latter is done by configuring a transient unit by requesting systemd. Kata agent uses cgroupfs by default, unless you pass the parameter --systemd-cgroup.",
+  "source": "@site/docs/networking/agent-systemd-cgroup.md",
+  "sourceDirName": "networking",
+  "slug": "/networking/agent-systemd-cgroup",
+  "permalink": "/docs/intro/docs/networking/agent-systemd-cgroup",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/networking/agent-systemd-cgroup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "sidebar_label": "Systemd Cgroup for Agent"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Host cgroup Management",
+    "permalink": "/docs/intro/docs/networking/host-cgroups"
+  },
+  "next": {
+    "title": "Networking",
+    "permalink": "/docs/intro/docs/networking/networking"
+  }
+}

@@ -2,7 +2,7 @@ export default {
   "title": "Kata Containers | docs",
   "tagline": "docs.katacontainers.io",
   "url": "https://docs.katacontainers.io",
-  "baseUrl": "/",
+  "baseUrl": "/docs/intro/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -14,7 +14,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/trilliams/docs.katacontainers.io/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/"
+          "editUrl": "https://github.com/kata-containers/kata-containers"
         },
         "blog": {
           "showReadingTime": true,

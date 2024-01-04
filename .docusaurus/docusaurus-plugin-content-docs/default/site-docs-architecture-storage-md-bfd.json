@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Architecture/storage",
+  "id": "Architecture/storage",
+  "isDocsHomePage": false,
+  "title": "Storage",
+  "description": "Limits",
+  "source": "@site/docs/Architecture/storage.md",
+  "sourceDirName": "Architecture",
+  "slug": "/Architecture/storage",
+  "permalink": "/docs/intro/docs/Architecture/storage",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/storage.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Storage",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Background Knowledge",
+    "permalink": "/docs/intro/docs/Architecture/background"
+  },
+  "next": {
+    "title": "Example command",
+    "permalink": "/docs/intro/docs/Architecture/example-command"
+  }
+}

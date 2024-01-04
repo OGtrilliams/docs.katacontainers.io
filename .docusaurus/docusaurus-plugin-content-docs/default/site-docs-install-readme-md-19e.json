@@ -1,0 +1,27 @@
+{
+  "unversionedId": "install/README",
+  "id": "install/README",
+  "isDocsHomePage": false,
+  "title": "Kata Containers installation guides",
+  "description": "The following is an overview of the different installation methods available.",
+  "source": "@site/docs/install/README.md",
+  "sourceDirName": "install",
+  "slug": "/install/README",
+  "permalink": "/docs/intro/docs/install/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/install/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inotify",
+    "permalink": "/docs/intro/docs/inotify"
+  },
+  "next": {
+    "title": "Install with kata-deploy (Recommended)",
+    "permalink": "/docs/intro/docs/install/kata-deploy"
+  }
+}

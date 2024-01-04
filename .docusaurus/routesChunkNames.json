@@ -1,220 +1,328 @@
 {
-  "/-deb": {
+  "/docs/intro/-a2d": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---5-e-9-4f3"
+    "config": "config---docs-intro-5-e-9-aa9"
   },
-  "/__docusaurus/debug-3d6": {
+  "/docs/intro/__docusaurus/debug-ea9": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/__docusaurus/debug/config-914": {
+  "/docs/intro/__docusaurus/debug/config-bed": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/__docusaurus/debug/content-c28": {
+  "/docs/intro/__docusaurus/debug/content-453": {
     "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "allContent": "allContent---docs-intro-docusaurus-debug-content-246-18e"
   },
-  "/__docusaurus/debug/globalData-3cf": {
+  "/docs/intro/__docusaurus/debug/globalData-6c4": {
     "component": "component---theme-debug-global-dataede-0fa"
   },
-  "/__docusaurus/debug/metadata-31b": {
+  "/docs/intro/__docusaurus/debug/metadata-0e3": {
     "component": "component---theme-debug-site-metadata-68-e-3d4"
   },
-  "/__docusaurus/debug/registry-0da": {
+  "/docs/intro/__docusaurus/debug/registry-459": {
     "component": "component---theme-debug-registry-679-501"
   },
-  "/__docusaurus/debug/routes-244": {
+  "/docs/intro/__docusaurus/debug/routes-e29": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/blog-520": {
+  "/docs/intro/blog-cf8": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---docs-intro-blog-814-f61",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---docs-intro-blog-766-aac"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---docs-intro-blogf-4-f-288"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---docs-intro-blog-871-3a5"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---docs-intro-blog-925-862"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "metadata---docs-intro-blog-896-41b"
   },
-  "/blog/archive-f4c": {
+  "/docs/intro/blog/archive-06a": {
     "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---blog-archiveb-2-f-393"
+    "archive": "archive---docs-intro-blog-archive-5-a-6-238"
   },
-  "/blog/first-blog-post-6c7": {
+  "/docs/intro/blog/first-blog-post-464": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-first-blog-poste-27-4a1"
+    "sidebar": "sidebar---docs-intro-blog-814-f61",
+    "content": "content---docs-intro-blog-first-blog-poste-27-c29"
   },
-  "/blog/long-blog-post-f06": {
+  "/docs/intro/blog/long-blog-post-776": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-long-blog-post-736-bc7"
+    "sidebar": "sidebar---docs-intro-blog-814-f61",
+    "content": "content---docs-intro-blog-long-blog-post-736-da5"
   },
-  "/blog/mdx-blog-post-bee": {
+  "/docs/intro/blog/mdx-blog-post-827": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-mdx-blog-post-593-37b"
+    "sidebar": "sidebar---docs-intro-blog-814-f61",
+    "content": "content---docs-intro-blog-mdx-blog-post-593-823"
   },
-  "/blog/tags-e13": {
+  "/docs/intro/blog/tags-3f2": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
+    "sidebar": "sidebar---docs-intro-blog-814-f61",
+    "tags": "tags---docs-intro-blog-tagsfd-7-595"
   },
-  "/blog/tags/docusaurus-ddf": {
+  "/docs/intro/blog/tags/docusaurus-15d": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---docs-intro-blog-814-f61",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---docs-intro-blog-766-aac"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---docs-intro-blogf-4-f-288"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---docs-intro-blog-871-3a5"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---docs-intro-blog-925-862"
       }
     ],
-    "metadata": "metadata---blog-tags-docusaurusa-80-728"
+    "metadata": "metadata---docs-intro-blog-tags-docusaurus-5-d-6-09b"
   },
-  "/blog/tags/facebook-ede": {
+  "/docs/intro/blog/tags/facebook-29b": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---docs-intro-blog-814-f61",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---docs-intro-blog-766-aac"
       }
     ],
-    "metadata": "metadata---blog-tags-facebook-031-c52"
+    "metadata": "metadata---docs-intro-blog-tags-facebookdc-8-015"
   },
-  "/blog/tags/hello-4c2": {
+  "/docs/intro/blog/tags/hello-383": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---docs-intro-blog-814-f61",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---docs-intro-blog-766-aac"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---docs-intro-blog-871-3a5"
       }
     ],
-    "metadata": "metadata---blog-tags-hello-30-a-bed"
+    "metadata": "metadata---docs-intro-blog-tags-hello-7-bc-e0f"
   },
-  "/blog/tags/hola-752": {
+  "/docs/intro/blog/tags/hola-f10": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---docs-intro-blog-814-f61",
     "items": [
       {
-        "content": "content---blog-925-e00"
+        "content": "content---docs-intro-blog-925-862"
       }
     ],
-    "metadata": "metadata---blog-tags-holae-16-18a"
+    "metadata": "metadata---docs-intro-blog-tags-holad-51-0b3"
   },
-  "/blog/welcome-bfa": {
+  "/docs/intro/blog/welcome-76d": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcomed-9-f-ffb"
+    "sidebar": "sidebar---docs-intro-blog-814-f61",
+    "content": "content---docs-intro-blog-welcomed-9-f-525"
   },
-  "/docs/tags-0cc": {
+  "/docs/intro/docs/tags-98e": {
     "component": "component---theme-doc-tags-list-page-372-89e",
-    "tags": "tags---docs-tags-559-5e5"
+    "tags": "tags---docs-intro-docs-tags-559-228"
   },
-  "/markdown-page-be1": {
+  "/docs/intro/markdown-page-02e": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---markdown-page-393-028"
+    "content": "content---docs-intro-markdown-page-393-736"
   },
-  "/docs-970": {
+  "/docs/intro/docs-0fb": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "versionMetadata---docs-intro-docs-935-f75"
   },
-  "/docs/architecture-overview/background-9b4": {
+  "/docs/intro/docs/API Reference/hooks-handling-d24": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-architecture-overview-background-2-ff-729"
+    "content": "content---docs-intro-docs-api-reference-hooks-handling-855-e18"
   },
-  "/docs/architecture-overview/example-command-6ff": {
+  "/docs/intro/docs/Architecture/background-d4c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-architecture-overview-example-commandcfc-a49"
+    "content": "content---docs-intro-docs-architecture-background-950-cd8"
   },
-  "/docs/architecture-overview/guest-assets-893": {
+  "/docs/intro/docs/Architecture/guest-assets-10a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-architecture-overview-guest-assets-346-ddd"
+    "content": "content---docs-intro-docs-architecture-guest-assets-6-ee-111"
   },
-  "/docs/architecture-overview/history-465": {
+  "/docs/intro/docs/Architecture/history-6a4": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-architecture-overview-history-3-ba-b81"
+    "content": "content---docs-intro-docs-architecture-history-50-c-2f8"
   },
-  "/docs/architecture-overview/kata-3.0-arch-b3f": {
+  "/docs/intro/docs/Architecture/kata-3.0-arch-e93": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-architecture-overview-kata-3-0-archa-10-c42"
+    "content": "content---docs-intro-docs-architecture-kata-3-0-arch-255-a41"
   },
-  "/docs/architecture-overview/kubernetes-1bd": {
+  "/docs/intro/docs/Architecture/kubernetes-b7d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-architecture-overview-kubernetesb-70-462"
+    "content": "content---docs-intro-docs-architecture-kubernetes-014-cb9"
   },
-  "/docs/architecture-overview/networking-12c": {
+  "/docs/intro/docs/Architecture/README-1b5": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-architecture-overview-networking-231-005"
+    "content": "content---docs-intro-docs-architecture-readm-ec-8-c-3f0"
   },
-  "/docs/architecture-overview/README-5b2": {
+  "/docs/intro/docs/design/kata-2-0-metrics-f90": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-architecture-overview-readm-ed-84-f40"
+    "content": "content---docs-intro-docs-design-kata-2-0-metrics-7-a-4-8af"
   },
-  "/docs/architecture-overview/storage-c2e": {
+  "/docs/intro/docs/design/kata-api-design-443": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-architecture-overview-storage-92-b-487"
+    "content": "content---docs-intro-docs-design-kata-api-design-1-c-7-573"
   },
-  "/docs/design/kata-2-0-metrics-715": {
+  "/docs/intro/docs/design/kata-design-requirements-e9d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-design-kata-2-0-metrics-7-a-4-b07"
+    "content": "content---docs-intro-docs-design-kata-design-requirementsc-0-c-96a"
   },
-  "/docs/design/kata-api-design-a57": {
+  "/docs/intro/docs/design/kata-nydus-design-047": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-design-kata-api-design-1-c-7-b24"
+    "content": "content---docs-intro-docs-design-kata-nydus-design-88-d-082"
   },
-  "/docs/design/kata-design-requirements-1c1": {
+  "/docs/intro/docs/design/vcpu-threads-pinning-cd5": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-design-kata-design-requirementsc-0-c-06f"
+    "content": "content---docs-intro-docs-design-vcpu-threads-pinningdfd-cdf"
   },
-  "/docs/design/kata-nydus-design-f0a": {
+  "/docs/intro/docs/inotify-655": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-design-kata-nydus-design-88-d-195"
+    "content": "content---docs-intro-docs-inotify-302-c33"
   },
-  "/docs/Installation/quickstart-4fc": {
+  "/docs/intro/docs/install/example-command-118": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-installation-quickstarta-36-395"
+    "content": "content---docs-intro-docs-install-example-commanddac-747"
   },
-  "/docs/intro-aed": {
+  "/docs/intro/docs/install/kata-deploy-dff": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "content": "content---docs-intro-docs-install-kata-deploy-1-ae-7a2"
   },
-  "/docs/networking/host-cgroups-6ff": {
+  "/docs/intro/docs/install/quickstart-e23": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-networking-host-cgroups-1-db-15e"
+    "content": "content---docs-intro-docs-install-quickstart-1-d-5-126"
   },
-  "/docs/requirements-0bd": {
+  "/docs/intro/docs/install/README-735": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-requirements-5-ed-1a6"
+    "content": "content---docs-intro-docs-install-readme-19-e-981"
   },
-  "/docs/Runtimes/vcpu-handling-runtime-go-56b": {
+  "/docs/intro/docs/intro-877": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-runtimes-vcpu-handling-runtime-goc-9-e-4d3"
+    "content": "content---docs-intro-docs-intro-0-e-3-a16"
   },
-  "/docs/Runtimes/vcpu-handling-runtime-rs-b8f": {
+  "/docs/intro/docs/networking/agent-systemd-cgroup-297": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-runtimes-vcpu-handling-runtime-rs-8-e-3-dae"
+    "content": "content---docs-intro-docs-networking-agent-systemd-cgroupeda-88e"
   },
-  "/docs/vcpu-threads-pinning-5a8": {
+  "/docs/intro/docs/networking/end-to-end-flow-f9d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-vcpu-threads-pinningc-36-4cf"
+    "content": "content---docs-intro-docs-networking-end-to-end-flow-48-c-186"
+  },
+  "/docs/intro/docs/networking/host-cgroups-8c6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-networking-host-cgroups-1-db-4f8"
+  },
+  "/docs/intro/docs/networking/networking-c07": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-networking-networkingee-7-8ed"
+  },
+  "/docs/intro/docs/proposals/README-bf2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-proposals-readme-0-b-6-519"
+  },
+  "/docs/intro/docs/proposals/tracing-proposals-195": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-proposals-tracing-proposals-6-af-536"
+  },
+  "/docs/intro/docs/requirements-983": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-requirements-5-ed-761"
+  },
+  "/docs/intro/docs/Runtimes/vcpu-handling-runtime-go-87e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-runtimes-vcpu-handling-runtime-goc-9-e-1bf"
+  },
+  "/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs-559": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-runtimes-vcpu-handling-runtime-rs-8-e-3-1f5"
+  },
+  "/docs/intro/docs/Storage/direct-blk-device-assignment-556": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-storage-direct-blk-device-assignmentdc-2-1a4"
+  },
+  "/docs/intro/docs/Storage/storage-d99": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-storage-storage-997-e84"
+  },
+  "/docs/intro/docs/tools/osbuilder/dockerfiles/QAT/README-b8f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-tools-osbuilder-dockerfiles-qat-readme-39-a-e30"
+  },
+  "/docs/intro/docs/tools/osbuilder/image-builder/README-e8e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-tools-osbuilder-image-builder-readme-0-ad-06c"
+  },
+  "/docs/intro/docs/tools/osbuilder/initrd-builder/README-963": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-tools-osbuilder-initrd-builder-readme-45-a-141"
+  },
+  "/docs/intro/docs/tools/osbuilder/README-de5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-tools-osbuilder-readme-768-b65"
+  },
+  "/docs/intro/docs/tools/osbuilder/rootfs-builder/README-16d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-tools-osbuilder-rootfs-builder-readme-852-7ae"
+  },
+  "/docs/intro/docs/tools/osbuilder/tests/README-818": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-tools-osbuilder-tests-readme-2-f-4-639"
+  },
+  "/docs/intro/docs/tools/packaging/kata-debug/README-ab4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-tools-packaging-kata-debug-readm-ee-60-70e"
+  },
+  "/docs/intro/docs/tools/packaging/kata-deploy/README-662": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-tools-packaging-kata-deploy-readm-ec-35-2dd"
+  },
+  "/docs/intro/docs/tools/packaging/kernel/configs/README-c5c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-tools-packaging-kernel-configs-readm-ee-64-d71"
+  },
+  "/docs/intro/docs/tools/packaging/kernel/README-e15": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-tools-packaging-kernel-readm-eb-79-58d"
+  },
+  "/docs/intro/docs/tools/packaging/qemu/README-fac": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-tools-packaging-qemu-readme-60-b-5fb"
+  },
+  "/docs/intro/docs/tools/packaging/README-c9a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-tools-packaging-readme-2-f-5-765"
+  },
+  "/docs/intro/docs/tools/packaging/release/README-acf": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-tools-packaging-release-readm-ee-00-16b"
+  },
+  "/docs/intro/docs/tools/packaging/scripts/README-a0f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-tools-packaging-scripts-readm-ea-1-f-47d"
+  },
+  "/docs/intro/docs/tools/packaging/static-build/README-cbf": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-tools-packaging-static-build-readme-0-f-8-1a1"
+  },
+  "/docs/intro/docs/Virtualization/kata-vra-8f0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-virtualization-kata-vra-1-a-3-8a3"
+  },
+  "/docs/intro/docs/Virtualization/virtualization-d3d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-virtualization-virtualizationecb-e7c"
+  },
+  "/docs/intro/docs/Virtualization/VSocks-d6d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-virtualization-v-socks-56-d-689"
   }
 }

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Virtualization/kata-vra",
+  "id": "Virtualization/kata-vra",
+  "isDocsHomePage": false,
+  "title": "Virtualization Reference Architecture",
+  "description": "Subject to Change | © 2022 by NVIDIA Corporation. All rights reserved. | For test and development only_",
+  "source": "@site/docs/Virtualization/kata-vra.md",
+  "sourceDirName": "Virtualization",
+  "slug": "/Virtualization/kata-vra",
+  "permalink": "/docs/intro/docs/Virtualization/kata-vra",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/Virtualization/kata-vra.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Virtualization Reference Architecture"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Storage",
+    "permalink": "/docs/intro/docs/Storage/storage"
+  },
+  "next": {
+    "title": "Virtualization in Kata Containers",
+    "permalink": "/docs/intro/docs/Virtualization/virtualization"
+  }
+}

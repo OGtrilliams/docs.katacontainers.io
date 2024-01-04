@@ -5,10 +5,10 @@
         {
           "versionName": "current",
           "versionLabel": "Next",
-          "versionPath": "/docs",
-          "tagsPath": "/docs/tags",
-          "versionEditUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs",
-          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/main/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionPath": "/docs/intro/docs",
+          "tagsPath": "/docs/intro/docs/tags",
+          "versionEditUrl": "https://github.com/kata-containers/kata-containers/docs",
+          "versionEditUrlLocalized": "https://github.com/kata-containers/kata-containers/i18n/en/docusaurus-plugin-content-docs/current",
           "versionBanner": null,
           "versionBadge": false,
           "versionClassName": "docs-version-current",
@@ -31,18 +31,51 @@
                 "label": "System Requirements"
               },
               {
-                "type": "doc",
-                "id": "vcpu-threads-pinning",
-                "label": "vCPU Pinning Feature"
-              },
-              {
                 "type": "category",
-                "label": "Installation",
+                "label": "API Reference",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Installation/quickstart",
-                    "label": "Quickstart"
+                    "id": "API Reference/hooks-handling",
+                    "label": "API Hooks Handling"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Architecture",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Architecture/README",
+                    "label": "Kata Containers Architecture"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Architecture/history",
+                    "label": "Architecture History"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Architecture/kata-3.0-arch",
+                    "label": "3.0 Architecture"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Architecture/background",
+                    "label": "Background Knowledge"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Architecture/guest-assets",
+                    "label": "Guest Assets"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Architecture/kubernetes",
+                    "label": "Kubernetes Support"
                   }
                 ],
                 "collapsed": true,
@@ -68,52 +101,40 @@
               },
               {
                 "type": "category",
-                "label": "architecture-overview",
+                "label": "Storage",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "architecture-overview/README",
-                    "label": "Kata Containers Architecture"
+                    "id": "Storage/direct-blk-device-assignment",
+                    "label": "Motivation"
                   },
                   {
                     "type": "doc",
-                    "id": "architecture-overview/history",
-                    "label": "Architecture History"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "architecture-overview/kata-3.0-arch",
-                    "label": "3.0 Architecture"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "architecture-overview/background",
-                    "label": "Background Knowledge"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "architecture-overview/storage",
+                    "id": "Storage/storage",
                     "label": "Storage"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Virtualization",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Virtualization/kata-vra",
+                    "label": "Virtualization Reference Architecture"
                   },
                   {
                     "type": "doc",
-                    "id": "architecture-overview/networking",
-                    "label": "Networking"
+                    "id": "Virtualization/virtualization",
+                    "label": "Virtualization in Kata Containers"
                   },
                   {
                     "type": "doc",
-                    "id": "architecture-overview/example-command",
-                    "label": "Example command"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "architecture-overview/guest-assets",
-                    "label": "Guest Assets"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "architecture-overview/kubernetes",
-                    "label": "Kubernetes Support"
+                    "id": "Virtualization/VSocks",
+                    "label": "Kata Containers & vSOCKS"
                   }
                 ],
                 "collapsed": true,
@@ -135,12 +156,48 @@
                   },
                   {
                     "type": "doc",
+                    "id": "design/vcpu-threads-pinning",
+                    "label": "vCPU Pinning Feature"
+                  },
+                  {
+                    "type": "doc",
                     "id": "design/kata-nydus-design",
                     "label": "Nydus Design Proposal"
                   },
                   {
                     "type": "doc",
                     "id": "design/kata-2-0-metrics"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "doc",
+                "id": "inotify"
+              },
+              {
+                "type": "category",
+                "label": "install",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "install/README"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "install/kata-deploy",
+                    "label": "Install with kata-deploy (Recommended)"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "install/quickstart",
+                    "label": "Quickstart"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "install/example-command",
+                    "label": "Example command"
                   }
                 ],
                 "collapsed": true,
@@ -154,6 +211,235 @@
                     "type": "doc",
                     "id": "networking/host-cgroups",
                     "label": "Host cgroup Management"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "networking/agent-systemd-cgroup",
+                    "label": "Systemd Cgroup for Agent"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "networking/networking",
+                    "label": "Networking"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "networking/end-to-end-flow",
+                    "label": "Kata Containers E2E Flow Diagram"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "proposals",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "proposals/README",
+                    "label": "Design Proposals"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "proposals/tracing-proposals",
+                    "label": "Tracing Proposals"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "tools",
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "osbuilder",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "tools/osbuilder/README"
+                      },
+                      {
+                        "type": "category",
+                        "label": "dockerfiles",
+                        "items": [
+                          {
+                            "type": "category",
+                            "label": "QAT",
+                            "items": [
+                              {
+                                "type": "doc",
+                                "id": "tools/osbuilder/dockerfiles/QAT/README"
+                              }
+                            ],
+                            "collapsed": true,
+                            "collapsible": true
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
+                      },
+                      {
+                        "type": "category",
+                        "label": "image-builder",
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "tools/osbuilder/image-builder/README"
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
+                      },
+                      {
+                        "type": "category",
+                        "label": "initrd-builder",
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "tools/osbuilder/initrd-builder/README"
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
+                      },
+                      {
+                        "type": "category",
+                        "label": "rootfs-builder",
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "tools/osbuilder/rootfs-builder/README"
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
+                      },
+                      {
+                        "type": "category",
+                        "label": "tests",
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "tools/osbuilder/tests/README"
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  },
+                  {
+                    "type": "category",
+                    "label": "packaging",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "tools/packaging/README"
+                      },
+                      {
+                        "type": "category",
+                        "label": "kata-debug",
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "tools/packaging/kata-debug/README"
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
+                      },
+                      {
+                        "type": "category",
+                        "label": "kata-deploy",
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "tools/packaging/kata-deploy/README"
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
+                      },
+                      {
+                        "type": "category",
+                        "label": "kernel",
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "tools/packaging/kernel/README"
+                          },
+                          {
+                            "type": "category",
+                            "label": "configs",
+                            "items": [
+                              {
+                                "type": "doc",
+                                "id": "tools/packaging/kernel/configs/README"
+                              }
+                            ],
+                            "collapsed": true,
+                            "collapsible": true
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
+                      },
+                      {
+                        "type": "category",
+                        "label": "qemu",
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "tools/packaging/qemu/README"
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
+                      },
+                      {
+                        "type": "category",
+                        "label": "release",
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "tools/packaging/release/README"
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
+                      },
+                      {
+                        "type": "category",
+                        "label": "scripts",
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "tools/packaging/scripts/README"
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
+                      },
+                      {
+                        "type": "category",
+                        "label": "static-build",
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "tools/packaging/static-build/README"
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
                   }
                 ],
                 "collapsed": true,
@@ -163,16 +449,44 @@
           },
           "docs": [
             {
-              "unversionedId": "architecture-overview/background",
-              "id": "architecture-overview/background",
+              "unversionedId": "API Reference/hooks-handling",
+              "id": "API Reference/hooks-handling",
+              "isDocsHomePage": false,
+              "title": "Kata Containers support for `Hooks`",
+              "description": "Introduction",
+              "source": "@site/docs/API Reference/hooks-handling.md",
+              "sourceDirName": "API Reference",
+              "slug": "/API Reference/hooks-handling",
+              "permalink": "/docs/intro/docs/API Reference/hooks-handling",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/API Reference/hooks-handling.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "sidebar_label": "API Hooks Handling"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "System Requirements",
+                "permalink": "/docs/intro/docs/requirements"
+              },
+              "next": {
+                "title": "Kata Containers Architecture",
+                "permalink": "/docs/intro/docs/Architecture/README"
+              }
+            },
+            {
+              "unversionedId": "Architecture/background",
+              "id": "Architecture/background",
               "isDocsHomePage": false,
               "title": "Kata Containers architecture background knowledge",
               "description": "The following sections explain some of the background concepts",
-              "source": "@site/docs/architecture-overview/background.md",
-              "sourceDirName": "architecture-overview",
-              "slug": "/architecture-overview/background",
-              "permalink": "/docs/architecture-overview/background",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/background.md",
+              "source": "@site/docs/Architecture/background.md",
+              "sourceDirName": "Architecture",
+              "slug": "/Architecture/background",
+              "permalink": "/docs/intro/docs/Architecture/background",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/background.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -183,52 +497,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "3.0 Architecture",
-                "permalink": "/docs/architecture-overview/kata-3.0-arch"
-              },
-              "next": {
-                "title": "Storage",
-                "permalink": "/docs/architecture-overview/storage"
-              }
-            },
-            {
-              "unversionedId": "architecture-overview/example-command",
-              "id": "architecture-overview/example-command",
-              "isDocsHomePage": false,
-              "title": "Example command",
-              "description": "The following containerd command creates a container. It is referred",
-              "source": "@site/docs/architecture-overview/example-command.md",
-              "sourceDirName": "architecture-overview",
-              "slug": "/architecture-overview/example-command",
-              "permalink": "/docs/architecture-overview/example-command",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/example-command.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 7,
-              "frontMatter": {
-                "sidebar_position": 7,
-                "sidebar_label": "Example command"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Networking",
-                "permalink": "/docs/architecture-overview/networking"
+                "permalink": "/docs/intro/docs/Architecture/kata-3.0-arch"
               },
               "next": {
                 "title": "Guest Assets",
-                "permalink": "/docs/architecture-overview/guest-assets"
+                "permalink": "/docs/intro/docs/Architecture/guest-assets"
               }
             },
             {
-              "unversionedId": "architecture-overview/guest-assets",
-              "id": "architecture-overview/guest-assets",
+              "unversionedId": "Architecture/guest-assets",
+              "id": "Architecture/guest-assets",
               "isDocsHomePage": false,
               "title": "Guest assets",
               "description": "Kata Containers creates a VM in which to run one or more containers.",
-              "source": "@site/docs/architecture-overview/guest-assets.md",
-              "sourceDirName": "architecture-overview",
-              "slug": "/architecture-overview/guest-assets",
-              "permalink": "/docs/architecture-overview/guest-assets",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/guest-assets.md",
+              "source": "@site/docs/Architecture/guest-assets.md",
+              "sourceDirName": "Architecture",
+              "slug": "/Architecture/guest-assets",
+              "permalink": "/docs/intro/docs/Architecture/guest-assets",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/guest-assets.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 8,
@@ -238,25 +524,25 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Example command",
-                "permalink": "/docs/architecture-overview/example-command"
+                "title": "Background Knowledge",
+                "permalink": "/docs/intro/docs/Architecture/background"
               },
               "next": {
                 "title": "Kubernetes Support",
-                "permalink": "/docs/architecture-overview/kubernetes"
+                "permalink": "/docs/intro/docs/Architecture/kubernetes"
               }
             },
             {
-              "unversionedId": "architecture-overview/history",
-              "id": "architecture-overview/history",
+              "unversionedId": "Architecture/history",
+              "id": "Architecture/history",
               "isDocsHomePage": false,
               "title": "History",
               "description": "Kata 1.x architecture",
-              "source": "@site/docs/architecture-overview/history.md",
-              "sourceDirName": "architecture-overview",
-              "slug": "/architecture-overview/history",
-              "permalink": "/docs/architecture-overview/history",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/history.md",
+              "source": "@site/docs/Architecture/history.md",
+              "sourceDirName": "Architecture",
+              "slug": "/Architecture/history",
+              "permalink": "/docs/intro/docs/Architecture/history",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/history.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -267,24 +553,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Kata Containers Architecture",
-                "permalink": "/docs/architecture-overview/README"
+                "permalink": "/docs/intro/docs/Architecture/README"
               },
               "next": {
                 "title": "3.0 Architecture",
-                "permalink": "/docs/architecture-overview/kata-3.0-arch"
+                "permalink": "/docs/intro/docs/Architecture/kata-3.0-arch"
               }
             },
             {
-              "unversionedId": "architecture-overview/kata-3.0-arch",
-              "id": "architecture-overview/kata-3.0-arch",
+              "unversionedId": "Architecture/kata-3.0-arch",
+              "id": "Architecture/kata-3.0-arch",
               "isDocsHomePage": false,
               "title": "Kata 3.0 Architecture",
               "description": "Overview",
-              "source": "@site/docs/architecture-overview/kata-3.0-arch.md",
-              "sourceDirName": "architecture-overview",
-              "slug": "/architecture-overview/kata-3.0-arch",
-              "permalink": "/docs/architecture-overview/kata-3.0-arch",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/kata-3.0-arch.md",
+              "source": "@site/docs/Architecture/kata-3.0-arch.md",
+              "sourceDirName": "Architecture",
+              "slug": "/Architecture/kata-3.0-arch",
+              "permalink": "/docs/intro/docs/Architecture/kata-3.0-arch",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/kata-3.0-arch.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -295,24 +581,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Architecture History",
-                "permalink": "/docs/architecture-overview/history"
+                "permalink": "/docs/intro/docs/Architecture/history"
               },
               "next": {
                 "title": "Background Knowledge",
-                "permalink": "/docs/architecture-overview/background"
+                "permalink": "/docs/intro/docs/Architecture/background"
               }
             },
             {
-              "unversionedId": "architecture-overview/kubernetes",
-              "id": "architecture-overview/kubernetes",
+              "unversionedId": "Architecture/kubernetes",
+              "id": "Architecture/kubernetes",
               "isDocsHomePage": false,
               "title": "Kubernetes support",
               "description": "Kubernetes, or K8s, is a popular open source",
-              "source": "@site/docs/architecture-overview/kubernetes.md",
-              "sourceDirName": "architecture-overview",
-              "slug": "/architecture-overview/kubernetes",
-              "permalink": "/docs/architecture-overview/kubernetes",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/kubernetes.md",
+              "source": "@site/docs/Architecture/kubernetes.md",
+              "sourceDirName": "Architecture",
+              "slug": "/Architecture/kubernetes",
+              "permalink": "/docs/intro/docs/Architecture/kubernetes",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/kubernetes.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 9,
@@ -323,52 +609,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Guest Assets",
-                "permalink": "/docs/architecture-overview/guest-assets"
+                "permalink": "/docs/intro/docs/Architecture/guest-assets"
               },
               "next": {
-                "title": "API Design",
-                "permalink": "/docs/design/kata-api-design"
+                "title": "vCPU Handling | RUST",
+                "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs"
               }
             },
             {
-              "unversionedId": "architecture-overview/networking",
-              "id": "architecture-overview/networking",
-              "isDocsHomePage": false,
-              "title": "Networking",
-              "description": "Containers typically live in their own, possibly shared, networking namespace.",
-              "source": "@site/docs/architecture-overview/networking.md",
-              "sourceDirName": "architecture-overview",
-              "slug": "/architecture-overview/networking",
-              "permalink": "/docs/architecture-overview/networking",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/networking.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_label": "Networking",
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Storage",
-                "permalink": "/docs/architecture-overview/storage"
-              },
-              "next": {
-                "title": "Example command",
-                "permalink": "/docs/architecture-overview/example-command"
-              }
-            },
-            {
-              "unversionedId": "architecture-overview/README",
-              "id": "architecture-overview/README",
+              "unversionedId": "Architecture/README",
+              "id": "Architecture/README",
               "isDocsHomePage": false,
               "title": "Kata Containers Architecture",
               "description": "Overview",
-              "source": "@site/docs/architecture-overview/README.md",
-              "sourceDirName": "architecture-overview",
-              "slug": "/architecture-overview/README",
-              "permalink": "/docs/architecture-overview/README",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/README.md",
+              "source": "@site/docs/Architecture/README.md",
+              "sourceDirName": "Architecture",
+              "slug": "/Architecture/README",
+              "permalink": "/docs/intro/docs/Architecture/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/README.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -378,40 +636,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "vCPU sizing | GOLANG",
-                "permalink": "/docs/Runtimes/vcpu-handling-runtime-go"
+                "title": "API Hooks Handling",
+                "permalink": "/docs/intro/docs/API Reference/hooks-handling"
               },
               "next": {
                 "title": "Architecture History",
-                "permalink": "/docs/architecture-overview/history"
-              }
-            },
-            {
-              "unversionedId": "architecture-overview/storage",
-              "id": "architecture-overview/storage",
-              "isDocsHomePage": false,
-              "title": "Storage",
-              "description": "Limits",
-              "source": "@site/docs/architecture-overview/storage.md",
-              "sourceDirName": "architecture-overview",
-              "slug": "/architecture-overview/storage",
-              "permalink": "/docs/architecture-overview/storage",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/storage.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_label": "Storage",
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Background Knowledge",
-                "permalink": "/docs/architecture-overview/background"
-              },
-              "next": {
-                "title": "Networking",
-                "permalink": "/docs/architecture-overview/networking"
+                "permalink": "/docs/intro/docs/Architecture/history"
               }
             },
             {
@@ -423,8 +653,8 @@
               "source": "@site/docs/design/kata-2-0-metrics.md",
               "sourceDirName": "design",
               "slug": "/design/kata-2-0-metrics",
-              "permalink": "/docs/design/kata-2-0-metrics",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/design/kata-2-0-metrics.md",
+              "permalink": "/docs/intro/docs/design/kata-2-0-metrics",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/design/kata-2-0-metrics.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -434,11 +664,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Nydus Design Proposal",
-                "permalink": "/docs/design/kata-nydus-design"
+                "permalink": "/docs/intro/docs/design/kata-nydus-design"
               },
               "next": {
-                "title": "Host cgroup Management",
-                "permalink": "/docs/networking/host-cgroups"
+                "title": "inotify",
+                "permalink": "/docs/intro/docs/inotify"
               }
             },
             {
@@ -450,8 +680,8 @@
               "source": "@site/docs/design/kata-api-design.md",
               "sourceDirName": "design",
               "slug": "/design/kata-api-design",
-              "permalink": "/docs/design/kata-api-design",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/design/kata-api-design.md",
+              "permalink": "/docs/intro/docs/design/kata-api-design",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/design/kata-api-design.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -461,12 +691,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Kubernetes Support",
-                "permalink": "/docs/architecture-overview/kubernetes"
+                "title": "Kata Containers & vSOCKS",
+                "permalink": "/docs/intro/docs/Virtualization/VSocks"
               },
               "next": {
                 "title": "Design Requirements",
-                "permalink": "/docs/design/kata-design-requirements"
+                "permalink": "/docs/intro/docs/design/kata-design-requirements"
               }
             },
             {
@@ -478,8 +708,8 @@
               "source": "@site/docs/design/kata-design-requirements.md",
               "sourceDirName": "design",
               "slug": "/design/kata-design-requirements",
-              "permalink": "/docs/design/kata-design-requirements",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/design/kata-design-requirements.md",
+              "permalink": "/docs/intro/docs/design/kata-design-requirements",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/design/kata-design-requirements.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -490,11 +720,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "API Design",
-                "permalink": "/docs/design/kata-api-design"
+                "permalink": "/docs/intro/docs/design/kata-api-design"
               },
               "next": {
-                "title": "Nydus Design Proposal",
-                "permalink": "/docs/design/kata-nydus-design"
+                "title": "vCPU Pinning Feature",
+                "permalink": "/docs/intro/docs/design/vcpu-threads-pinning"
               }
             },
             {
@@ -506,8 +736,8 @@
               "source": "@site/docs/design/kata-nydus-design.md",
               "sourceDirName": "design",
               "slug": "/design/kata-nydus-design",
-              "permalink": "/docs/design/kata-nydus-design",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/design/kata-nydus-design.md",
+              "permalink": "/docs/intro/docs/design/kata-nydus-design",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/design/kata-nydus-design.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 9,
@@ -517,25 +747,133 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Design Requirements",
-                "permalink": "/docs/design/kata-design-requirements"
+                "title": "vCPU Pinning Feature",
+                "permalink": "/docs/intro/docs/design/vcpu-threads-pinning"
               },
               "next": {
                 "title": "Kata 2.0 Metrics Design",
-                "permalink": "/docs/design/kata-2-0-metrics"
+                "permalink": "/docs/intro/docs/design/kata-2-0-metrics"
               }
             },
             {
-              "unversionedId": "Installation/quickstart",
-              "id": "Installation/quickstart",
+              "unversionedId": "design/vcpu-threads-pinning",
+              "id": "design/vcpu-threads-pinning",
+              "isDocsHomePage": false,
+              "title": "Design Doc for Kata Containers' VCPUs Pinning Feature",
+              "description": "Background",
+              "source": "@site/docs/design/vcpu-threads-pinning.md",
+              "sourceDirName": "design",
+              "slug": "/design/vcpu-threads-pinning",
+              "permalink": "/docs/intro/docs/design/vcpu-threads-pinning",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/design/vcpu-threads-pinning.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "sidebar_label": "vCPU Pinning Feature"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Design Requirements",
+                "permalink": "/docs/intro/docs/design/kata-design-requirements"
+              },
+              "next": {
+                "title": "Nydus Design Proposal",
+                "permalink": "/docs/intro/docs/design/kata-nydus-design"
+              }
+            },
+            {
+              "unversionedId": "inotify",
+              "id": "inotify",
+              "isDocsHomePage": false,
+              "title": "inotify",
+              "description": "---",
+              "source": "@site/docs/inotify.md",
+              "sourceDirName": ".",
+              "slug": "/inotify",
+              "permalink": "/docs/intro/docs/inotify",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/inotify.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Kata 2.0 Metrics Design",
+                "permalink": "/docs/intro/docs/design/kata-2-0-metrics"
+              },
+              "next": {
+                "title": "Kata Containers installation guides",
+                "permalink": "/docs/intro/docs/install/README"
+              }
+            },
+            {
+              "unversionedId": "install/example-command",
+              "id": "install/example-command",
+              "isDocsHomePage": false,
+              "title": "Example command",
+              "description": "The following containerd command creates a container. It is referred",
+              "source": "@site/docs/install/example-command.md",
+              "sourceDirName": "install",
+              "slug": "/install/example-command",
+              "permalink": "/docs/intro/docs/install/example-command",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/install/example-command.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7,
+                "sidebar_label": "Example command"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Quickstart",
+                "permalink": "/docs/intro/docs/install/quickstart"
+              },
+              "next": {
+                "title": "Host cgroup Management",
+                "permalink": "/docs/intro/docs/networking/host-cgroups"
+              }
+            },
+            {
+              "unversionedId": "install/kata-deploy",
+              "id": "install/kata-deploy",
+              "isDocsHomePage": false,
+              "title": "kata-deploy",
+              "description": "kata-deploy provides a Dockerfile, which contains all of the binaries",
+              "source": "@site/docs/install/kata-deploy.md",
+              "sourceDirName": "install",
+              "slug": "/install/kata-deploy",
+              "permalink": "/docs/intro/docs/install/kata-deploy",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/install/kata-deploy.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "sidebar_label": "Install with kata-deploy (Recommended)"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Kata Containers installation guides",
+                "permalink": "/docs/intro/docs/install/README"
+              },
+              "next": {
+                "title": "Quickstart",
+                "permalink": "/docs/intro/docs/install/quickstart"
+              }
+            },
+            {
+              "unversionedId": "install/quickstart",
+              "id": "install/quickstart",
               "isDocsHomePage": false,
               "title": "Kata Containers installation guides",
               "description": "The following is an overview of the different installation methods available.",
-              "source": "@site/docs/Installation/quickstart.md",
-              "sourceDirName": "Installation",
-              "slug": "/Installation/quickstart",
-              "permalink": "/docs/Installation/quickstart",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Installation/quickstart.md",
+              "source": "@site/docs/install/quickstart.md",
+              "sourceDirName": "install",
+              "slug": "/install/quickstart",
+              "permalink": "/docs/intro/docs/install/quickstart",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/install/quickstart.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -545,12 +883,39 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "vCPU Pinning Feature",
-                "permalink": "/docs/vcpu-threads-pinning"
+                "title": "Install with kata-deploy (Recommended)",
+                "permalink": "/docs/intro/docs/install/kata-deploy"
               },
               "next": {
-                "title": "vCPU Handling | RUST",
-                "permalink": "/docs/Runtimes/vcpu-handling-runtime-rs"
+                "title": "Example command",
+                "permalink": "/docs/intro/docs/install/example-command"
+              }
+            },
+            {
+              "unversionedId": "install/README",
+              "id": "install/README",
+              "isDocsHomePage": false,
+              "title": "Kata Containers installation guides",
+              "description": "The following is an overview of the different installation methods available.",
+              "source": "@site/docs/install/README.md",
+              "sourceDirName": "install",
+              "slug": "/install/README",
+              "permalink": "/docs/intro/docs/install/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/install/README.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "inotify",
+                "permalink": "/docs/intro/docs/inotify"
+              },
+              "next": {
+                "title": "Install with kata-deploy (Recommended)",
+                "permalink": "/docs/intro/docs/install/kata-deploy"
               }
             },
             {
@@ -562,8 +927,8 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md",
+              "permalink": "/docs/intro/docs/intro",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/intro.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -574,7 +939,63 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "System Requirements",
-                "permalink": "/docs/requirements"
+                "permalink": "/docs/intro/docs/requirements"
+              }
+            },
+            {
+              "unversionedId": "networking/agent-systemd-cgroup",
+              "id": "networking/agent-systemd-cgroup",
+              "isDocsHomePage": false,
+              "title": "Systemd Cgroup for Agent",
+              "description": "As we know, we can interact with cgroups in two ways, cgroupfs and systemd. The former is achieved by reading and writing cgroup tmpfs files under /sys/fs/cgroup while the latter is done by configuring a transient unit by requesting systemd. Kata agent uses cgroupfs by default, unless you pass the parameter --systemd-cgroup.",
+              "source": "@site/docs/networking/agent-systemd-cgroup.md",
+              "sourceDirName": "networking",
+              "slug": "/networking/agent-systemd-cgroup",
+              "permalink": "/docs/intro/docs/networking/agent-systemd-cgroup",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/networking/agent-systemd-cgroup.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "sidebar_label": "Systemd Cgroup for Agent"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Host cgroup Management",
+                "permalink": "/docs/intro/docs/networking/host-cgroups"
+              },
+              "next": {
+                "title": "Networking",
+                "permalink": "/docs/intro/docs/networking/networking"
+              }
+            },
+            {
+              "unversionedId": "networking/end-to-end-flow",
+              "id": "networking/end-to-end-flow",
+              "isDocsHomePage": false,
+              "title": "Kata Containers E2E Flow",
+              "description": "Kata containers e2e flow",
+              "source": "@site/docs/networking/end-to-end-flow.md",
+              "sourceDirName": "networking",
+              "slug": "/networking/end-to-end-flow",
+              "permalink": "/docs/intro/docs/networking/end-to-end-flow",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/networking/end-to-end-flow.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11,
+                "sidebar_label": "Kata Containers E2E Flow Diagram"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Networking",
+                "permalink": "/docs/intro/docs/networking/networking"
+              },
+              "next": {
+                "title": "Design Proposals",
+                "permalink": "/docs/intro/docs/proposals/README"
               }
             },
             {
@@ -586,8 +1007,8 @@
               "source": "@site/docs/networking/host-cgroups.md",
               "sourceDirName": "networking",
               "slug": "/networking/host-cgroups",
-              "permalink": "/docs/networking/host-cgroups",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/networking/host-cgroups.md",
+              "permalink": "/docs/intro/docs/networking/host-cgroups",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/networking/host-cgroups.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -597,8 +1018,96 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Kata 2.0 Metrics Design",
-                "permalink": "/docs/design/kata-2-0-metrics"
+                "title": "Example command",
+                "permalink": "/docs/intro/docs/install/example-command"
+              },
+              "next": {
+                "title": "Systemd Cgroup for Agent",
+                "permalink": "/docs/intro/docs/networking/agent-systemd-cgroup"
+              }
+            },
+            {
+              "unversionedId": "networking/networking",
+              "id": "networking/networking",
+              "isDocsHomePage": false,
+              "title": "Networking",
+              "description": "Containers typically live in their own, possibly shared, networking namespace.",
+              "source": "@site/docs/networking/networking.md",
+              "sourceDirName": "networking",
+              "slug": "/networking/networking",
+              "permalink": "/docs/intro/docs/networking/networking",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/networking/networking.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_label": "Networking",
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Systemd Cgroup for Agent",
+                "permalink": "/docs/intro/docs/networking/agent-systemd-cgroup"
+              },
+              "next": {
+                "title": "Kata Containers E2E Flow Diagram",
+                "permalink": "/docs/intro/docs/networking/end-to-end-flow"
+              }
+            },
+            {
+              "unversionedId": "proposals/README",
+              "id": "proposals/README",
+              "isDocsHomePage": false,
+              "title": "Design proposals",
+              "description": "Kata Containers design proposal documents:",
+              "source": "@site/docs/proposals/README.md",
+              "sourceDirName": "proposals",
+              "slug": "/proposals/README",
+              "permalink": "/docs/intro/docs/proposals/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/proposals/README.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "Design Proposals"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Kata Containers E2E Flow Diagram",
+                "permalink": "/docs/intro/docs/networking/end-to-end-flow"
+              },
+              "next": {
+                "title": "Tracing Proposals",
+                "permalink": "/docs/intro/docs/proposals/tracing-proposals"
+              }
+            },
+            {
+              "unversionedId": "proposals/tracing-proposals",
+              "id": "proposals/tracing-proposals",
+              "isDocsHomePage": false,
+              "title": "Kata Tracing proposals",
+              "description": "Overview",
+              "source": "@site/docs/proposals/tracing-proposals.md",
+              "sourceDirName": "proposals",
+              "slug": "/proposals/tracing-proposals",
+              "permalink": "/docs/intro/docs/proposals/tracing-proposals",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/proposals/tracing-proposals.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "sidebar_label": "Tracing Proposals"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Design Proposals",
+                "permalink": "/docs/intro/docs/proposals/README"
+              },
+              "next": {
+                "title": "osbuilder",
+                "permalink": "/docs/intro/docs/tools/osbuilder/README"
               }
             },
             {
@@ -610,8 +1119,8 @@
               "source": "@site/docs/requirements.md",
               "sourceDirName": ".",
               "slug": "/requirements",
-              "permalink": "/docs/requirements",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/requirements.md",
+              "permalink": "/docs/intro/docs/requirements",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/requirements.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -622,11 +1131,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introduction",
-                "permalink": "/docs/intro"
+                "permalink": "/docs/intro/docs/intro"
               },
               "next": {
-                "title": "vCPU Pinning Feature",
-                "permalink": "/docs/vcpu-threads-pinning"
+                "title": "API Hooks Handling",
+                "permalink": "/docs/intro/docs/API Reference/hooks-handling"
               }
             },
             {
@@ -638,8 +1147,8 @@
               "source": "@site/docs/Runtimes/vcpu-handling-runtime-go.md",
               "sourceDirName": "Runtimes",
               "slug": "/Runtimes/vcpu-handling-runtime-go",
-              "permalink": "/docs/Runtimes/vcpu-handling-runtime-go",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Runtimes/vcpu-handling-runtime-go.md",
+              "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-go",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/Runtimes/vcpu-handling-runtime-go.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -650,11 +1159,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "vCPU Handling | RUST",
-                "permalink": "/docs/Runtimes/vcpu-handling-runtime-rs"
+                "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs"
               },
               "next": {
-                "title": "Kata Containers Architecture",
-                "permalink": "/docs/architecture-overview/README"
+                "title": "Motivation",
+                "permalink": "/docs/intro/docs/Storage/direct-blk-device-assignment"
               }
             },
             {
@@ -666,8 +1175,8 @@
               "source": "@site/docs/Runtimes/vcpu-handling-runtime-rs.md",
               "sourceDirName": "Runtimes",
               "slug": "/Runtimes/vcpu-handling-runtime-rs",
-              "permalink": "/docs/Runtimes/vcpu-handling-runtime-rs",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Runtimes/vcpu-handling-runtime-rs.md",
+              "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/Runtimes/vcpu-handling-runtime-rs.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -677,40 +1186,529 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Quickstart",
-                "permalink": "/docs/Installation/quickstart"
+                "title": "Kubernetes Support",
+                "permalink": "/docs/intro/docs/Architecture/kubernetes"
               },
               "next": {
                 "title": "vCPU sizing | GOLANG",
-                "permalink": "/docs/Runtimes/vcpu-handling-runtime-go"
+                "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-go"
               }
             },
             {
-              "unversionedId": "vcpu-threads-pinning",
-              "id": "vcpu-threads-pinning",
+              "unversionedId": "Storage/direct-blk-device-assignment",
+              "id": "Storage/direct-blk-device-assignment",
               "isDocsHomePage": false,
-              "title": "Design Doc for Kata Containers' VCPUs Pinning Feature",
-              "description": "Background",
-              "source": "@site/docs/vcpu-threads-pinning.md",
-              "sourceDirName": ".",
-              "slug": "/vcpu-threads-pinning",
-              "permalink": "/docs/vcpu-threads-pinning",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/vcpu-threads-pinning.md",
+              "title": "Motivation",
+              "description": "Today, there exist a few gaps between Container Storage Interface (CSI) and virtual machine (VM) based runtimes such as Kata Containers",
+              "source": "@site/docs/Storage/direct-blk-device-assignment.md",
+              "sourceDirName": "Storage",
+              "slug": "/Storage/direct-blk-device-assignment",
+              "permalink": "/docs/intro/docs/Storage/direct-blk-device-assignment",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/Storage/direct-blk-device-assignment.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "Motivation"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "vCPU sizing | GOLANG",
+                "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-go"
+              },
+              "next": {
+                "title": "Storage",
+                "permalink": "/docs/intro/docs/Storage/storage"
+              }
+            },
+            {
+              "unversionedId": "Storage/storage",
+              "id": "Storage/storage",
+              "isDocsHomePage": false,
+              "title": "Storage",
+              "description": "Limits",
+              "source": "@site/docs/Storage/storage.md",
+              "sourceDirName": "Storage",
+              "slug": "/Storage/storage",
+              "permalink": "/docs/intro/docs/Storage/storage",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/Storage/storage.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_label": "Storage",
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Motivation",
+                "permalink": "/docs/intro/docs/Storage/direct-blk-device-assignment"
+              },
+              "next": {
+                "title": "Virtualization Reference Architecture",
+                "permalink": "/docs/intro/docs/Virtualization/kata-vra"
+              }
+            },
+            {
+              "unversionedId": "tools/osbuilder/dockerfiles/QAT/README",
+              "id": "tools/osbuilder/dockerfiles/QAT/README",
+              "isDocsHomePage": false,
+              "title": "README",
+              "description": "Introduction",
+              "source": "@site/docs/tools/osbuilder/dockerfiles/QAT/README.md",
+              "sourceDirName": "tools/osbuilder/dockerfiles/QAT",
+              "slug": "/tools/osbuilder/dockerfiles/QAT/README",
+              "permalink": "/docs/intro/docs/tools/osbuilder/dockerfiles/QAT/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/osbuilder/dockerfiles/QAT/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "osbuilder",
+                "permalink": "/docs/intro/docs/tools/osbuilder/README"
+              },
+              "next": {
+                "title": "Kata Containers image generation",
+                "permalink": "/docs/intro/docs/tools/osbuilder/image-builder/README"
+              }
+            },
+            {
+              "unversionedId": "tools/osbuilder/image-builder/README",
+              "id": "tools/osbuilder/image-builder/README",
+              "isDocsHomePage": false,
+              "title": "Kata Containers image generation",
+              "description": "A Kata Containers disk image is generated using the image_builder.sh script.",
+              "source": "@site/docs/tools/osbuilder/image-builder/README.md",
+              "sourceDirName": "tools/osbuilder/image-builder",
+              "slug": "/tools/osbuilder/image-builder/README",
+              "permalink": "/docs/intro/docs/tools/osbuilder/image-builder/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/osbuilder/image-builder/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "README",
+                "permalink": "/docs/intro/docs/tools/osbuilder/dockerfiles/QAT/README"
+              },
+              "next": {
+                "title": "Kata Containers initrd image generation",
+                "permalink": "/docs/intro/docs/tools/osbuilder/initrd-builder/README"
+              }
+            },
+            {
+              "unversionedId": "tools/osbuilder/initrd-builder/README",
+              "id": "tools/osbuilder/initrd-builder/README",
+              "isDocsHomePage": false,
+              "title": "Kata Containers initrd image generation",
+              "description": "A Kata Containers initrd image is generated using the initrd_builder.sh script.",
+              "source": "@site/docs/tools/osbuilder/initrd-builder/README.md",
+              "sourceDirName": "tools/osbuilder/initrd-builder",
+              "slug": "/tools/osbuilder/initrd-builder/README",
+              "permalink": "/docs/intro/docs/tools/osbuilder/initrd-builder/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/osbuilder/initrd-builder/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Kata Containers image generation",
+                "permalink": "/docs/intro/docs/tools/osbuilder/image-builder/README"
+              },
+              "next": {
+                "title": "Building a Guest OS rootfs for Kata Containers",
+                "permalink": "/docs/intro/docs/tools/osbuilder/rootfs-builder/README"
+              }
+            },
+            {
+              "unversionedId": "tools/osbuilder/README",
+              "id": "tools/osbuilder/README",
+              "isDocsHomePage": false,
+              "title": "osbuilder",
+              "description": "Introduction",
+              "source": "@site/docs/tools/osbuilder/README.md",
+              "sourceDirName": "tools/osbuilder",
+              "slug": "/tools/osbuilder/README",
+              "permalink": "/docs/intro/docs/tools/osbuilder/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/osbuilder/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tracing Proposals",
+                "permalink": "/docs/intro/docs/proposals/tracing-proposals"
+              },
+              "next": {
+                "title": "README",
+                "permalink": "/docs/intro/docs/tools/osbuilder/dockerfiles/QAT/README"
+              }
+            },
+            {
+              "unversionedId": "tools/osbuilder/rootfs-builder/README",
+              "id": "tools/osbuilder/rootfs-builder/README",
+              "isDocsHomePage": false,
+              "title": "Building a Guest OS rootfs for Kata Containers",
+              "description": "The Kata Containers rootfs is created using the rootfs.sh script.",
+              "source": "@site/docs/tools/osbuilder/rootfs-builder/README.md",
+              "sourceDirName": "tools/osbuilder/rootfs-builder",
+              "slug": "/tools/osbuilder/rootfs-builder/README",
+              "permalink": "/docs/intro/docs/tools/osbuilder/rootfs-builder/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/osbuilder/rootfs-builder/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Kata Containers initrd image generation",
+                "permalink": "/docs/intro/docs/tools/osbuilder/initrd-builder/README"
+              },
+              "next": {
+                "title": "README",
+                "permalink": "/docs/intro/docs/tools/osbuilder/tests/README"
+              }
+            },
+            {
+              "unversionedId": "tools/osbuilder/tests/README",
+              "id": "tools/osbuilder/tests/README",
+              "isDocsHomePage": false,
+              "title": "README",
+              "description": "Run the osbuilder tests",
+              "source": "@site/docs/tools/osbuilder/tests/README.md",
+              "sourceDirName": "tools/osbuilder/tests",
+              "slug": "/tools/osbuilder/tests/README",
+              "permalink": "/docs/intro/docs/tools/osbuilder/tests/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/osbuilder/tests/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Building a Guest OS rootfs for Kata Containers",
+                "permalink": "/docs/intro/docs/tools/osbuilder/rootfs-builder/README"
+              },
+              "next": {
+                "title": "Kata Containers packaging",
+                "permalink": "/docs/intro/docs/tools/packaging/README"
+              }
+            },
+            {
+              "unversionedId": "tools/packaging/kata-debug/README",
+              "id": "tools/packaging/kata-debug/README",
+              "isDocsHomePage": false,
+              "title": "kata-debug",
+              "description": "kata-debug is a tool that is used as part of the Kata Containers CI to gather",
+              "source": "@site/docs/tools/packaging/kata-debug/README.md",
+              "sourceDirName": "tools/packaging/kata-debug",
+              "slug": "/tools/packaging/kata-debug/README",
+              "permalink": "/docs/intro/docs/tools/packaging/kata-debug/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/kata-debug/README.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Kata Containers packaging",
+                "permalink": "/docs/intro/docs/tools/packaging/README"
+              },
+              "next": {
+                "title": "kata-deploy",
+                "permalink": "/docs/intro/docs/tools/packaging/kata-deploy/README"
+              }
+            },
+            {
+              "unversionedId": "tools/packaging/kata-deploy/README",
+              "id": "tools/packaging/kata-deploy/README",
+              "isDocsHomePage": false,
+              "title": "kata-deploy",
+              "description": "kata-deploy provides a Dockerfile, which contains all of the binaries",
+              "source": "@site/docs/tools/packaging/kata-deploy/README.md",
+              "sourceDirName": "tools/packaging/kata-deploy",
+              "slug": "/tools/packaging/kata-deploy/README",
+              "permalink": "/docs/intro/docs/tools/packaging/kata-deploy/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/kata-deploy/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "kata-debug",
+                "permalink": "/docs/intro/docs/tools/packaging/kata-debug/README"
+              },
+              "next": {
+                "title": "Build Kata Containers Kernel",
+                "permalink": "/docs/intro/docs/tools/packaging/kernel/README"
+              }
+            },
+            {
+              "unversionedId": "tools/packaging/kernel/configs/README",
+              "id": "tools/packaging/kernel/configs/README",
+              "isDocsHomePage": false,
+              "title": "Kata Containers kernel config files",
+              "description": "This directory contains Linux Kernel config files used to configure Kata",
+              "source": "@site/docs/tools/packaging/kernel/configs/README.md",
+              "sourceDirName": "tools/packaging/kernel/configs",
+              "slug": "/tools/packaging/kernel/configs/README",
+              "permalink": "/docs/intro/docs/tools/packaging/kernel/configs/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/kernel/configs/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Build Kata Containers Kernel",
+                "permalink": "/docs/intro/docs/tools/packaging/kernel/README"
+              },
+              "next": {
+                "title": "QEMU patches",
+                "permalink": "/docs/intro/docs/tools/packaging/qemu/README"
+              }
+            },
+            {
+              "unversionedId": "tools/packaging/kernel/README",
+              "id": "tools/packaging/kernel/README",
+              "isDocsHomePage": false,
+              "title": "Build Kata Containers Kernel",
+              "description": "This document explains the steps to build a kernel recommended for use with",
+              "source": "@site/docs/tools/packaging/kernel/README.md",
+              "sourceDirName": "tools/packaging/kernel",
+              "slug": "/tools/packaging/kernel/README",
+              "permalink": "/docs/intro/docs/tools/packaging/kernel/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/kernel/README.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "kata-deploy",
+                "permalink": "/docs/intro/docs/tools/packaging/kata-deploy/README"
+              },
+              "next": {
+                "title": "Kata Containers kernel config files",
+                "permalink": "/docs/intro/docs/tools/packaging/kernel/configs/README"
+              }
+            },
+            {
+              "unversionedId": "tools/packaging/qemu/README",
+              "id": "tools/packaging/qemu/README",
+              "isDocsHomePage": false,
+              "title": "QEMU patches",
+              "description": "This directory contains patches used to build QEMU.",
+              "source": "@site/docs/tools/packaging/qemu/README.md",
+              "sourceDirName": "tools/packaging/qemu",
+              "slug": "/tools/packaging/qemu/README",
+              "permalink": "/docs/intro/docs/tools/packaging/qemu/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/qemu/README.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Kata Containers kernel config files",
+                "permalink": "/docs/intro/docs/tools/packaging/kernel/configs/README"
+              },
+              "next": {
+                "title": "Release information",
+                "permalink": "/docs/intro/docs/tools/packaging/release/README"
+              }
+            },
+            {
+              "unversionedId": "tools/packaging/README",
+              "id": "tools/packaging/README",
+              "isDocsHomePage": false,
+              "title": "Kata Containers packaging",
+              "description": "Introduction",
+              "source": "@site/docs/tools/packaging/README.md",
+              "sourceDirName": "tools/packaging",
+              "slug": "/tools/packaging/README",
+              "permalink": "/docs/intro/docs/tools/packaging/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/README.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "README",
+                "permalink": "/docs/intro/docs/tools/osbuilder/tests/README"
+              },
+              "next": {
+                "title": "kata-debug",
+                "permalink": "/docs/intro/docs/tools/packaging/kata-debug/README"
+              }
+            },
+            {
+              "unversionedId": "tools/packaging/release/README",
+              "id": "tools/packaging/release/README",
+              "isDocsHomePage": false,
+              "title": "Release information",
+              "description": "Introduction",
+              "source": "@site/docs/tools/packaging/release/README.md",
+              "sourceDirName": "tools/packaging/release",
+              "slug": "/tools/packaging/release/README",
+              "permalink": "/docs/intro/docs/tools/packaging/release/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/release/README.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "QEMU patches",
+                "permalink": "/docs/intro/docs/tools/packaging/qemu/README"
+              },
+              "next": {
+                "title": "Packaging scripts",
+                "permalink": "/docs/intro/docs/tools/packaging/scripts/README"
+              }
+            },
+            {
+              "unversionedId": "tools/packaging/scripts/README",
+              "id": "tools/packaging/scripts/README",
+              "isDocsHomePage": false,
+              "title": "Packaging scripts",
+              "description": "This directory contains useful packaging scripts.",
+              "source": "@site/docs/tools/packaging/scripts/README.md",
+              "sourceDirName": "tools/packaging/scripts",
+              "slug": "/tools/packaging/scripts/README",
+              "permalink": "/docs/intro/docs/tools/packaging/scripts/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/scripts/README.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Release information",
+                "permalink": "/docs/intro/docs/tools/packaging/release/README"
+              },
+              "next": {
+                "title": "Static build",
+                "permalink": "/docs/intro/docs/tools/packaging/static-build/README"
+              }
+            },
+            {
+              "unversionedId": "tools/packaging/static-build/README",
+              "id": "tools/packaging/static-build/README",
+              "isDocsHomePage": false,
+              "title": "Static build",
+              "description": "This directory contains files to build static versions of Kata Containers.",
+              "source": "@site/docs/tools/packaging/static-build/README.md",
+              "sourceDirName": "tools/packaging/static-build",
+              "slug": "/tools/packaging/static-build/README",
+              "permalink": "/docs/intro/docs/tools/packaging/static-build/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/static-build/README.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Packaging scripts",
+                "permalink": "/docs/intro/docs/tools/packaging/scripts/README"
+              }
+            },
+            {
+              "unversionedId": "Virtualization/kata-vra",
+              "id": "Virtualization/kata-vra",
+              "isDocsHomePage": false,
+              "title": "Virtualization Reference Architecture",
+              "description": "Subject to Change | © 2022 by NVIDIA Corporation. All rights reserved. | For test and development only_",
+              "source": "@site/docs/Virtualization/kata-vra.md",
+              "sourceDirName": "Virtualization",
+              "slug": "/Virtualization/kata-vra",
+              "permalink": "/docs/intro/docs/Virtualization/kata-vra",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/Virtualization/kata-vra.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "Virtualization Reference Architecture"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Storage",
+                "permalink": "/docs/intro/docs/Storage/storage"
+              },
+              "next": {
+                "title": "Virtualization in Kata Containers",
+                "permalink": "/docs/intro/docs/Virtualization/virtualization"
+              }
+            },
+            {
+              "unversionedId": "Virtualization/virtualization",
+              "id": "Virtualization/virtualization",
+              "isDocsHomePage": false,
+              "title": "Virtualization in Kata Containers",
+              "description": "Kata Containers, a second layer of isolation is created on top of those provided by traditional namespace-containers. The",
+              "source": "@site/docs/Virtualization/virtualization.md",
+              "sourceDirName": "Virtualization",
+              "slug": "/Virtualization/virtualization",
+              "permalink": "/docs/intro/docs/Virtualization/virtualization",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/Virtualization/virtualization.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "sidebar_label": "Virtualization in Kata Containers"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Virtualization Reference Architecture",
+                "permalink": "/docs/intro/docs/Virtualization/kata-vra"
+              },
+              "next": {
+                "title": "Kata Containers & vSOCKS",
+                "permalink": "/docs/intro/docs/Virtualization/VSocks"
+              }
+            },
+            {
+              "unversionedId": "Virtualization/VSocks",
+              "id": "Virtualization/VSocks",
+              "isDocsHomePage": false,
+              "title": "Kata Containers and VSOCKs",
+              "description": "Introduction",
+              "source": "@site/docs/Virtualization/VSocks.md",
+              "sourceDirName": "Virtualization",
+              "slug": "/Virtualization/VSocks",
+              "permalink": "/docs/intro/docs/Virtualization/VSocks",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/Virtualization/VSocks.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
                 "sidebar_position": 3,
-                "sidebar_label": "vCPU Pinning Feature"
+                "sidebar_label": "Kata Containers & vSOCKS"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "System Requirements",
-                "permalink": "/docs/requirements"
+                "title": "Virtualization in Kata Containers",
+                "permalink": "/docs/intro/docs/Virtualization/virtualization"
               },
               "next": {
-                "title": "Quickstart",
-                "permalink": "/docs/Installation/quickstart"
+                "title": "API Design",
+                "permalink": "/docs/intro/docs/design/kata-api-design"
               }
             }
           ]
@@ -725,7 +1723,7 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/blog/welcome",
+            "permalink": "/docs/intro/blog/welcome",
             "editUrl": "https://katacontainers.io/blog/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
@@ -735,15 +1733,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/blog/tags/facebook"
+                "permalink": "/docs/intro/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/docs/intro/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/docs/intro/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -766,14 +1764,14 @@
             ],
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/docs/intro/blog/mdx-blog-post"
             }
           }
         },
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/blog/mdx-blog-post",
+            "permalink": "/docs/intro/blog/mdx-blog-post",
             "editUrl": "https://katacontainers.io/blog/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
@@ -783,7 +1781,7 @@
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/docs/intro/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -799,18 +1797,18 @@
             ],
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/blog/welcome"
+              "permalink": "/docs/intro/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/docs/intro/blog/long-blog-post"
             }
           }
         },
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/blog/long-blog-post",
+            "permalink": "/docs/intro/blog/long-blog-post",
             "editUrl": "https://katacontainers.io/blog/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
@@ -820,11 +1818,11 @@
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/docs/intro/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/docs/intro/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -840,18 +1838,18 @@
             ],
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/docs/intro/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/blog/first-blog-post"
+              "permalink": "/docs/intro/blog/first-blog-post"
             }
           }
         },
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/blog/first-blog-post",
+            "permalink": "/docs/intro/blog/first-blog-post",
             "editUrl": "https://katacontainers.io/blog/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
@@ -861,11 +1859,11 @@
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/blog/tags/hola"
+                "permalink": "/docs/intro/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/docs/intro/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -881,7 +1879,7 @@
             ],
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/docs/intro/blog/long-blog-post"
             }
           }
         }
@@ -889,7 +1887,7 @@
       "blogListPaginated": [
         {
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "/docs/intro/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -908,22 +1906,22 @@
         }
       ],
       "blogTags": {
-        "/blog/tags/facebook": {
+        "/docs/intro/blog/tags/facebook": {
           "name": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/blog/tags/facebook"
+          "permalink": "/docs/intro/blog/tags/facebook"
         },
-        "/blog/tags/hello": {
+        "/docs/intro/blog/tags/hello": {
           "name": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/blog/tags/hello"
+          "permalink": "/docs/intro/blog/tags/hello"
         },
-        "/blog/tags/docusaurus": {
+        "/docs/intro/blog/tags/docusaurus": {
           "name": "docusaurus",
           "items": [
             "welcome",
@@ -931,29 +1929,29 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/docusaurus"
+          "permalink": "/docs/intro/blog/tags/docusaurus"
         },
-        "/blog/tags/hola": {
+        "/docs/intro/blog/tags/hola": {
           "name": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/hola"
+          "permalink": "/docs/intro/blog/tags/hola"
         }
       },
-      "blogTagsListPath": "/blog/tags"
+      "blogTagsListPath": "/docs/intro/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/docs/intro/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/docs/intro/markdown-page",
         "source": "@site/src/pages/markdown-page.md"
       }
     ]

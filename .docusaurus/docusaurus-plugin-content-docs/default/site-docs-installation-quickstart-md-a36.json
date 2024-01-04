@@ -7,8 +7,8 @@
   "source": "@site/docs/Installation/quickstart.md",
   "sourceDirName": "Installation",
   "slug": "/Installation/quickstart",
-  "permalink": "/docs/Installation/quickstart",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Installation/quickstart.md",
+  "permalink": "/docs/intro/docs/Installation/quickstart",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/Installation/quickstart.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -18,11 +18,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "vCPU Pinning Feature",
-    "permalink": "/docs/vcpu-threads-pinning"
+    "title": "Install with kata-deploy (Recommended)",
+    "permalink": "/docs/intro/docs/Installation/kata-deploy"
   },
   "next": {
     "title": "vCPU Handling | RUST",
-    "permalink": "/docs/Runtimes/vcpu-handling-runtime-rs"
+    "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs"
   }
 }

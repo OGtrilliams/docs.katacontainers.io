@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/osbuilder/README",
+  "id": "tools/osbuilder/README",
+  "isDocsHomePage": false,
+  "title": "osbuilder",
+  "description": "Introduction",
+  "source": "@site/docs/tools/osbuilder/README.md",
+  "sourceDirName": "tools/osbuilder",
+  "slug": "/tools/osbuilder/README",
+  "permalink": "/docs/intro/docs/tools/osbuilder/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/osbuilder/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tracing Proposals",
+    "permalink": "/docs/intro/docs/proposals/tracing-proposals"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/osbuilder/dockerfiles/QAT/README"
+  }
+}

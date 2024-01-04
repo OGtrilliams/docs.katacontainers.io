@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Architecture/example-command",
+  "id": "Architecture/example-command",
+  "isDocsHomePage": false,
+  "title": "Example command",
+  "description": "The following containerd command creates a container. It is referred",
+  "source": "@site/docs/Architecture/example-command.md",
+  "sourceDirName": "Architecture",
+  "slug": "/Architecture/example-command",
+  "permalink": "/docs/intro/docs/Architecture/example-command",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/example-command.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "sidebar_label": "Example command"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Background Knowledge",
+    "permalink": "/docs/intro/docs/Architecture/background"
+  },
+  "next": {
+    "title": "Guest Assets",
+    "permalink": "/docs/intro/docs/Architecture/guest-assets"
+  }
+}

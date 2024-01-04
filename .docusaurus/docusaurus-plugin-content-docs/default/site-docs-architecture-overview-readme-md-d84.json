@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "vCPU sizing | GOLANG",
-    "permalink": "/docs/Runtimes/vcpu-handling-runtime-go"
+    "title": "Kata Containers & vSOCKS",
+    "permalink": "/docs/Virtualization/VSocks"
   },
   "next": {
     "title": "Architecture History",

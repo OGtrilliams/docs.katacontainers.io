@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/osbuilder/image-builder/README",
+  "id": "tools/osbuilder/image-builder/README",
+  "isDocsHomePage": false,
+  "title": "Kata Containers image generation",
+  "description": "A Kata Containers disk image is generated using the image_builder.sh script.",
+  "source": "@site/docs/tools/osbuilder/image-builder/README.md",
+  "sourceDirName": "tools/osbuilder/image-builder",
+  "slug": "/tools/osbuilder/image-builder/README",
+  "permalink": "/docs/intro/docs/tools/osbuilder/image-builder/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/osbuilder/image-builder/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/osbuilder/dockerfiles/QAT/README"
+  },
+  "next": {
+    "title": "Kata Containers initrd image generation",
+    "permalink": "/docs/intro/docs/tools/osbuilder/initrd-builder/README"
+  }
+}

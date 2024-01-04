@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/osbuilder/tests/README",
+  "id": "tools/osbuilder/tests/README",
+  "isDocsHomePage": false,
+  "title": "README",
+  "description": "Run the osbuilder tests",
+  "source": "@site/docs/tools/osbuilder/tests/README.md",
+  "sourceDirName": "tools/osbuilder/tests",
+  "slug": "/tools/osbuilder/tests/README",
+  "permalink": "/docs/intro/docs/tools/osbuilder/tests/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/osbuilder/tests/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Building a Guest OS rootfs for Kata Containers",
+    "permalink": "/docs/intro/docs/tools/osbuilder/rootfs-builder/README"
+  },
+  "next": {
+    "title": "Kata Containers packaging",
+    "permalink": "/docs/intro/docs/tools/packaging/README"
+  }
+}

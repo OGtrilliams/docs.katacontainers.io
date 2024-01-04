@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Installation/kata-deploy",
+  "id": "Installation/kata-deploy",
+  "isDocsHomePage": false,
+  "title": "kata-deploy",
+  "description": "kata-deploy provides a Dockerfile, which contains all of the binaries",
+  "source": "@site/docs/Installation/kata-deploy.md",
+  "sourceDirName": "Installation",
+  "slug": "/Installation/kata-deploy",
+  "permalink": "/docs/intro/docs/Installation/kata-deploy",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/Installation/kata-deploy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "Install with kata-deploy (Recommended)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kubernetes Support",
+    "permalink": "/docs/intro/docs/Architecture/kubernetes"
+  },
+  "next": {
+    "title": "Quickstart",
+    "permalink": "/docs/intro/docs/Installation/quickstart"
+  }
+}

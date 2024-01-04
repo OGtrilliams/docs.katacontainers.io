@@ -1,113 +1,248 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/docs/intro/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/docs/intro/docs",
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "architecture-overview/background",
-              "path": "/docs/architecture-overview/background",
+              "id": "API Reference/hooks-handling",
+              "path": "/docs/intro/docs/API Reference/hooks-handling",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "architecture-overview/example-command",
-              "path": "/docs/architecture-overview/example-command",
+              "id": "Architecture/background",
+              "path": "/docs/intro/docs/Architecture/background",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "architecture-overview/guest-assets",
-              "path": "/docs/architecture-overview/guest-assets",
+              "id": "Architecture/guest-assets",
+              "path": "/docs/intro/docs/Architecture/guest-assets",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "architecture-overview/history",
-              "path": "/docs/architecture-overview/history",
+              "id": "Architecture/history",
+              "path": "/docs/intro/docs/Architecture/history",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "architecture-overview/kata-3.0-arch",
-              "path": "/docs/architecture-overview/kata-3.0-arch",
+              "id": "Architecture/kata-3.0-arch",
+              "path": "/docs/intro/docs/Architecture/kata-3.0-arch",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "architecture-overview/kubernetes",
-              "path": "/docs/architecture-overview/kubernetes",
+              "id": "Architecture/kubernetes",
+              "path": "/docs/intro/docs/Architecture/kubernetes",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "architecture-overview/networking",
-              "path": "/docs/architecture-overview/networking",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "architecture-overview/README",
-              "path": "/docs/architecture-overview/README",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "architecture-overview/storage",
-              "path": "/docs/architecture-overview/storage",
+              "id": "Architecture/README",
+              "path": "/docs/intro/docs/Architecture/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "design/kata-2-0-metrics",
-              "path": "/docs/design/kata-2-0-metrics",
+              "path": "/docs/intro/docs/design/kata-2-0-metrics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "design/kata-api-design",
-              "path": "/docs/design/kata-api-design",
+              "path": "/docs/intro/docs/design/kata-api-design",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "design/kata-design-requirements",
-              "path": "/docs/design/kata-design-requirements",
+              "path": "/docs/intro/docs/design/kata-design-requirements",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "design/kata-nydus-design",
-              "path": "/docs/design/kata-nydus-design",
+              "path": "/docs/intro/docs/design/kata-nydus-design",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Installation/quickstart",
-              "path": "/docs/Installation/quickstart",
+              "id": "design/vcpu-threads-pinning",
+              "path": "/docs/intro/docs/design/vcpu-threads-pinning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inotify",
+              "path": "/docs/intro/docs/inotify",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "install/example-command",
+              "path": "/docs/intro/docs/install/example-command",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "install/kata-deploy",
+              "path": "/docs/intro/docs/install/kata-deploy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "install/quickstart",
+              "path": "/docs/intro/docs/install/quickstart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "install/README",
+              "path": "/docs/intro/docs/install/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/docs/intro/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "networking/agent-systemd-cgroup",
+              "path": "/docs/intro/docs/networking/agent-systemd-cgroup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "networking/end-to-end-flow",
+              "path": "/docs/intro/docs/networking/end-to-end-flow",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "networking/host-cgroups",
-              "path": "/docs/networking/host-cgroups",
+              "path": "/docs/intro/docs/networking/host-cgroups",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "networking/networking",
+              "path": "/docs/intro/docs/networking/networking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "proposals/README",
+              "path": "/docs/intro/docs/proposals/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "proposals/tracing-proposals",
+              "path": "/docs/intro/docs/proposals/tracing-proposals",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "requirements",
-              "path": "/docs/requirements",
+              "path": "/docs/intro/docs/requirements",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Runtimes/vcpu-handling-runtime-go",
-              "path": "/docs/Runtimes/vcpu-handling-runtime-go",
+              "path": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-go",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Runtimes/vcpu-handling-runtime-rs",
-              "path": "/docs/Runtimes/vcpu-handling-runtime-rs",
+              "path": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "vcpu-threads-pinning",
-              "path": "/docs/vcpu-threads-pinning",
+              "id": "Storage/direct-blk-device-assignment",
+              "path": "/docs/intro/docs/Storage/direct-blk-device-assignment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Storage/storage",
+              "path": "/docs/intro/docs/Storage/storage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/osbuilder/dockerfiles/QAT/README",
+              "path": "/docs/intro/docs/tools/osbuilder/dockerfiles/QAT/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/osbuilder/image-builder/README",
+              "path": "/docs/intro/docs/tools/osbuilder/image-builder/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/osbuilder/initrd-builder/README",
+              "path": "/docs/intro/docs/tools/osbuilder/initrd-builder/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/osbuilder/README",
+              "path": "/docs/intro/docs/tools/osbuilder/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/osbuilder/rootfs-builder/README",
+              "path": "/docs/intro/docs/tools/osbuilder/rootfs-builder/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/osbuilder/tests/README",
+              "path": "/docs/intro/docs/tools/osbuilder/tests/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/packaging/kata-debug/README",
+              "path": "/docs/intro/docs/tools/packaging/kata-debug/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/packaging/kata-deploy/README",
+              "path": "/docs/intro/docs/tools/packaging/kata-deploy/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/packaging/kernel/configs/README",
+              "path": "/docs/intro/docs/tools/packaging/kernel/configs/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/packaging/kernel/README",
+              "path": "/docs/intro/docs/tools/packaging/kernel/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/packaging/qemu/README",
+              "path": "/docs/intro/docs/tools/packaging/qemu/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/packaging/README",
+              "path": "/docs/intro/docs/tools/packaging/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/packaging/release/README",
+              "path": "/docs/intro/docs/tools/packaging/release/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/packaging/scripts/README",
+              "path": "/docs/intro/docs/tools/packaging/scripts/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/packaging/static-build/README",
+              "path": "/docs/intro/docs/tools/packaging/static-build/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Virtualization/kata-vra",
+              "path": "/docs/intro/docs/Virtualization/kata-vra",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Virtualization/virtualization",
+              "path": "/docs/intro/docs/Virtualization/virtualization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Virtualization/VSocks",
+              "path": "/docs/intro/docs/Virtualization/VSocks",
               "sidebar": "tutorialSidebar"
             }
           ]

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/kata-debug/README",
+  "id": "tools/packaging/kata-debug/README",
+  "isDocsHomePage": false,
+  "title": "kata-debug",
+  "description": "kata-debug is a tool that is used as part of the Kata Containers CI to gather",
+  "source": "@site/docs/tools/packaging/kata-debug/README.md",
+  "sourceDirName": "tools/packaging/kata-debug",
+  "slug": "/tools/packaging/kata-debug/README",
+  "permalink": "/docs/intro/docs/tools/packaging/kata-debug/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/kata-debug/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kata Containers packaging",
+    "permalink": "/docs/intro/docs/tools/packaging/README"
+  },
+  "next": {
+    "title": "kata-deploy",
+    "permalink": "/docs/intro/docs/tools/packaging/kata-deploy/README"
+  }
+}

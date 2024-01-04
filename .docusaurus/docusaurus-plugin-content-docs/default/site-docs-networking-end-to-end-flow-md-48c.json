@@ -1,0 +1,28 @@
+{
+  "unversionedId": "networking/end-to-end-flow",
+  "id": "networking/end-to-end-flow",
+  "isDocsHomePage": false,
+  "title": "Kata Containers E2E Flow",
+  "description": "Kata containers e2e flow",
+  "source": "@site/docs/networking/end-to-end-flow.md",
+  "sourceDirName": "networking",
+  "slug": "/networking/end-to-end-flow",
+  "permalink": "/docs/intro/docs/networking/end-to-end-flow",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/networking/end-to-end-flow.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11,
+    "sidebar_label": "Kata Containers E2E Flow Diagram"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Networking",
+    "permalink": "/docs/intro/docs/networking/networking"
+  },
+  "next": {
+    "title": "Design Proposals",
+    "permalink": "/docs/intro/docs/proposals/README"
+  }
+}

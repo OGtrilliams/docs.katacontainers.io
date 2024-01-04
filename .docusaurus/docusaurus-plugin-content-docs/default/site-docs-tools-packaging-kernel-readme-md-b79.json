@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/kernel/README",
+  "id": "tools/packaging/kernel/README",
+  "isDocsHomePage": false,
+  "title": "Build Kata Containers Kernel",
+  "description": "This document explains the steps to build a kernel recommended for use with",
+  "source": "@site/docs/tools/packaging/kernel/README.md",
+  "sourceDirName": "tools/packaging/kernel",
+  "slug": "/tools/packaging/kernel/README",
+  "permalink": "/docs/intro/docs/tools/packaging/kernel/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/kernel/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kata-deploy",
+    "permalink": "/docs/intro/docs/tools/packaging/kata-deploy/README"
+  },
+  "next": {
+    "title": "Kata Containers kernel config files",
+    "permalink": "/docs/intro/docs/tools/packaging/kernel/configs/README"
+  }
+}

@@ -7,8 +7,8 @@
   "source": "@site/docs/design/kata-nydus-design.md",
   "sourceDirName": "design",
   "slug": "/design/kata-nydus-design",
-  "permalink": "/docs/design/kata-nydus-design",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/design/kata-nydus-design.md",
+  "permalink": "/docs/intro/docs/design/kata-nydus-design",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/design/kata-nydus-design.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 9,
@@ -18,11 +18,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Design Requirements",
-    "permalink": "/docs/design/kata-design-requirements"
+    "title": "vCPU Pinning Feature",
+    "permalink": "/docs/intro/docs/design/vcpu-threads-pinning"
   },
   "next": {
     "title": "Kata 2.0 Metrics Design",
-    "permalink": "/docs/design/kata-2-0-metrics"
+    "permalink": "/docs/intro/docs/design/kata-2-0-metrics"
   }
 }

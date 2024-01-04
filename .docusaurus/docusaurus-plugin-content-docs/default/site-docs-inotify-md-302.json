@@ -1,0 +1,24 @@
+{
+  "unversionedId": "inotify",
+  "id": "inotify",
+  "isDocsHomePage": false,
+  "title": "inotify",
+  "description": "---",
+  "source": "@site/docs/inotify.md",
+  "sourceDirName": ".",
+  "slug": "/inotify",
+  "permalink": "/docs/intro/docs/inotify",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/inotify.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kata 2.0 Metrics Design",
+    "permalink": "/docs/intro/docs/design/kata-2-0-metrics"
+  },
+  "next": {
+    "title": "Kata Containers installation guides",
+    "permalink": "/docs/intro/docs/install/README"
+  }
+}

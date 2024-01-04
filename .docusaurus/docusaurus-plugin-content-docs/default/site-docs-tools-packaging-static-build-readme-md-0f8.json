@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tools/packaging/static-build/README",
+  "id": "tools/packaging/static-build/README",
+  "isDocsHomePage": false,
+  "title": "Static build",
+  "description": "This directory contains files to build static versions of Kata Containers.",
+  "source": "@site/docs/tools/packaging/static-build/README.md",
+  "sourceDirName": "tools/packaging/static-build",
+  "slug": "/tools/packaging/static-build/README",
+  "permalink": "/docs/intro/docs/tools/packaging/static-build/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/static-build/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Packaging scripts",
+    "permalink": "/docs/intro/docs/tools/packaging/scripts/README"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Architecture/end-to-end-flow",
+  "id": "Architecture/end-to-end-flow",
+  "isDocsHomePage": false,
+  "title": "Kata Containers E2E Flow",
+  "description": "Kata containers e2e flow",
+  "source": "@site/docs/Architecture/end-to-end-flow.md",
+  "sourceDirName": "Architecture",
+  "slug": "/Architecture/end-to-end-flow",
+  "permalink": "/docs/Architecture/end-to-end-flow",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Architecture/end-to-end-flow.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11,
+    "sidebar_label": "Kata Containers E2E Flow Diagram"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kubernetes Support",
+    "permalink": "/docs/Architecture/kubernetes"
+  },
+  "next": {
+    "title": "Install with kata-deploy (Recommended)",
+    "permalink": "/docs/Installation/kata-deploy"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "proposals/tracing-proposals",
+  "id": "proposals/tracing-proposals",
+  "isDocsHomePage": false,
+  "title": "Kata Tracing proposals",
+  "description": "Overview",
+  "source": "@site/docs/proposals/tracing-proposals.md",
+  "sourceDirName": "proposals",
+  "slug": "/proposals/tracing-proposals",
+  "permalink": "/docs/intro/docs/proposals/tracing-proposals",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/proposals/tracing-proposals.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "Tracing Proposals"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Design Proposals",
+    "permalink": "/docs/intro/docs/proposals/README"
+  },
+  "next": {
+    "title": "osbuilder",
+    "permalink": "/docs/intro/docs/tools/osbuilder/README"
+  }
+}

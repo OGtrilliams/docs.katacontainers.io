@@ -7,8 +7,8 @@
   "source": "@site/docs/design/kata-design-requirements.md",
   "sourceDirName": "design",
   "slug": "/design/kata-design-requirements",
-  "permalink": "/docs/design/kata-design-requirements",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/design/kata-design-requirements.md",
+  "permalink": "/docs/intro/docs/design/kata-design-requirements",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/design/kata-design-requirements.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "API Design",
-    "permalink": "/docs/design/kata-api-design"
+    "permalink": "/docs/intro/docs/design/kata-api-design"
   },
   "next": {
-    "title": "Nydus Design Proposal",
-    "permalink": "/docs/design/kata-nydus-design"
+    "title": "vCPU Pinning Feature",
+    "permalink": "/docs/intro/docs/design/vcpu-threads-pinning"
   }
 }

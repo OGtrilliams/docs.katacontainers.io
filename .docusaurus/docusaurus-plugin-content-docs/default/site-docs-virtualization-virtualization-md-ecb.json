@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Virtualization/virtualization",
+  "id": "Virtualization/virtualization",
+  "isDocsHomePage": false,
+  "title": "Virtualization in Kata Containers",
+  "description": "Kata Containers, a second layer of isolation is created on top of those provided by traditional namespace-containers. The",
+  "source": "@site/docs/Virtualization/virtualization.md",
+  "sourceDirName": "Virtualization",
+  "slug": "/Virtualization/virtualization",
+  "permalink": "/docs/intro/docs/Virtualization/virtualization",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/Virtualization/virtualization.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "Virtualization in Kata Containers"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Virtualization Reference Architecture",
+    "permalink": "/docs/intro/docs/Virtualization/kata-vra"
+  },
+  "next": {
+    "title": "Kata Containers & vSOCKS",
+    "permalink": "/docs/intro/docs/Virtualization/VSocks"
+  }
+}

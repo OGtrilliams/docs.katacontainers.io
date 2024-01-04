@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/osbuilder/initrd-builder/README",
+  "id": "tools/osbuilder/initrd-builder/README",
+  "isDocsHomePage": false,
+  "title": "Kata Containers initrd image generation",
+  "description": "A Kata Containers initrd image is generated using the initrd_builder.sh script.",
+  "source": "@site/docs/tools/osbuilder/initrd-builder/README.md",
+  "sourceDirName": "tools/osbuilder/initrd-builder",
+  "slug": "/tools/osbuilder/initrd-builder/README",
+  "permalink": "/docs/intro/docs/tools/osbuilder/initrd-builder/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/osbuilder/initrd-builder/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kata Containers image generation",
+    "permalink": "/docs/intro/docs/tools/osbuilder/image-builder/README"
+  },
+  "next": {
+    "title": "Building a Guest OS rootfs for Kata Containers",
+    "permalink": "/docs/intro/docs/tools/osbuilder/rootfs-builder/README"
+  }
+}

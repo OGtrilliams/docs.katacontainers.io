@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/README",
+  "id": "tools/packaging/README",
+  "isDocsHomePage": false,
+  "title": "Kata Containers packaging",
+  "description": "Introduction",
+  "source": "@site/docs/tools/packaging/README.md",
+  "sourceDirName": "tools/packaging",
+  "slug": "/tools/packaging/README",
+  "permalink": "/docs/intro/docs/tools/packaging/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/osbuilder/tests/README"
+  },
+  "next": {
+    "title": "kata-debug",
+    "permalink": "/docs/intro/docs/tools/packaging/kata-debug/README"
+  }
+}

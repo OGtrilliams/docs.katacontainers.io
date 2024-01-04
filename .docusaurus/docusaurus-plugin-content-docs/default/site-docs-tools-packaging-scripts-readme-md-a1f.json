@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/scripts/README",
+  "id": "tools/packaging/scripts/README",
+  "isDocsHomePage": false,
+  "title": "Packaging scripts",
+  "description": "This directory contains useful packaging scripts.",
+  "source": "@site/docs/tools/packaging/scripts/README.md",
+  "sourceDirName": "tools/packaging/scripts",
+  "slug": "/tools/packaging/scripts/README",
+  "permalink": "/docs/intro/docs/tools/packaging/scripts/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/scripts/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Release information",
+    "permalink": "/docs/intro/docs/tools/packaging/release/README"
+  },
+  "next": {
+    "title": "Static build",
+    "permalink": "/docs/intro/docs/tools/packaging/static-build/README"
+  }
+}

@@ -7,8 +7,8 @@
   "source": "@site/docs/networking/host-cgroups.md",
   "sourceDirName": "networking",
   "slug": "/networking/host-cgroups",
-  "permalink": "/docs/networking/host-cgroups",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/networking/host-cgroups.md",
+  "permalink": "/docs/intro/docs/networking/host-cgroups",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/networking/host-cgroups.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,7 +18,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Kata 2.0 Metrics Design",
-    "permalink": "/docs/design/kata-2-0-metrics"
+    "title": "Example command",
+    "permalink": "/docs/intro/docs/install/example-command"
+  },
+  "next": {
+    "title": "Systemd Cgroup for Agent",
+    "permalink": "/docs/intro/docs/networking/agent-systemd-cgroup"
   }
 }

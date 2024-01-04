@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/qemu/README",
+  "id": "tools/packaging/qemu/README",
+  "isDocsHomePage": false,
+  "title": "QEMU patches",
+  "description": "This directory contains patches used to build QEMU.",
+  "source": "@site/docs/tools/packaging/qemu/README.md",
+  "sourceDirName": "tools/packaging/qemu",
+  "slug": "/tools/packaging/qemu/README",
+  "permalink": "/docs/intro/docs/tools/packaging/qemu/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/qemu/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kata Containers kernel config files",
+    "permalink": "/docs/intro/docs/tools/packaging/kernel/configs/README"
+  },
+  "next": {
+    "title": "Release information",
+    "permalink": "/docs/intro/docs/tools/packaging/release/README"
+  }
+}

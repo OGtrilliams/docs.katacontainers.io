@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Virtualization/VSocks",
+  "id": "Virtualization/VSocks",
+  "isDocsHomePage": false,
+  "title": "Kata Containers and VSOCKs",
+  "description": "Introduction",
+  "source": "@site/docs/Virtualization/VSocks.md",
+  "sourceDirName": "Virtualization",
+  "slug": "/Virtualization/VSocks",
+  "permalink": "/docs/intro/docs/Virtualization/VSocks",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/Virtualization/VSocks.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Kata Containers & vSOCKS"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Virtualization in Kata Containers",
+    "permalink": "/docs/intro/docs/Virtualization/virtualization"
+  },
+  "next": {
+    "title": "API Design",
+    "permalink": "/docs/intro/docs/design/kata-api-design"
+  }
+}

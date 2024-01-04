@@ -1,0 +1,28 @@
+{
+  "unversionedId": "design/vcpu-threads-pinning",
+  "id": "design/vcpu-threads-pinning",
+  "isDocsHomePage": false,
+  "title": "Design Doc for Kata Containers' VCPUs Pinning Feature",
+  "description": "Background",
+  "source": "@site/docs/design/vcpu-threads-pinning.md",
+  "sourceDirName": "design",
+  "slug": "/design/vcpu-threads-pinning",
+  "permalink": "/docs/intro/docs/design/vcpu-threads-pinning",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/design/vcpu-threads-pinning.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "sidebar_label": "vCPU Pinning Feature"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Design Requirements",
+    "permalink": "/docs/intro/docs/design/kata-design-requirements"
+  },
+  "next": {
+    "title": "Nydus Design Proposal",
+    "permalink": "/docs/intro/docs/design/kata-nydus-design"
+  }
+}

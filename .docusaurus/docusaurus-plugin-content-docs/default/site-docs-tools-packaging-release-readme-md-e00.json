@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/release/README",
+  "id": "tools/packaging/release/README",
+  "isDocsHomePage": false,
+  "title": "Release information",
+  "description": "Introduction",
+  "source": "@site/docs/tools/packaging/release/README.md",
+  "sourceDirName": "tools/packaging/release",
+  "slug": "/tools/packaging/release/README",
+  "permalink": "/docs/intro/docs/tools/packaging/release/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/release/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "QEMU patches",
+    "permalink": "/docs/intro/docs/tools/packaging/qemu/README"
+  },
+  "next": {
+    "title": "Packaging scripts",
+    "permalink": "/docs/intro/docs/tools/packaging/scripts/README"
+  }
+}

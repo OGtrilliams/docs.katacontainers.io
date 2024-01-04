@@ -1,0 +1,28 @@
+{
+  "unversionedId": "API Reference/hooks-handling",
+  "id": "API Reference/hooks-handling",
+  "isDocsHomePage": false,
+  "title": "Kata Containers support for `Hooks`",
+  "description": "Introduction",
+  "source": "@site/docs/API Reference/hooks-handling.md",
+  "sourceDirName": "API Reference",
+  "slug": "/API Reference/hooks-handling",
+  "permalink": "/docs/intro/docs/API Reference/hooks-handling",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/API Reference/hooks-handling.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "API Hooks Handling"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "System Requirements",
+    "permalink": "/docs/intro/docs/requirements"
+  },
+  "next": {
+    "title": "Kata Containers Architecture",
+    "permalink": "/docs/intro/docs/Architecture/README"
+  }
+}

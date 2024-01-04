@@ -1,0 +1,28 @@
+{
+  "unversionedId": "networking/networking",
+  "id": "networking/networking",
+  "isDocsHomePage": false,
+  "title": "Networking",
+  "description": "Containers typically live in their own, possibly shared, networking namespace.",
+  "source": "@site/docs/networking/networking.md",
+  "sourceDirName": "networking",
+  "slug": "/networking/networking",
+  "permalink": "/docs/intro/docs/networking/networking",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/networking/networking.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Networking",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Systemd Cgroup for Agent",
+    "permalink": "/docs/intro/docs/networking/agent-systemd-cgroup"
+  },
+  "next": {
+    "title": "Kata Containers E2E Flow Diagram",
+    "permalink": "/docs/intro/docs/networking/end-to-end-flow"
+  }
+}

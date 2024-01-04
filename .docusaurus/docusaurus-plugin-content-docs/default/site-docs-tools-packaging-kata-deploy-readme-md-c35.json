@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/kata-deploy/README",
+  "id": "tools/packaging/kata-deploy/README",
+  "isDocsHomePage": false,
+  "title": "kata-deploy",
+  "description": "kata-deploy provides a Dockerfile, which contains all of the binaries",
+  "source": "@site/docs/tools/packaging/kata-deploy/README.md",
+  "sourceDirName": "tools/packaging/kata-deploy",
+  "slug": "/tools/packaging/kata-deploy/README",
+  "permalink": "/docs/intro/docs/tools/packaging/kata-deploy/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/kata-deploy/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kata-debug",
+    "permalink": "/docs/intro/docs/tools/packaging/kata-debug/README"
+  },
+  "next": {
+    "title": "Build Kata Containers Kernel",
+    "permalink": "/docs/intro/docs/tools/packaging/kernel/README"
+  }
+}

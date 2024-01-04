@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Architecture/background",
+  "id": "Architecture/background",
+  "isDocsHomePage": false,
+  "title": "Kata Containers architecture background knowledge",
+  "description": "The following sections explain some of the background concepts",
+  "source": "@site/docs/Architecture/background.md",
+  "sourceDirName": "Architecture",
+  "slug": "/Architecture/background",
+  "permalink": "/docs/intro/docs/Architecture/background",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/background.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "sidebar_label": "Background Knowledge"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3.0 Architecture",
+    "permalink": "/docs/intro/docs/Architecture/kata-3.0-arch"
+  },
+  "next": {
+    "title": "Guest Assets",
+    "permalink": "/docs/intro/docs/Architecture/guest-assets"
+  }
+}

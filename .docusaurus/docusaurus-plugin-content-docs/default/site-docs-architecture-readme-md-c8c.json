@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Architecture/README",
+  "id": "Architecture/README",
+  "isDocsHomePage": false,
+  "title": "Kata Containers Architecture",
+  "description": "Overview",
+  "source": "@site/docs/Architecture/README.md",
+  "sourceDirName": "Architecture",
+  "slug": "/Architecture/README",
+  "permalink": "/docs/intro/docs/Architecture/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Kata Containers Architecture",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API Hooks Handling",
+    "permalink": "/docs/intro/docs/API Reference/hooks-handling"
+  },
+  "next": {
+    "title": "Architecture History",
+    "permalink": "/docs/intro/docs/Architecture/history"
+  }
+}
