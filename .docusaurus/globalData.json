@@ -11,38 +11,73 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "Architecture Overview/background",
-              "path": "/docs/Architecture Overview/background",
+              "id": "architecture-overview/background",
+              "path": "/docs/architecture-overview/background",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Architecture Overview/example-command",
-              "path": "/docs/Architecture Overview/example-command",
+              "id": "architecture-overview/example-command",
+              "path": "/docs/architecture-overview/example-command",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Architecture Overview/history",
-              "path": "/docs/Architecture Overview/history",
+              "id": "architecture-overview/guest-assets",
+              "path": "/docs/architecture-overview/guest-assets",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Architecture Overview/networking",
-              "path": "/docs/Architecture Overview/networking",
+              "id": "architecture-overview/history",
+              "path": "/docs/architecture-overview/history",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Architecture Overview/README",
-              "path": "/docs/Architecture Overview/README",
+              "id": "architecture-overview/kata-3.0-arch",
+              "path": "/docs/architecture-overview/kata-3.0-arch",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Architecture Overview/storage",
-              "path": "/docs/Architecture Overview/storage",
+              "id": "architecture-overview/kubernetes",
+              "path": "/docs/architecture-overview/kubernetes",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "greeting",
-              "path": "/docs/greeting",
+              "id": "architecture-overview/networking",
+              "path": "/docs/architecture-overview/networking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture-overview/README",
+              "path": "/docs/architecture-overview/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture-overview/storage",
+              "path": "/docs/architecture-overview/storage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "design/kata-2-0-metrics",
+              "path": "/docs/design/kata-2-0-metrics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "design/kata-api-design",
+              "path": "/docs/design/kata-api-design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "design/kata-design-requirements",
+              "path": "/docs/design/kata-design-requirements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "design/kata-nydus-design",
+              "path": "/docs/design/kata-nydus-design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Installation/quickstart",
+              "path": "/docs/Installation/quickstart",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -51,43 +86,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "networking/host-cgroups",
+              "path": "/docs/networking/host-cgroups",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "requirements",
+              "path": "/docs/requirements",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "Runtimes/vcpu-handling-runtime-go",
+              "path": "/docs/Runtimes/vcpu-handling-runtime-go",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "Runtimes/vcpu-handling-runtime-rs",
+              "path": "/docs/Runtimes/vcpu-handling-runtime-rs",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "vcpu-threads-pinning",
+              "path": "/docs/vcpu-threads-pinning",
               "sidebar": "tutorialSidebar"
             }
           ]

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "architecture-overview/kubernetes",
+  "id": "architecture-overview/kubernetes",
+  "isDocsHomePage": false,
+  "title": "Kubernetes support",
+  "description": "Kubernetes, or K8s, is a popular open source",
+  "source": "@site/docs/architecture-overview/kubernetes.md",
+  "sourceDirName": "architecture-overview",
+  "slug": "/architecture-overview/kubernetes",
+  "permalink": "/docs/architecture-overview/kubernetes",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/kubernetes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "sidebar_label": "Kubernetes Support"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guest Assets",
+    "permalink": "/docs/architecture-overview/guest-assets"
+  },
+  "next": {
+    "title": "API Design",
+    "permalink": "/docs/design/kata-api-design"
+  }
+}

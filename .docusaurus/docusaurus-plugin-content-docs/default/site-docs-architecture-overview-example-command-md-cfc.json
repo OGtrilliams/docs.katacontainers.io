@@ -1,0 +1,28 @@
+{
+  "unversionedId": "architecture-overview/example-command",
+  "id": "architecture-overview/example-command",
+  "isDocsHomePage": false,
+  "title": "Example command",
+  "description": "The following containerd command creates a container. It is referred",
+  "source": "@site/docs/architecture-overview/example-command.md",
+  "sourceDirName": "architecture-overview",
+  "slug": "/architecture-overview/example-command",
+  "permalink": "/docs/architecture-overview/example-command",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/example-command.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "sidebar_label": "Example command"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Networking",
+    "permalink": "/docs/architecture-overview/networking"
+  },
+  "next": {
+    "title": "Guest Assets",
+    "permalink": "/docs/architecture-overview/guest-assets"
+  }
+}

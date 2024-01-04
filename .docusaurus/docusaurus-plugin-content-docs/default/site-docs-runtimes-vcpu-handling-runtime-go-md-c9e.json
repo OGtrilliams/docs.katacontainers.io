@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Runtimes/vcpu-handling-runtime-go",
+  "id": "Runtimes/vcpu-handling-runtime-go",
+  "isDocsHomePage": false,
+  "title": "Virtual machine vCPU sizing in Kata Containers",
+  "description": "Default number of virtual CPUs",
+  "source": "@site/docs/Runtimes/vcpu-handling-runtime-go.md",
+  "sourceDirName": "Runtimes",
+  "slug": "/Runtimes/vcpu-handling-runtime-go",
+  "permalink": "/docs/Runtimes/vcpu-handling-runtime-go",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Runtimes/vcpu-handling-runtime-go.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "vCPU sizing | GOLANG"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vCPU Handling | RUST",
+    "permalink": "/docs/Runtimes/vcpu-handling-runtime-rs"
+  },
+  "next": {
+    "title": "Kata Containers Architecture",
+    "permalink": "/docs/architecture-overview/README"
+  }
+}

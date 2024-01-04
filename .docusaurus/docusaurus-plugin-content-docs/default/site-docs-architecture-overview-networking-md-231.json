@@ -1,0 +1,28 @@
+{
+  "unversionedId": "architecture-overview/networking",
+  "id": "architecture-overview/networking",
+  "isDocsHomePage": false,
+  "title": "Networking",
+  "description": "Containers typically live in their own, possibly shared, networking namespace.",
+  "source": "@site/docs/architecture-overview/networking.md",
+  "sourceDirName": "architecture-overview",
+  "slug": "/architecture-overview/networking",
+  "permalink": "/docs/architecture-overview/networking",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/networking.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Networking",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Storage",
+    "permalink": "/docs/architecture-overview/storage"
+  },
+  "next": {
+    "title": "Example command",
+    "permalink": "/docs/architecture-overview/example-command"
+  }
+}

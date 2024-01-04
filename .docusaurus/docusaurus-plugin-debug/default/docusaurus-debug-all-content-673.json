@@ -26,32 +26,23 @@
                 "label": "Introduction"
               },
               {
+                "type": "doc",
+                "id": "requirements",
+                "label": "System Requirements"
+              },
+              {
+                "type": "doc",
+                "id": "vcpu-threads-pinning",
+                "label": "vCPU Pinning Feature"
+              },
+              {
                 "type": "category",
-                "label": "Tutorial - Basics",
+                "label": "Installation",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-page"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/create-a-document"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/markdown-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/congratulations"
+                    "id": "Installation/quickstart",
+                    "label": "Quickstart"
                   }
                 ],
                 "collapsed": true,
@@ -59,15 +50,17 @@
               },
               {
                 "type": "category",
-                "label": "Tutorial - Extras",
+                "label": "Runtimes",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
+                    "id": "Runtimes/vcpu-handling-runtime-rs",
+                    "label": "vCPU Handling | RUST"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
+                    "id": "Runtimes/vcpu-handling-runtime-go",
+                    "label": "vCPU sizing | GOLANG"
                   }
                 ],
                 "collapsed": true,
@@ -75,60 +68,111 @@
               },
               {
                 "type": "category",
-                "label": "Architecture Overview",
+                "label": "architecture-overview",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Architecture Overview/README",
+                    "id": "architecture-overview/README",
                     "label": "Kata Containers Architecture"
                   },
                   {
                     "type": "doc",
-                    "id": "Architecture Overview/history",
+                    "id": "architecture-overview/history",
                     "label": "Architecture History"
                   },
                   {
                     "type": "doc",
-                    "id": "Architecture Overview/example-command",
-                    "label": "Example command"
+                    "id": "architecture-overview/kata-3.0-arch",
+                    "label": "3.0 Architecture"
                   },
                   {
                     "type": "doc",
-                    "id": "Architecture Overview/background",
+                    "id": "architecture-overview/background",
                     "label": "Background Knowledge"
                   },
                   {
                     "type": "doc",
-                    "id": "Architecture Overview/storage",
+                    "id": "architecture-overview/storage",
                     "label": "Storage"
                   },
                   {
                     "type": "doc",
-                    "id": "Architecture Overview/networking",
+                    "id": "architecture-overview/networking",
                     "label": "Networking"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "architecture-overview/example-command",
+                    "label": "Example command"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "architecture-overview/guest-assets",
+                    "label": "Guest Assets"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "architecture-overview/kubernetes",
+                    "label": "Kubernetes Support"
                   }
                 ],
                 "collapsed": true,
                 "collapsible": true
               },
               {
-                "type": "doc",
-                "id": "greeting"
+                "type": "category",
+                "label": "design",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "design/kata-api-design",
+                    "label": "API Design"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "design/kata-design-requirements",
+                    "label": "Design Requirements"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "design/kata-nydus-design",
+                    "label": "Nydus Design Proposal"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "design/kata-2-0-metrics"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "networking",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "networking/host-cgroups",
+                    "label": "Host cgroup Management"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
               }
             ]
           },
           "docs": [
             {
-              "unversionedId": "Architecture Overview/background",
-              "id": "Architecture Overview/background",
+              "unversionedId": "architecture-overview/background",
+              "id": "architecture-overview/background",
               "isDocsHomePage": false,
               "title": "Kata Containers architecture background knowledge",
               "description": "The following sections explain some of the background concepts",
-              "source": "@site/docs/Architecture Overview/background.md",
-              "sourceDirName": "Architecture Overview",
-              "slug": "/Architecture Overview/background",
-              "permalink": "/docs/Architecture Overview/background",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Architecture Overview/background.md",
+              "source": "@site/docs/architecture-overview/background.md",
+              "sourceDirName": "architecture-overview",
+              "slug": "/architecture-overview/background",
+              "permalink": "/docs/architecture-overview/background",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/background.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -138,53 +182,81 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Example command",
-                "permalink": "/docs/Architecture Overview/example-command"
+                "title": "3.0 Architecture",
+                "permalink": "/docs/architecture-overview/kata-3.0-arch"
               },
               "next": {
                 "title": "Storage",
-                "permalink": "/docs/Architecture Overview/storage"
+                "permalink": "/docs/architecture-overview/storage"
               }
             },
             {
-              "unversionedId": "Architecture Overview/example-command",
-              "id": "Architecture Overview/example-command",
+              "unversionedId": "architecture-overview/example-command",
+              "id": "architecture-overview/example-command",
               "isDocsHomePage": false,
               "title": "Example command",
               "description": "The following containerd command creates a container. It is referred",
-              "source": "@site/docs/Architecture Overview/example-command.md",
-              "sourceDirName": "Architecture Overview",
-              "slug": "/Architecture Overview/example-command",
-              "permalink": "/docs/Architecture Overview/example-command",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Architecture Overview/example-command.md",
+              "source": "@site/docs/architecture-overview/example-command.md",
+              "sourceDirName": "architecture-overview",
+              "slug": "/architecture-overview/example-command",
+              "permalink": "/docs/architecture-overview/example-command",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/example-command.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 3,
+              "sidebarPosition": 7,
               "frontMatter": {
-                "sidebar_position": 3,
+                "sidebar_position": 7,
                 "sidebar_label": "Example command"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Architecture History",
-                "permalink": "/docs/Architecture Overview/history"
+                "title": "Networking",
+                "permalink": "/docs/architecture-overview/networking"
               },
               "next": {
-                "title": "Background Knowledge",
-                "permalink": "/docs/Architecture Overview/background"
+                "title": "Guest Assets",
+                "permalink": "/docs/architecture-overview/guest-assets"
               }
             },
             {
-              "unversionedId": "Architecture Overview/history",
-              "id": "Architecture Overview/history",
+              "unversionedId": "architecture-overview/guest-assets",
+              "id": "architecture-overview/guest-assets",
+              "isDocsHomePage": false,
+              "title": "Guest assets",
+              "description": "Kata Containers creates a VM in which to run one or more containers.",
+              "source": "@site/docs/architecture-overview/guest-assets.md",
+              "sourceDirName": "architecture-overview",
+              "slug": "/architecture-overview/guest-assets",
+              "permalink": "/docs/architecture-overview/guest-assets",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/guest-assets.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8,
+                "sidebar_label": "Guest Assets"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Example command",
+                "permalink": "/docs/architecture-overview/example-command"
+              },
+              "next": {
+                "title": "Kubernetes Support",
+                "permalink": "/docs/architecture-overview/kubernetes"
+              }
+            },
+            {
+              "unversionedId": "architecture-overview/history",
+              "id": "architecture-overview/history",
               "isDocsHomePage": false,
               "title": "History",
               "description": "Kata 1.x architecture",
-              "source": "@site/docs/Architecture Overview/history.md",
-              "sourceDirName": "Architecture Overview",
-              "slug": "/Architecture Overview/history",
-              "permalink": "/docs/Architecture Overview/history",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Architecture Overview/history.md",
+              "source": "@site/docs/architecture-overview/history.md",
+              "sourceDirName": "architecture-overview",
+              "slug": "/architecture-overview/history",
+              "permalink": "/docs/architecture-overview/history",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/history.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -195,24 +267,80 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Kata Containers Architecture",
-                "permalink": "/docs/Architecture Overview/README"
+                "permalink": "/docs/architecture-overview/README"
               },
               "next": {
-                "title": "Example command",
-                "permalink": "/docs/Architecture Overview/example-command"
+                "title": "3.0 Architecture",
+                "permalink": "/docs/architecture-overview/kata-3.0-arch"
               }
             },
             {
-              "unversionedId": "Architecture Overview/networking",
-              "id": "Architecture Overview/networking",
+              "unversionedId": "architecture-overview/kata-3.0-arch",
+              "id": "architecture-overview/kata-3.0-arch",
+              "isDocsHomePage": false,
+              "title": "Kata 3.0 Architecture",
+              "description": "Overview",
+              "source": "@site/docs/architecture-overview/kata-3.0-arch.md",
+              "sourceDirName": "architecture-overview",
+              "slug": "/architecture-overview/kata-3.0-arch",
+              "permalink": "/docs/architecture-overview/kata-3.0-arch",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/kata-3.0-arch.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "sidebar_label": "3.0 Architecture"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Architecture History",
+                "permalink": "/docs/architecture-overview/history"
+              },
+              "next": {
+                "title": "Background Knowledge",
+                "permalink": "/docs/architecture-overview/background"
+              }
+            },
+            {
+              "unversionedId": "architecture-overview/kubernetes",
+              "id": "architecture-overview/kubernetes",
+              "isDocsHomePage": false,
+              "title": "Kubernetes support",
+              "description": "Kubernetes, or K8s, is a popular open source",
+              "source": "@site/docs/architecture-overview/kubernetes.md",
+              "sourceDirName": "architecture-overview",
+              "slug": "/architecture-overview/kubernetes",
+              "permalink": "/docs/architecture-overview/kubernetes",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/kubernetes.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9,
+                "sidebar_label": "Kubernetes Support"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Guest Assets",
+                "permalink": "/docs/architecture-overview/guest-assets"
+              },
+              "next": {
+                "title": "API Design",
+                "permalink": "/docs/design/kata-api-design"
+              }
+            },
+            {
+              "unversionedId": "architecture-overview/networking",
+              "id": "architecture-overview/networking",
               "isDocsHomePage": false,
               "title": "Networking",
               "description": "Containers typically live in their own, possibly shared, networking namespace.",
-              "source": "@site/docs/Architecture Overview/networking.md",
-              "sourceDirName": "Architecture Overview",
-              "slug": "/Architecture Overview/networking",
-              "permalink": "/docs/Architecture Overview/networking",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Architecture Overview/networking.md",
+              "source": "@site/docs/architecture-overview/networking.md",
+              "sourceDirName": "architecture-overview",
+              "slug": "/architecture-overview/networking",
+              "permalink": "/docs/architecture-overview/networking",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/networking.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -223,24 +351,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Storage",
-                "permalink": "/docs/Architecture Overview/storage"
+                "permalink": "/docs/architecture-overview/storage"
               },
               "next": {
-                "title": "docs.katacontainers.io",
-                "permalink": "/docs/greeting"
+                "title": "Example command",
+                "permalink": "/docs/architecture-overview/example-command"
               }
             },
             {
-              "unversionedId": "Architecture Overview/README",
-              "id": "Architecture Overview/README",
+              "unversionedId": "architecture-overview/README",
+              "id": "architecture-overview/README",
               "isDocsHomePage": false,
               "title": "Kata Containers Architecture",
               "description": "Overview",
-              "source": "@site/docs/Architecture Overview/README.md",
-              "sourceDirName": "Architecture Overview",
-              "slug": "/Architecture Overview/README",
-              "permalink": "/docs/Architecture Overview/README",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Architecture Overview/README.md",
+              "source": "@site/docs/architecture-overview/README.md",
+              "sourceDirName": "architecture-overview",
+              "slug": "/architecture-overview/README",
+              "permalink": "/docs/architecture-overview/README",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/README.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -250,25 +378,25 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
+                "title": "vCPU sizing | GOLANG",
+                "permalink": "/docs/Runtimes/vcpu-handling-runtime-go"
               },
               "next": {
                 "title": "Architecture History",
-                "permalink": "/docs/Architecture Overview/history"
+                "permalink": "/docs/architecture-overview/history"
               }
             },
             {
-              "unversionedId": "Architecture Overview/storage",
-              "id": "Architecture Overview/storage",
+              "unversionedId": "architecture-overview/storage",
+              "id": "architecture-overview/storage",
               "isDocsHomePage": false,
               "title": "Storage",
               "description": "Limits",
-              "source": "@site/docs/Architecture Overview/storage.md",
-              "sourceDirName": "Architecture Overview",
-              "slug": "/Architecture Overview/storage",
-              "permalink": "/docs/Architecture Overview/storage",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Architecture Overview/storage.md",
+              "source": "@site/docs/architecture-overview/storage.md",
+              "sourceDirName": "architecture-overview",
+              "slug": "/architecture-overview/storage",
+              "permalink": "/docs/architecture-overview/storage",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/storage.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -279,39 +407,158 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Background Knowledge",
-                "permalink": "/docs/Architecture Overview/background"
+                "permalink": "/docs/architecture-overview/background"
               },
               "next": {
                 "title": "Networking",
-                "permalink": "/docs/Architecture Overview/networking"
+                "permalink": "/docs/architecture-overview/networking"
               }
             },
             {
-              "unversionedId": "greeting",
-              "id": "greeting",
+              "unversionedId": "design/kata-2-0-metrics",
+              "id": "design/kata-2-0-metrics",
               "isDocsHomePage": false,
-              "title": "docs.katacontainers.io",
-              "description": "lorem ipsum...",
-              "source": "@site/docs/greeting.md",
-              "sourceDirName": ".",
-              "slug": "/greeting",
-              "permalink": "/docs/greeting",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/greeting.md",
+              "title": "Kata 2.0 Metrics Design",
+              "description": "Kata implements CRI's API and supports ContainerStats and ListContainerStats interfaces to expose containers metrics. User can use these interfaces to get basic metrics about containers.",
+              "source": "@site/docs/design/kata-2-0-metrics.md",
+              "sourceDirName": "design",
+              "slug": "/design/kata-2-0-metrics",
+              "permalink": "/docs/design/kata-2-0-metrics",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/design/kata-2-0-metrics.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "frontMatter": {
+                "sidebar-position": 3,
+                "sidebar_name": "Kata Containers 2.0 metrics design"
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Networking",
-                "permalink": "/docs/Architecture Overview/networking"
+                "title": "Nydus Design Proposal",
+                "permalink": "/docs/design/kata-nydus-design"
+              },
+              "next": {
+                "title": "Host cgroup Management",
+                "permalink": "/docs/networking/host-cgroups"
+              }
+            },
+            {
+              "unversionedId": "design/kata-api-design",
+              "id": "design/kata-api-design",
+              "isDocsHomePage": false,
+              "title": "Kata API Design",
+              "description": "To fulfill the Kata design requirements, and based on the discussion on Virtcontainers API extensions, the Kata runtime library features the following APIs:",
+              "source": "@site/docs/design/kata-api-design.md",
+              "sourceDirName": "design",
+              "slug": "/design/kata-api-design",
+              "permalink": "/docs/design/kata-api-design",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/design/kata-api-design.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "API Design"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Kubernetes Support",
+                "permalink": "/docs/architecture-overview/kubernetes"
+              },
+              "next": {
+                "title": "Design Requirements",
+                "permalink": "/docs/design/kata-design-requirements"
+              }
+            },
+            {
+              "unversionedId": "design/kata-design-requirements",
+              "id": "design/kata-design-requirements",
+              "isDocsHomePage": false,
+              "title": "kata-design-requirements",
+              "description": "Design requirements",
+              "source": "@site/docs/design/kata-design-requirements.md",
+              "sourceDirName": "design",
+              "slug": "/design/kata-design-requirements",
+              "permalink": "/docs/design/kata-design-requirements",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/design/kata-design-requirements.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "sidebar_label": "Design Requirements"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "API Design",
+                "permalink": "/docs/design/kata-api-design"
+              },
+              "next": {
+                "title": "Nydus Design Proposal",
+                "permalink": "/docs/design/kata-nydus-design"
+              }
+            },
+            {
+              "unversionedId": "design/kata-nydus-design",
+              "id": "design/kata-nydus-design",
+              "isDocsHomePage": false,
+              "title": "Background",
+              "description": "Research shows that time to take for pull operation accounts for 76% of container startup time but only 6.4% of that data is read. So if we can get data on demand (lazy load), it will speed up the container start. Nydus is a project which build image with new format and can get data on demand when container start.",
+              "source": "@site/docs/design/kata-nydus-design.md",
+              "sourceDirName": "design",
+              "slug": "/design/kata-nydus-design",
+              "permalink": "/docs/design/kata-nydus-design",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/design/kata-nydus-design.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9,
+                "sidebar_label": "Nydus Design Proposal"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Design Requirements",
+                "permalink": "/docs/design/kata-design-requirements"
+              },
+              "next": {
+                "title": "Kata 2.0 Metrics Design",
+                "permalink": "/docs/design/kata-2-0-metrics"
+              }
+            },
+            {
+              "unversionedId": "Installation/quickstart",
+              "id": "Installation/quickstart",
+              "isDocsHomePage": false,
+              "title": "Kata Containers installation guides",
+              "description": "The following is an overview of the different installation methods available.",
+              "source": "@site/docs/Installation/quickstart.md",
+              "sourceDirName": "Installation",
+              "slug": "/Installation/quickstart",
+              "permalink": "/docs/Installation/quickstart",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Installation/quickstart.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "Quickstart",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "vCPU Pinning Feature",
+                "permalink": "/docs/vcpu-threads-pinning"
+              },
+              "next": {
+                "title": "vCPU Handling | RUST",
+                "permalink": "/docs/Runtimes/vcpu-handling-runtime-rs"
               }
             },
             {
               "unversionedId": "intro",
               "id": "intro",
               "isDocsHomePage": false,
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "title": "Documentation",
+              "description": "The Kata Containers",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -326,107 +573,51 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
+                "title": "System Requirements",
+                "permalink": "/docs/requirements"
               }
             },
             {
-              "unversionedId": "tutorial-basics/congratulations",
-              "id": "tutorial-basics/congratulations",
+              "unversionedId": "networking/host-cgroups",
+              "id": "networking/host-cgroups",
               "isDocsHomePage": false,
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/tutorial-basics/congratulations.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/congratulations",
-              "permalink": "/docs/tutorial-basics/congratulations",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/congratulations.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
-              },
-              "next": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-blog-post",
-              "id": "tutorial-basics/create-a-blog-post",
-              "isDocsHomePage": false,
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/tutorial-basics/create-a-blog-post",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-blog-post.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-document",
-              "id": "tutorial-basics/create-a-document",
-              "isDocsHomePage": false,
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/tutorial-basics/create-a-document.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/docs/tutorial-basics/create-a-document",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-document.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-page",
-              "id": "tutorial-basics/create-a-page",
-              "isDocsHomePage": false,
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/tutorial-basics/create-a-page.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/docs/tutorial-basics/create-a-page",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-page.md",
+              "title": "Host cgroup management",
+              "description": "Introduction",
+              "source": "@site/docs/networking/host-cgroups.md",
+              "sourceDirName": "networking",
+              "slug": "/networking/host-cgroups",
+              "permalink": "/docs/networking/host-cgroups",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/networking/host-cgroups.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 1,
+                "sidebar_label": "Host cgroup Management"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Kata 2.0 Metrics Design",
+                "permalink": "/docs/design/kata-2-0-metrics"
+              }
+            },
+            {
+              "unversionedId": "requirements",
+              "id": "requirements",
+              "isDocsHomePage": false,
+              "title": "Kata Containers documentation",
+              "description": "System Requirements",
+              "source": "@site/docs/requirements.md",
+              "sourceDirName": ".",
+              "slug": "/requirements",
+              "permalink": "/docs/requirements",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/requirements.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "sidebar_label": "System Requirements"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -434,116 +625,92 @@
                 "permalink": "/docs/intro"
               },
               "next": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
+                "title": "vCPU Pinning Feature",
+                "permalink": "/docs/vcpu-threads-pinning"
               }
             },
             {
-              "unversionedId": "tutorial-basics/deploy-your-site",
-              "id": "tutorial-basics/deploy-your-site",
+              "unversionedId": "Runtimes/vcpu-handling-runtime-go",
+              "id": "Runtimes/vcpu-handling-runtime-go",
               "isDocsHomePage": false,
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/docs/tutorial-basics/deploy-your-site",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/deploy-your-site.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
-              },
-              "next": {
-                "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/markdown-features",
-              "id": "tutorial-basics/markdown-features",
-              "isDocsHomePage": false,
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/docs/tutorial-basics/markdown-features",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/markdown-features.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
-              },
-              "next": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/manage-docs-versions",
-              "id": "tutorial-extras/manage-docs-versions",
-              "isDocsHomePage": false,
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/tutorial-extras/manage-docs-versions",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/manage-docs-versions.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
-              },
-              "next": {
-                "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/translate-your-site",
-              "id": "tutorial-extras/translate-your-site",
-              "isDocsHomePage": false,
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/tutorial-extras/translate-your-site.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/tutorial-extras/translate-your-site",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/translate-your-site.md",
+              "title": "Virtual machine vCPU sizing in Kata Containers",
+              "description": "Default number of virtual CPUs",
+              "source": "@site/docs/Runtimes/vcpu-handling-runtime-go.md",
+              "sourceDirName": "Runtimes",
+              "slug": "/Runtimes/vcpu-handling-runtime-go",
+              "permalink": "/docs/Runtimes/vcpu-handling-runtime-go",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Runtimes/vcpu-handling-runtime-go.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 2,
+                "sidebar_label": "vCPU sizing | GOLANG"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+                "title": "vCPU Handling | RUST",
+                "permalink": "/docs/Runtimes/vcpu-handling-runtime-rs"
               },
               "next": {
                 "title": "Kata Containers Architecture",
-                "permalink": "/docs/Architecture Overview/README"
+                "permalink": "/docs/architecture-overview/README"
+              }
+            },
+            {
+              "unversionedId": "Runtimes/vcpu-handling-runtime-rs",
+              "id": "Runtimes/vcpu-handling-runtime-rs",
+              "isDocsHomePage": false,
+              "title": "Virtual machine vCPU sizing in Kata Containers 3.0",
+              "description": "Preview:",
+              "source": "@site/docs/Runtimes/vcpu-handling-runtime-rs.md",
+              "sourceDirName": "Runtimes",
+              "slug": "/Runtimes/vcpu-handling-runtime-rs",
+              "permalink": "/docs/Runtimes/vcpu-handling-runtime-rs",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Runtimes/vcpu-handling-runtime-rs.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "vCPU Handling | RUST"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Quickstart",
+                "permalink": "/docs/Installation/quickstart"
+              },
+              "next": {
+                "title": "vCPU sizing | GOLANG",
+                "permalink": "/docs/Runtimes/vcpu-handling-runtime-go"
+              }
+            },
+            {
+              "unversionedId": "vcpu-threads-pinning",
+              "id": "vcpu-threads-pinning",
+              "isDocsHomePage": false,
+              "title": "Design Doc for Kata Containers' VCPUs Pinning Feature",
+              "description": "Background",
+              "source": "@site/docs/vcpu-threads-pinning.md",
+              "sourceDirName": ".",
+              "slug": "/vcpu-threads-pinning",
+              "permalink": "/docs/vcpu-threads-pinning",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/vcpu-threads-pinning.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "sidebar_label": "vCPU Pinning Feature"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "System Requirements",
+                "permalink": "/docs/requirements"
+              },
+              "next": {
+                "title": "Quickstart",
+                "permalink": "/docs/Installation/quickstart"
               }
             }
           ]

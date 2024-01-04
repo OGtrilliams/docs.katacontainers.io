@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Quickstart/quickstart",
+  "id": "Quickstart/quickstart",
+  "isDocsHomePage": false,
+  "title": "Kata Containers installation guides",
+  "description": "The following is an overview of the different installation methods available.",
+  "source": "@site/docs/Quickstart/quickstart.md",
+  "sourceDirName": "Quickstart",
+  "slug": "/Quickstart/quickstart",
+  "permalink": "/docs/Quickstart/quickstart",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Quickstart/quickstart.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Quickstart",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "System Requirements",
+    "permalink": "/docs/requirements"
+  },
+  "next": {
+    "title": "Kata Containers Architecture",
+    "permalink": "/docs/architecture-overview/README"
+  }
+}

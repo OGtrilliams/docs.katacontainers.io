@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Runtimes/vcpu-threads-pinning",
+  "id": "Runtimes/vcpu-threads-pinning",
+  "isDocsHomePage": false,
+  "title": "Design Doc for Kata Containers' VCPUs Pinning Feature",
+  "description": "Background",
+  "source": "@site/docs/Runtimes/vcpu-threads-pinning.md",
+  "sourceDirName": "Runtimes",
+  "slug": "/Runtimes/vcpu-threads-pinning",
+  "permalink": "/docs/Runtimes/vcpu-threads-pinning",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Runtimes/vcpu-threads-pinning.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "vCPU Pinning Feature"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vCPU sizing | GOLANG",
+    "permalink": "/docs/Runtimes/vcpu-handling-runtime-go"
+  },
+  "next": {
+    "title": "Kata Containers Architecture",
+    "permalink": "/docs/architecture-overview/README"
+  }
+}

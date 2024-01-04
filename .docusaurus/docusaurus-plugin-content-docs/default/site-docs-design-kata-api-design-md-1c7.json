@@ -1,0 +1,28 @@
+{
+  "unversionedId": "design/kata-api-design",
+  "id": "design/kata-api-design",
+  "isDocsHomePage": false,
+  "title": "Kata API Design",
+  "description": "To fulfill the Kata design requirements, and based on the discussion on Virtcontainers API extensions, the Kata runtime library features the following APIs:",
+  "source": "@site/docs/design/kata-api-design.md",
+  "sourceDirName": "design",
+  "slug": "/design/kata-api-design",
+  "permalink": "/docs/design/kata-api-design",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/design/kata-api-design.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "API Design"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kubernetes Support",
+    "permalink": "/docs/architecture-overview/kubernetes"
+  },
+  "next": {
+    "title": "Design Requirements",
+    "permalink": "/docs/design/kata-design-requirements"
+  }
+}

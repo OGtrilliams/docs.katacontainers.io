@@ -1,0 +1,28 @@
+{
+  "unversionedId": "requirements",
+  "id": "requirements",
+  "isDocsHomePage": false,
+  "title": "Kata Containers documentation",
+  "description": "System Requirements",
+  "source": "@site/docs/requirements.md",
+  "sourceDirName": ".",
+  "slug": "/requirements",
+  "permalink": "/docs/requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/requirements.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "System Requirements"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "vCPU Pinning Feature",
+    "permalink": "/docs/vcpu-threads-pinning"
+  }
+}

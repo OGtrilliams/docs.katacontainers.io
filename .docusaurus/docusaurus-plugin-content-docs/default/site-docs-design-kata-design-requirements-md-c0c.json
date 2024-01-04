@@ -1,0 +1,28 @@
+{
+  "unversionedId": "design/kata-design-requirements",
+  "id": "design/kata-design-requirements",
+  "isDocsHomePage": false,
+  "title": "kata-design-requirements",
+  "description": "Design requirements",
+  "source": "@site/docs/design/kata-design-requirements.md",
+  "sourceDirName": "design",
+  "slug": "/design/kata-design-requirements",
+  "permalink": "/docs/design/kata-design-requirements",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/design/kata-design-requirements.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "Design Requirements"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API Design",
+    "permalink": "/docs/design/kata-api-design"
+  },
+  "next": {
+    "title": "Nydus Design Proposal",
+    "permalink": "/docs/design/kata-nydus-design"
+  }
+}

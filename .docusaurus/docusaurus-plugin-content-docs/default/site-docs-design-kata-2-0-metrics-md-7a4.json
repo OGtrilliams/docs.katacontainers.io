@@ -1,0 +1,27 @@
+{
+  "unversionedId": "design/kata-2-0-metrics",
+  "id": "design/kata-2-0-metrics",
+  "isDocsHomePage": false,
+  "title": "Kata 2.0 Metrics Design",
+  "description": "Kata implements CRI's API and supports ContainerStats and ListContainerStats interfaces to expose containers metrics. User can use these interfaces to get basic metrics about containers.",
+  "source": "@site/docs/design/kata-2-0-metrics.md",
+  "sourceDirName": "design",
+  "slug": "/design/kata-2-0-metrics",
+  "permalink": "/docs/design/kata-2-0-metrics",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/design/kata-2-0-metrics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar-position": 3,
+    "sidebar_name": "Kata Containers 2.0 metrics design"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nydus Design Proposal",
+    "permalink": "/docs/design/kata-nydus-design"
+  },
+  "next": {
+    "title": "Host cgroup Management",
+    "permalink": "/docs/networking/host-cgroups"
+  }
+}

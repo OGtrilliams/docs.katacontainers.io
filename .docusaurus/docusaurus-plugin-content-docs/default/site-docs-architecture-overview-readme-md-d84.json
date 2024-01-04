@@ -1,0 +1,28 @@
+{
+  "unversionedId": "architecture-overview/README",
+  "id": "architecture-overview/README",
+  "isDocsHomePage": false,
+  "title": "Kata Containers Architecture",
+  "description": "Overview",
+  "source": "@site/docs/architecture-overview/README.md",
+  "sourceDirName": "architecture-overview",
+  "slug": "/architecture-overview/README",
+  "permalink": "/docs/architecture-overview/README",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Kata Containers Architecture",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vCPU sizing | GOLANG",
+    "permalink": "/docs/Runtimes/vcpu-handling-runtime-go"
+  },
+  "next": {
+    "title": "Architecture History",
+    "permalink": "/docs/architecture-overview/history"
+  }
+}

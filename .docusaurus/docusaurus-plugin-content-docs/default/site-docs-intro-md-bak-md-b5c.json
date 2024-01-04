@@ -1,0 +1,28 @@
+{
+  "unversionedId": "intro.md-bak",
+  "id": "intro.md-bak",
+  "isDocsHomePage": false,
+  "title": "Tutorial Intro",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/intro.md-bak.md",
+  "sourceDirName": ".",
+  "slug": "/intro.md-bak",
+  "permalink": "/docs/intro.md-bak",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md-bak.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/docs/tutorial-basics/create-a-page"
+  }
+}

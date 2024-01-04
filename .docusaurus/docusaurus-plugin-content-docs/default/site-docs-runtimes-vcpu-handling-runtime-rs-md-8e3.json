@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Runtimes/vcpu-handling-runtime-rs",
+  "id": "Runtimes/vcpu-handling-runtime-rs",
+  "isDocsHomePage": false,
+  "title": "Virtual machine vCPU sizing in Kata Containers 3.0",
+  "description": "Preview:",
+  "source": "@site/docs/Runtimes/vcpu-handling-runtime-rs.md",
+  "sourceDirName": "Runtimes",
+  "slug": "/Runtimes/vcpu-handling-runtime-rs",
+  "permalink": "/docs/Runtimes/vcpu-handling-runtime-rs",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Runtimes/vcpu-handling-runtime-rs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "vCPU Handling | RUST"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/docs/Installation/quickstart"
+  },
+  "next": {
+    "title": "vCPU sizing | GOLANG",
+    "permalink": "/docs/Runtimes/vcpu-handling-runtime-go"
+  }
+}

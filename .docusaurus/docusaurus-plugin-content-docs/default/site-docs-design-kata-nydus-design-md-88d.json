@@ -1,0 +1,28 @@
+{
+  "unversionedId": "design/kata-nydus-design",
+  "id": "design/kata-nydus-design",
+  "isDocsHomePage": false,
+  "title": "Background",
+  "description": "Research shows that time to take for pull operation accounts for 76% of container startup time but only 6.4% of that data is read. So if we can get data on demand (lazy load), it will speed up the container start. Nydus is a project which build image with new format and can get data on demand when container start.",
+  "source": "@site/docs/design/kata-nydus-design.md",
+  "sourceDirName": "design",
+  "slug": "/design/kata-nydus-design",
+  "permalink": "/docs/design/kata-nydus-design",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/design/kata-nydus-design.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "sidebar_label": "Nydus Design Proposal"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Design Requirements",
+    "permalink": "/docs/design/kata-design-requirements"
+  },
+  "next": {
+    "title": "Kata 2.0 Metrics Design",
+    "permalink": "/docs/design/kata-2-0-metrics"
+  }
+}

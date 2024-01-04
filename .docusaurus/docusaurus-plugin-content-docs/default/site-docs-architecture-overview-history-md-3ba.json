@@ -1,0 +1,28 @@
+{
+  "unversionedId": "architecture-overview/history",
+  "id": "architecture-overview/history",
+  "isDocsHomePage": false,
+  "title": "History",
+  "description": "Kata 1.x architecture",
+  "source": "@site/docs/architecture-overview/history.md",
+  "sourceDirName": "architecture-overview",
+  "slug": "/architecture-overview/history",
+  "permalink": "/docs/architecture-overview/history",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/history.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "Architecture History"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kata Containers Architecture",
+    "permalink": "/docs/architecture-overview/README"
+  },
+  "next": {
+    "title": "3.0 Architecture",
+    "permalink": "/docs/architecture-overview/kata-3.0-arch"
+  }
+}

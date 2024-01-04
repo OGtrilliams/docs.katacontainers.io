@@ -1,0 +1,28 @@
+{
+  "unversionedId": "architecture-overview/storage",
+  "id": "architecture-overview/storage",
+  "isDocsHomePage": false,
+  "title": "Storage",
+  "description": "Limits",
+  "source": "@site/docs/architecture-overview/storage.md",
+  "sourceDirName": "architecture-overview",
+  "slug": "/architecture-overview/storage",
+  "permalink": "/docs/architecture-overview/storage",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/storage.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Storage",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Background Knowledge",
+    "permalink": "/docs/architecture-overview/background"
+  },
+  "next": {
+    "title": "Networking",
+    "permalink": "/docs/architecture-overview/networking"
+  }
+}

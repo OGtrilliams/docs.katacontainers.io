@@ -1,0 +1,24 @@
+{
+  "unversionedId": "networking/host-cgroups",
+  "id": "networking/host-cgroups",
+  "isDocsHomePage": false,
+  "title": "Host cgroup management",
+  "description": "Introduction",
+  "source": "@site/docs/networking/host-cgroups.md",
+  "sourceDirName": "networking",
+  "slug": "/networking/host-cgroups",
+  "permalink": "/docs/networking/host-cgroups",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/networking/host-cgroups.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Host cgroup Management"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kata 2.0 Metrics Design",
+    "permalink": "/docs/design/kata-2-0-metrics"
+  }
+}

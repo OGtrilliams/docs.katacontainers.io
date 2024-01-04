@@ -1,0 +1,28 @@
+{
+  "unversionedId": "architecture-overview/guest-assets",
+  "id": "architecture-overview/guest-assets",
+  "isDocsHomePage": false,
+  "title": "Guest assets",
+  "description": "Kata Containers creates a VM in which to run one or more containers.",
+  "source": "@site/docs/architecture-overview/guest-assets.md",
+  "sourceDirName": "architecture-overview",
+  "slug": "/architecture-overview/guest-assets",
+  "permalink": "/docs/architecture-overview/guest-assets",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/guest-assets.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "sidebar_label": "Guest Assets"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Example command",
+    "permalink": "/docs/architecture-overview/example-command"
+  },
+  "next": {
+    "title": "Kubernetes Support",
+    "permalink": "/docs/architecture-overview/kubernetes"
+  }
+}

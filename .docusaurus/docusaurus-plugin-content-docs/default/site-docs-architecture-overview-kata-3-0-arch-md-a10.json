@@ -1,0 +1,28 @@
+{
+  "unversionedId": "architecture-overview/kata-3.0-arch",
+  "id": "architecture-overview/kata-3.0-arch",
+  "isDocsHomePage": false,
+  "title": "Kata 3.0 Architecture",
+  "description": "Overview",
+  "source": "@site/docs/architecture-overview/kata-3.0-arch.md",
+  "sourceDirName": "architecture-overview",
+  "slug": "/architecture-overview/kata-3.0-arch",
+  "permalink": "/docs/architecture-overview/kata-3.0-arch",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/kata-3.0-arch.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "3.0 Architecture"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture History",
+    "permalink": "/docs/architecture-overview/history"
+  },
+  "next": {
+    "title": "Background Knowledge",
+    "permalink": "/docs/architecture-overview/background"
+  }
+}

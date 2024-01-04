@@ -14,38 +14,23 @@
         "href": "/docs/intro"
       },
       {
+        "type": "link",
+        "label": "System Requirements",
+        "href": "/docs/requirements"
+      },
+      {
+        "type": "link",
+        "label": "vCPU Pinning Feature",
+        "href": "/docs/vcpu-threads-pinning"
+      },
+      {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "Installation",
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page"
-          },
-          {
-            "type": "link",
-            "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document"
-          },
-          {
-            "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post"
-          },
-          {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features"
-          },
-          {
-            "type": "link",
-            "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site"
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations"
+            "label": "Quickstart",
+            "href": "/docs/Installation/quickstart"
           }
         ],
         "collapsed": true,
@@ -53,17 +38,17 @@
       },
       {
         "type": "category",
-        "label": "Tutorial - Extras",
+        "label": "Runtimes",
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions"
+            "label": "vCPU Handling | RUST",
+            "href": "/docs/Runtimes/vcpu-handling-runtime-rs"
           },
           {
             "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site"
+            "label": "vCPU sizing | GOLANG",
+            "href": "/docs/Runtimes/vcpu-handling-runtime-go"
           }
         ],
         "collapsed": true,
@@ -71,46 +56,97 @@
       },
       {
         "type": "category",
-        "label": "Architecture Overview",
+        "label": "architecture-overview",
         "items": [
           {
             "type": "link",
             "label": "Kata Containers Architecture",
-            "href": "/docs/Architecture Overview/README"
+            "href": "/docs/architecture-overview/README"
           },
           {
             "type": "link",
             "label": "Architecture History",
-            "href": "/docs/Architecture Overview/history"
+            "href": "/docs/architecture-overview/history"
           },
           {
             "type": "link",
-            "label": "Example command",
-            "href": "/docs/Architecture Overview/example-command"
+            "label": "3.0 Architecture",
+            "href": "/docs/architecture-overview/kata-3.0-arch"
           },
           {
             "type": "link",
             "label": "Background Knowledge",
-            "href": "/docs/Architecture Overview/background"
+            "href": "/docs/architecture-overview/background"
           },
           {
             "type": "link",
             "label": "Storage",
-            "href": "/docs/Architecture Overview/storage"
+            "href": "/docs/architecture-overview/storage"
           },
           {
             "type": "link",
             "label": "Networking",
-            "href": "/docs/Architecture Overview/networking"
+            "href": "/docs/architecture-overview/networking"
+          },
+          {
+            "type": "link",
+            "label": "Example command",
+            "href": "/docs/architecture-overview/example-command"
+          },
+          {
+            "type": "link",
+            "label": "Guest Assets",
+            "href": "/docs/architecture-overview/guest-assets"
+          },
+          {
+            "type": "link",
+            "label": "Kubernetes Support",
+            "href": "/docs/architecture-overview/kubernetes"
           }
         ],
         "collapsed": true,
         "collapsible": true
       },
       {
-        "type": "link",
-        "label": "docs.katacontainers.io",
-        "href": "/docs/greeting"
+        "type": "category",
+        "label": "design",
+        "items": [
+          {
+            "type": "link",
+            "label": "API Design",
+            "href": "/docs/design/kata-api-design"
+          },
+          {
+            "type": "link",
+            "label": "Design Requirements",
+            "href": "/docs/design/kata-design-requirements"
+          },
+          {
+            "type": "link",
+            "label": "Nydus Design Proposal",
+            "href": "/docs/design/kata-nydus-design"
+          },
+          {
+            "type": "link",
+            "label": "Kata 2.0 Metrics Design",
+            "href": "/docs/design/kata-2-0-metrics"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "networking",
+        "items": [
+          {
+            "type": "link",
+            "label": "Host cgroup Management",
+            "href": "/docs/networking/host-cgroups"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
       }
     ]
   }

@@ -110,47 +110,89 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','c1e'),
+    component: ComponentCreator('/docs','970'),
     routes: [
       {
-        path: '/docs/Architecture Overview/background',
-        component: ComponentCreator('/docs/Architecture Overview/background','1e2'),
+        path: '/docs/architecture-overview/background',
+        component: ComponentCreator('/docs/architecture-overview/background','9b4'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Architecture Overview/example-command',
-        component: ComponentCreator('/docs/Architecture Overview/example-command','055'),
+        path: '/docs/architecture-overview/example-command',
+        component: ComponentCreator('/docs/architecture-overview/example-command','6ff'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Architecture Overview/history',
-        component: ComponentCreator('/docs/Architecture Overview/history','777'),
+        path: '/docs/architecture-overview/guest-assets',
+        component: ComponentCreator('/docs/architecture-overview/guest-assets','893'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Architecture Overview/networking',
-        component: ComponentCreator('/docs/Architecture Overview/networking','7df'),
+        path: '/docs/architecture-overview/history',
+        component: ComponentCreator('/docs/architecture-overview/history','465'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Architecture Overview/README',
-        component: ComponentCreator('/docs/Architecture Overview/README','2e5'),
+        path: '/docs/architecture-overview/kata-3.0-arch',
+        component: ComponentCreator('/docs/architecture-overview/kata-3.0-arch','b3f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Architecture Overview/storage',
-        component: ComponentCreator('/docs/Architecture Overview/storage','eb4'),
+        path: '/docs/architecture-overview/kubernetes',
+        component: ComponentCreator('/docs/architecture-overview/kubernetes','1bd'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/greeting',
-        component: ComponentCreator('/docs/greeting','ea0'),
+        path: '/docs/architecture-overview/networking',
+        component: ComponentCreator('/docs/architecture-overview/networking','12c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/architecture-overview/README',
+        component: ComponentCreator('/docs/architecture-overview/README','5b2'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/architecture-overview/storage',
+        component: ComponentCreator('/docs/architecture-overview/storage','c2e'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/design/kata-2-0-metrics',
+        component: ComponentCreator('/docs/design/kata-2-0-metrics','715'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/design/kata-api-design',
+        component: ComponentCreator('/docs/design/kata-api-design','a57'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/design/kata-design-requirements',
+        component: ComponentCreator('/docs/design/kata-design-requirements','1c1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/design/kata-nydus-design',
+        component: ComponentCreator('/docs/design/kata-nydus-design','f0a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Installation/quickstart',
+        component: ComponentCreator('/docs/Installation/quickstart','4fc'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -161,50 +203,32 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/docs/tutorial-basics/congratulations','793'),
+        path: '/docs/networking/host-cgroups',
+        component: ComponentCreator('/docs/networking/host-cgroups','6ff'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post','68e'),
+        path: '/docs/requirements',
+        component: ComponentCreator('/docs/requirements','0bd'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-document','c2d'),
+        path: '/docs/Runtimes/vcpu-handling-runtime-go',
+        component: ComponentCreator('/docs/Runtimes/vcpu-handling-runtime-go','56b'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-page','f44'),
+        path: '/docs/Runtimes/vcpu-handling-runtime-rs',
+        component: ComponentCreator('/docs/Runtimes/vcpu-handling-runtime-rs','b8f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/docs/tutorial-basics/deploy-your-site','e46'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/docs/tutorial-basics/markdown-features','4b7'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions','fdd'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/docs/tutorial-extras/translate-your-site','2d7'),
+        path: '/docs/vcpu-threads-pinning',
+        component: ComponentCreator('/docs/vcpu-threads-pinning','5a8'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

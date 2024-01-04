@@ -1,0 +1,28 @@
+{
+  "unversionedId": "architecture-overview/background",
+  "id": "architecture-overview/background",
+  "isDocsHomePage": false,
+  "title": "Kata Containers architecture background knowledge",
+  "description": "The following sections explain some of the background concepts",
+  "source": "@site/docs/architecture-overview/background.md",
+  "sourceDirName": "architecture-overview",
+  "slug": "/architecture-overview/background",
+  "permalink": "/docs/architecture-overview/background",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/architecture-overview/background.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "sidebar_label": "Background Knowledge"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3.0 Architecture",
+    "permalink": "/docs/architecture-overview/kata-3.0-arch"
+  },
+  "next": {
+    "title": "Storage",
+    "permalink": "/docs/architecture-overview/storage"
+  }
+}
