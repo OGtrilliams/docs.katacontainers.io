@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/README",
+  "id": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/README",
+  "isDocsHomePage": false,
+  "title": "Cloud Hypervisor OpenAPI generated code",
+  "description": "This directory provide tools to generate code client based",
+  "source": "@site/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor",
+  "slug": "/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/persist/plugin/README"
+  },
+  "next": {
+    "title": "Go API client for openapi",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/README"
+  }
+}

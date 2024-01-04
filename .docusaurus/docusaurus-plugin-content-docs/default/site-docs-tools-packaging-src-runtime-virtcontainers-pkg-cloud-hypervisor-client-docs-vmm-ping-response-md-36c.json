@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/VmmPingResponse",
+  "id": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/VmmPingResponse",
+  "isDocsHomePage": false,
+  "title": "VmmPingResponse",
+  "description": "Properties",
+  "source": "@site/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/VmmPingResponse.md",
+  "sourceDirName": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs",
+  "slug": "/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/VmmPingResponse",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/VmmPingResponse",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/VmmPingResponse.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VmSnapshotConfig",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/VmSnapshotConfig"
+  },
+  "next": {
+    "title": "VsockConfig",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/VsockConfig"
+  }
+}

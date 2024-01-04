@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/VmConfig",
+  "id": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/VmConfig",
+  "isDocsHomePage": false,
+  "title": "VmConfig",
+  "description": "Properties",
+  "source": "@site/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/VmConfig.md",
+  "sourceDirName": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs",
+  "slug": "/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/VmConfig",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/VmConfig",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/VmConfig.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VdpaConfig",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/VdpaConfig"
+  },
+  "next": {
+    "title": "VmCoredumpData",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/VmCoredumpData"
+  }
+}

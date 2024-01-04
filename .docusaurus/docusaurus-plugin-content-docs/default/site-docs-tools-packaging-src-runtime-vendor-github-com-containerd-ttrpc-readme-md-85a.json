@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/containerd/ttrpc/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/containerd/ttrpc/README",
+  "isDocsHomePage": false,
+  "title": "ttrpc",
+  "description": "Build Status",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/containerd/ttrpc/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/containerd/ttrpc",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/containerd/ttrpc/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/ttrpc/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/containerd/ttrpc/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Protocol Specification",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/ttrpc/PROTOCOL"
+  },
+  "next": {
+    "title": "typeurl",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/typeurl/v2/README"
+  }
+}

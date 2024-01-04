@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/containerd/cgroups/v3/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/containerd/cgroups/v3/README",
+  "isDocsHomePage": false,
+  "title": "cgroups",
+  "description": "Build Status",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/containerd/cgroups/v3/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/containerd/cgroups/v3",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/containerd/cgroups/v3/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/cgroups/v3/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/containerd/cgroups/v3/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cgroups",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/cgroups/README"
+  },
+  "next": {
+    "title": "console",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/console/README"
+  }
+}

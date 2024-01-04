@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/README",
+  "isDocsHomePage": false,
+  "title": "eBPF",
+  "description": "PkgGoDev",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/cilium/ebpf",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "xxhash",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cespare/xxhash/v2/README"
+  },
+  "next": {
+    "title": "Maintainers",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/MAINTAINERS"
+  }
+}

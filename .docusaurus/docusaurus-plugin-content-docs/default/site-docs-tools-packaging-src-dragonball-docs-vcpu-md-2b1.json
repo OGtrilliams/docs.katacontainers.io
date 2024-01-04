@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/dragonball/docs/vcpu",
+  "id": "tools/packaging/src/dragonball/docs/vcpu",
+  "isDocsHomePage": false,
+  "title": "vCPU",
+  "description": "vCPU Manager",
+  "source": "@site/docs/tools/packaging/src/dragonball/docs/vcpu.md",
+  "sourceDirName": "tools/packaging/src/dragonball/docs",
+  "slug": "/tools/packaging/src/dragonball/docs/vcpu",
+  "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/docs/vcpu",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/dragonball/docs/vcpu.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Upcall",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/docs/upcall"
+  },
+  "next": {
+    "title": "dbs-acpi",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_acpi/README"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/dragonball/src/dbs_boot/README",
+  "id": "tools/packaging/src/dragonball/src/dbs_boot/README",
+  "isDocsHomePage": false,
+  "title": "dbs-boot",
+  "description": "Design",
+  "source": "@site/docs/tools/packaging/src/dragonball/src/dbs_boot/README.md",
+  "sourceDirName": "tools/packaging/src/dragonball/src/dbs_boot",
+  "slug": "/tools/packaging/src/dragonball/src/dbs_boot/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_boot/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/dragonball/src/dbs_boot/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CPUID",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_arch/docs/x86_64_cpuid"
+  },
+  "next": {
+    "title": "dbs-device",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_device/README"
+  }
+}

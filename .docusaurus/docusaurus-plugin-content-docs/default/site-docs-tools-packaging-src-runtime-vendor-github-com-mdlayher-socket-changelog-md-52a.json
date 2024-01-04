@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/mdlayher/socket/CHANGELOG",
+  "id": "tools/packaging/src/runtime/vendor/github.com/mdlayher/socket/CHANGELOG",
+  "isDocsHomePage": false,
+  "title": "CHANGELOG",
+  "description": "v0.2.0",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/socket/CHANGELOG.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/mdlayher/socket",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/mdlayher/socket/CHANGELOG",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/socket/CHANGELOG",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/socket/CHANGELOG.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "xxhash",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd/internal/xxhash/README"
+  },
+  "next": {
+    "title": "MIT License",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/socket/LICENSE"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/MemoryZoneConfig",
+  "id": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/MemoryZoneConfig",
+  "isDocsHomePage": false,
+  "title": "MemoryZoneConfig",
+  "description": "Properties",
+  "source": "@site/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/MemoryZoneConfig.md",
+  "sourceDirName": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs",
+  "slug": "/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/MemoryZoneConfig",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/MemoryZoneConfig",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/MemoryZoneConfig.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MemoryConfig",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/MemoryConfig"
+  },
+  "next": {
+    "title": "NetConfig",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/NetConfig"
+  }
+}

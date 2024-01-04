@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/dragonball/src/dbs_legacy_devices/README",
+  "id": "tools/packaging/src/dragonball/src/dbs_legacy_devices/README",
+  "isDocsHomePage": false,
+  "title": "dbs-legacy-devices",
+  "description": "dbs-legacy-devices provides emulation for legacy devices.",
+  "source": "@site/docs/tools/packaging/src/dragonball/src/dbs_legacy_devices/README.md",
+  "sourceDirName": "tools/packaging/src/dragonball/src/dbs_legacy_devices",
+  "slug": "/tools/packaging/src/dragonball/src/dbs_legacy_devices/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_legacy_devices/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/dragonball/src/dbs_legacy_devices/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dbs-interrupt",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_interrupt/README"
+  },
+  "next": {
+    "title": "dbs-pci",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_pci/README"
+  }
+}

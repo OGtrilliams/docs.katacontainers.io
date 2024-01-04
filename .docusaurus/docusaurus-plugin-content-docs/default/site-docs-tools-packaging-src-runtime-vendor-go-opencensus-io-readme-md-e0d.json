@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/go.opencensus.io/README",
+  "id": "tools/packaging/src/runtime/vendor/go.opencensus.io/README",
+  "isDocsHomePage": false,
+  "title": "OpenCensus Libraries for Go",
+  "description": "Build Status",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/go.opencensus.io/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/go.opencensus.io",
+  "slug": "/tools/packaging/src/runtime/vendor/go.opencensus.io/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opencensus.io/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/go.opencensus.io/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to contribute",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opencensus.io/CONTRIBUTING"
+  },
+  "next": {
+    "title": "Changelog",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/CHANGELOG"
+  }
+}

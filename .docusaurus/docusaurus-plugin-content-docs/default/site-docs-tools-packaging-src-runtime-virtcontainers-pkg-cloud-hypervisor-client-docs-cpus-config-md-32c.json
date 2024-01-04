@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/CpusConfig",
+  "id": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/CpusConfig",
+  "isDocsHomePage": false,
+  "title": "CpusConfig",
+  "description": "Properties",
+  "source": "@site/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/CpusConfig.md",
+  "sourceDirName": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs",
+  "slug": "/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/CpusConfig",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/CpusConfig",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/CpusConfig.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CpuTopology",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/CpuTopology"
+  },
+  "next": {
+    "title": "\\DefaultApi",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/DefaultApi"
+  }
+}

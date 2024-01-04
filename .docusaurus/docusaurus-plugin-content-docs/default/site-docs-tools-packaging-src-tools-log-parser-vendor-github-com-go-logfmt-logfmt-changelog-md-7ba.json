@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG",
+  "id": "tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG",
+  "isDocsHomePage": false,
+  "title": "Changelog",
+  "description": "All notable changes to this project will be documented in this file.",
+  "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG.md",
+  "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt",
+  "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG",
+  "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LICENSE",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README"
+  }
+}

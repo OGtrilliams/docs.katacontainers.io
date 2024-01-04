@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/README",
+  "id": "tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/README",
+  "isDocsHomePage": false,
+  "title": "YAML marshaling and unmarshaling support for Go",
+  "description": "Build Status",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml",
+  "slug": "/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing Guidelines",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/CONTRIBUTING"
+  },
+  "next": {
+    "title": "Release Process",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/RELEASE"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/README",
+  "isDocsHomePage": false,
+  "title": "govalidator",
+  "description": "Gitter GoDoc",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "urlesc [![Build Status](https://travis-ci.org/PuerkitoBio/urlesc.svg?branch=master)](https://travis-ci.org/PuerkitoBio/urlesc) [![GoDoc](http://godoc.org/github.com/PuerkitoBio/urlesc?status.svg)](http://godoc.org/github.com/PuerkitoBio/urlesc)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/urlesc/README"
+  },
+  "next": {
+    "title": "Contributor Code of Conduct",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/CODE_OF_CONDUCT"
+  }
+}

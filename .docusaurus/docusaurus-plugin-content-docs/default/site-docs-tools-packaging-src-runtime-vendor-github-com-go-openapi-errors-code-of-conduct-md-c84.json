@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/go-openapi/errors/CODE_OF_CONDUCT",
+  "id": "tools/packaging/src/runtime/vendor/github.com/go-openapi/errors/CODE_OF_CONDUCT",
+  "isDocsHomePage": false,
+  "title": "Contributor Covenant Code of Conduct",
+  "description": "Our Pledge",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/errors/CODE_OF_CONDUCT.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/go-openapi/errors",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/go-openapi/errors/CODE_OF_CONDUCT",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/errors/CODE_OF_CONDUCT",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/errors/CODE_OF_CONDUCT.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OpenAPI initiative analysis",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/analysis/README"
+  },
+  "next": {
+    "title": "OpenAPI errors",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/errors/README"
+  }
+}

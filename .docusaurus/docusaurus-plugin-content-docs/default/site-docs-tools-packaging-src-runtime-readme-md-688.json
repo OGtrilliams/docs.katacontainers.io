@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/README",
+  "id": "tools/packaging/src/runtime/README",
+  "isDocsHomePage": false,
+  "title": "README",
+  "description": "Go Report Card",
+  "source": "@site/docs/tools/packaging/src/runtime/README.md",
+  "sourceDirName": "tools/packaging/src/runtime",
+  "slug": "/tools/packaging/src/runtime/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime-rs/crates/shim-ctl/README"
+  },
+  "next": {
+    "title": "Kata monitor",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/cmd/kata-monitor/README"
+  }
+}

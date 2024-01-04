@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/go-openapi/swag/CODE_OF_CONDUCT",
+  "id": "tools/packaging/src/runtime/vendor/github.com/go-openapi/swag/CODE_OF_CONDUCT",
+  "isDocsHomePage": false,
+  "title": "Contributor Covenant Code of Conduct",
+  "description": "Our Pledge",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/swag/CODE_OF_CONDUCT.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/go-openapi/swag",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/go-openapi/swag/CODE_OF_CONDUCT",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/swag/CODE_OF_CONDUCT",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/swag/CODE_OF_CONDUCT.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Strfmt [![Build Status](https://travis-ci.org/go-openapi/strfmt.svg?branch=master)](https://travis-ci.org/go-openapi/strfmt) [![codecov](https://codecov.io/gh/go-openapi/strfmt/branch/master/graph/badge.svg)](https://codecov.io/gh/go-openapi/strfmt) [![Slack Status](https://slackin.goswagger.io/badge.svg)](https://slackin.goswagger.io)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/strfmt/README"
+  },
+  "next": {
+    "title": "Swag [![Build Status](https://travis-ci.org/go-openapi/swag.svg?branch=master)](https://travis-ci.org/go-openapi/swag) [![codecov](https://codecov.io/gh/go-openapi/swag/branch/master/graph/badge.svg)](https://codecov.io/gh/go-openapi/swag) [![Slack Status](https://slackin.goswagger.io/badge.svg)](https://slackin.goswagger.io)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/swag/README"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/CHANGELOG",
+  "id": "tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/CHANGELOG",
+  "isDocsHomePage": false,
+  "title": "Changelog",
+  "description": "All notable changes to this project will be documented in this file.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/CHANGELOG.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel",
+  "slug": "/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/CHANGELOG",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/CHANGELOG",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/CHANGELOG.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OpenCensus Libraries for Go",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opencensus.io/README"
+  },
+  "next": {
+    "title": "Contributing to opentelemetry-go",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/CONTRIBUTING"
+  }
+}

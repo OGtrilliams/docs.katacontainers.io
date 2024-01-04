@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "System Requirements",
-    "permalink": "/docs/intro/docs/requirements"
+    "title": "Developer Guide",
+    "permalink": "/docs/intro/docs/Developer-Guide"
   },
   "next": {
     "title": "Kata Containers Architecture",

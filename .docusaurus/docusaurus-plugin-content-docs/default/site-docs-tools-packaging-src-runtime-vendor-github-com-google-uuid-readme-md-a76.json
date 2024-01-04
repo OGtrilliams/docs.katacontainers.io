@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/google/uuid/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/google/uuid/README",
+  "isDocsHomePage": false,
+  "title": "uuid ![build status](https://travis-ci.org/google/uuid.svg?branch=master)",
+  "description": "The uuid package generates and inspects UUIDs based on",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/google/uuid/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/google/uuid",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/google/uuid/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/google/uuid/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/google/uuid/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to contribute",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/google/uuid/CONTRIBUTING"
+  },
+  "next": {
+    "title": "errwrap",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/hashicorp/errwrap/README"
+  }
+}

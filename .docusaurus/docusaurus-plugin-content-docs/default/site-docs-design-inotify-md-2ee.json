@@ -1,0 +1,27 @@
+{
+  "unversionedId": "design/inotify",
+  "id": "design/inotify",
+  "isDocsHomePage": false,
+  "title": "Kata Containers support for `inotify`",
+  "description": "Background on inotify usage",
+  "source": "@site/docs/design/inotify.md",
+  "sourceDirName": "design",
+  "slug": "/design/inotify",
+  "permalink": "/docs/intro/docs/design/inotify",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/design/inotify.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_posititon": 13,
+    "sidebar_label": "Support for inotify"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nydus Design Proposal",
+    "permalink": "/docs/intro/docs/design/kata-nydus-design"
+  },
+  "next": {
+    "title": "Kata 2.0 Metrics Design",
+    "permalink": "/docs/intro/docs/design/kata-2-0-metrics"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/godbus/dbus/v5/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/godbus/dbus/v5/README",
+  "isDocsHomePage": false,
+  "title": "README",
+  "description": "Build Status",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/godbus/dbus/v5/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/godbus/dbus/v5",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/godbus/dbus/v5/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/godbus/dbus/v5/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/godbus/dbus/v5/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to Contribute",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/godbus/dbus/v5/CONTRIBUTING"
+  },
+  "next": {
+    "title": "How to contribute",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/google/uuid/CONTRIBUTING"
+  }
+}

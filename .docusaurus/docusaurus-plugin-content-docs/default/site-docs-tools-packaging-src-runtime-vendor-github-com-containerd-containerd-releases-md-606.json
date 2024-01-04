@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd/RELEASES",
+  "id": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd/RELEASES",
+  "isDocsHomePage": false,
+  "title": "Versioning and Release",
+  "description": "This document details the versioning and release plan for containerd. Stability",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/RELEASES.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/RELEASES",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/RELEASES",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/RELEASES.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Build containerd from source",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/BUILDING"
+  },
+  "next": {
+    "title": "Scope and Principles",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/SCOPE"
+  }
+}

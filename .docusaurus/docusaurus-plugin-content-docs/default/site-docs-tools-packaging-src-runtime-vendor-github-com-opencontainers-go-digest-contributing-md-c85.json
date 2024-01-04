@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/opencontainers/go-digest/CONTRIBUTING",
+  "id": "tools/packaging/src/runtime/vendor/github.com/opencontainers/go-digest/CONTRIBUTING",
+  "isDocsHomePage": false,
+  "title": "Contributing to Docker open source projects",
+  "description": "Want to hack on this project? Awesome! Here are instructions to get you started.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/opencontainers/go-digest/CONTRIBUTING.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/opencontainers/go-digest",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/opencontainers/go-digest/CONTRIBUTING",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/opencontainers/go-digest/CONTRIBUTING",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/opencontainers/go-digest/CONTRIBUTING.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Universally Unique Lexicographically Sortable Identifier",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/oklog/ulid/README"
+  },
+  "next": {
+    "title": "go-digest",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/opencontainers/go-digest/README"
+  }
+}

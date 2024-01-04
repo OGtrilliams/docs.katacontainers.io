@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/ReceiveMigrationData",
+  "id": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/ReceiveMigrationData",
+  "isDocsHomePage": false,
+  "title": "ReceiveMigrationData",
+  "description": "Properties",
+  "source": "@site/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/ReceiveMigrationData.md",
+  "sourceDirName": "tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs",
+  "slug": "/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/ReceiveMigrationData",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/ReceiveMigrationData",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/ReceiveMigrationData.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RateLimiterConfig",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/RateLimiterConfig"
+  },
+  "next": {
+    "title": "RestoreConfig",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/client/docs/RestoreConfig"
+  }
+}

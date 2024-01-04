@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/containerd/typeurl/v2/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/containerd/typeurl/v2/README",
+  "isDocsHomePage": false,
+  "title": "typeurl",
+  "description": "PkgGoDev",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/containerd/typeurl/v2/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/containerd/typeurl/v2",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/containerd/typeurl/v2/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/typeurl/v2/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/containerd/typeurl/v2/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ttrpc",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/ttrpc/README"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containernetworking/plugins/pkg/ns/README"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/safchain/ethtool/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/safchain/ethtool/README",
+  "isDocsHomePage": false,
+  "title": "ethtool go package",
+  "description": "Build Status",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/safchain/ethtool/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/safchain/ethtool",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/safchain/ethtool/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/safchain/ethtool/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/safchain/ethtool/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/russross/blackfriday/v2/README"
+  },
+  "next": {
+    "title": "1.8.1",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/sirupsen/logrus/CHANGELOG"
+  }
+}

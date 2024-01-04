@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime-rs/crates/hypervisor/README",
+  "id": "tools/packaging/src/runtime-rs/crates/hypervisor/README",
+  "isDocsHomePage": false,
+  "title": "Multi-vmm support for runtime-rs",
+  "description": "0. Status",
+  "source": "@site/docs/tools/packaging/src/runtime-rs/crates/hypervisor/README.md",
+  "sourceDirName": "tools/packaging/src/runtime-rs/crates/hypervisor",
+  "slug": "/tools/packaging/src/runtime-rs/crates/hypervisor/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime-rs/crates/hypervisor/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime-rs/crates/hypervisor/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "runtime-rs",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime-rs/README"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime-rs/crates/shim-ctl/README"
+  }
+}

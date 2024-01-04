@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd/ADOPTERS",
+  "id": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd/ADOPTERS",
+  "isDocsHomePage": false,
+  "title": "ADOPTERS",
+  "description": "containerd Adopters",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/ADOPTERS.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/ADOPTERS",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/ADOPTERS",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/ADOPTERS.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/README"
+  },
+  "next": {
+    "title": "code-of-conduct",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/code-of-conduct"
+  }
+}

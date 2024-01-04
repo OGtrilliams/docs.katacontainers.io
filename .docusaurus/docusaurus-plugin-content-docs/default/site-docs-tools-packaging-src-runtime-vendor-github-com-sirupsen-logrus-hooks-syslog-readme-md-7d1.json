@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/sirupsen/logrus/hooks/syslog/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/sirupsen/logrus/hooks/syslog/README",
+  "isDocsHomePage": false,
+  "title": "Syslog Hooks for Logrus <img src=\"http://i.imgur.com/hTeVwmJ.png\" width=\"40\" height=\"40\" alt=\":walrus:\" class=\"emoji\" title=\":walrus:\"/>",
+  "description": "Usage",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/sirupsen/logrus/hooks/syslog/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/sirupsen/logrus/hooks/syslog",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/sirupsen/logrus/hooks/syslog/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/sirupsen/logrus/hooks/syslog/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/sirupsen/logrus/hooks/syslog/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Logrus <img src=\"http://i.imgur.com/hTeVwmJ.png\" width=\"40\" height=\"40\" alt=\":walrus:\" class=\"emoji\" title=\":walrus:\"/> [![Build Status](https://github.com/sirupsen/logrus/workflows/CI/badge.svg)](https://github.com/sirupsen/logrus/actions?query=workflow%3ACI) [![Build Status](https://travis-ci.org/sirupsen/logrus.svg?branch=master)](https://travis-ci.org/sirupsen/logrus) [![Go Reference](https://pkg.go.dev/badge/github.com/sirupsen/logrus.svg)](https://pkg.go.dev/github.com/sirupsen/logrus)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/sirupsen/logrus/README"
+  },
+  "next": {
+    "title": "Contributor Covenant Code of Conduct",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/urfave/cli/CODE_OF_CONDUCT"
+  }
+}

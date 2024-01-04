@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/hashicorp/errwrap/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/hashicorp/errwrap/README",
+  "isDocsHomePage": false,
+  "title": "errwrap",
+  "description": "errwrap is a package for Go that formalizes the pattern of wrapping errors",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/hashicorp/errwrap/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/hashicorp/errwrap",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/hashicorp/errwrap/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/hashicorp/errwrap/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/hashicorp/errwrap/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "uuid ![build status](https://travis-ci.org/google/uuid.svg?branch=master)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/google/uuid/README"
+  },
+  "next": {
+    "title": "go-multierror",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/hashicorp/go-multierror/README"
+  }
+}

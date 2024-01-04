@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/urlesc/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/urlesc/README",
+  "isDocsHomePage": false,
+  "title": "urlesc [![Build Status](https://travis-ci.org/PuerkitoBio/urlesc.svg?branch=master)](https://travis-ci.org/PuerkitoBio/urlesc) [![GoDoc](http://godoc.org/github.com/PuerkitoBio/urlesc?status.svg)](http://godoc.org/github.com/PuerkitoBio/urlesc)",
+  "description": "Package urlesc implements query escaping as per RFC 3986.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/urlesc/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/urlesc",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/urlesc/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/urlesc/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/urlesc/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Purell",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/purell/README"
+  },
+  "next": {
+    "title": "govalidator",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/README"
+  }
+}

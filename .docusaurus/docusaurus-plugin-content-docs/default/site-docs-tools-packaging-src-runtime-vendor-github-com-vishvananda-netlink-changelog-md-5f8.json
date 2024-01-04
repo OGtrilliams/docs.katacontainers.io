@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/vishvananda/netlink/CHANGELOG",
+  "id": "tools/packaging/src/runtime/vendor/github.com/vishvananda/netlink/CHANGELOG",
+  "isDocsHomePage": false,
+  "title": "Changelog",
+  "description": "1.0.0 (2018-03-15)",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/vishvananda/netlink/CHANGELOG.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/vishvananda/netlink",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/vishvananda/netlink/CHANGELOG",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/vishvananda/netlink/CHANGELOG",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/vishvananda/netlink/CHANGELOG.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cli",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/urfave/cli/README"
+  },
+  "next": {
+    "title": "netlink - netlink library for go",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/vishvananda/netlink/README"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/CONTRIBUTING",
+  "id": "tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/CONTRIBUTING",
+  "isDocsHomePage": false,
+  "title": "Contributing to opentelemetry-go",
+  "description": "The Go special interest group (SIG) meets regularly. See the",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/CONTRIBUTING.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel",
+  "slug": "/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/CONTRIBUTING",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/CONTRIBUTING",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/CONTRIBUTING.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Changelog",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/CHANGELOG"
+  },
+  "next": {
+    "title": "OpenTelemetry-Go",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/README"
+  }
+}

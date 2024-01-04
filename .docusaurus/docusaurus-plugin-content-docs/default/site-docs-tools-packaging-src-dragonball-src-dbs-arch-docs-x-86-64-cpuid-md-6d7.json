@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/dragonball/src/dbs_arch/docs/x86_64_cpuid",
+  "id": "tools/packaging/src/dragonball/src/dbs_arch/docs/x86_64_cpuid",
+  "isDocsHomePage": false,
+  "title": "CPUID",
+  "description": "Design",
+  "source": "@site/docs/tools/packaging/src/dragonball/src/dbs_arch/docs/x86_64_cpuid.md",
+  "sourceDirName": "tools/packaging/src/dragonball/src/dbs_arch/docs",
+  "slug": "/tools/packaging/src/dragonball/src/dbs_arch/docs/x86_64_cpuid",
+  "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_arch/docs/x86_64_cpuid",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/dragonball/src/dbs_arch/docs/x86_64_cpuid.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dbs-arch",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_arch/README"
+  },
+  "next": {
+    "title": "dbs-boot",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_boot/README"
+  }
+}

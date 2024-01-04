@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/virtcontainers/experimental/README",
+  "id": "tools/packaging/src/runtime/virtcontainers/experimental/README",
+  "isDocsHomePage": false,
+  "title": "Experimental package description",
+  "description": "* What are \"experimental\" features?",
+  "source": "@site/docs/tools/packaging/src/runtime/virtcontainers/experimental/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/virtcontainers/experimental",
+  "slug": "/tools/packaging/src/runtime/virtcontainers/experimental/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/experimental/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/virtcontainers/experimental/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "virtcontainers 1.0 API",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/documentation/api/1.0/api"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/persist/plugin/README"
+  }
+}

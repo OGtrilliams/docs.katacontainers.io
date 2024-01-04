@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/tools/kata-ctl/README",
+  "id": "tools/packaging/src/tools/kata-ctl/README",
+  "isDocsHomePage": false,
+  "title": "Kata Containers control tool",
+  "description": "Overview",
+  "source": "@site/docs/tools/packaging/src/tools/kata-ctl/README.md",
+  "sourceDirName": "tools/packaging/src/tools/kata-ctl",
+  "slug": "/tools/packaging/src/tools/kata-ctl/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/kata-ctl/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy Kata Direct Volume CSI and Do Validation",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol"
+  },
+  "next": {
+    "title": "kata-log-parser",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README"
+  }
+}

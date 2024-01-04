@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/klauspost/compress/fse/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/klauspost/compress/fse/README",
+  "isDocsHomePage": false,
+  "title": "Finite State Entropy",
+  "description": "This package provides Finite State Entropy encoding and decoding.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/fse/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/klauspost/compress/fse",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/fse/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/fse/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/fse/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "compress",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/README"
+  },
+  "next": {
+    "title": "Huff0 entropy compression",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/huff0/README"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tools/packaging/src/tools/trace-forwarder/README",
+  "id": "tools/packaging/src/tools/trace-forwarder/README",
+  "isDocsHomePage": false,
+  "title": "Trace Forwarder",
+  "description": "Overview",
+  "source": "@site/docs/tools/packaging/src/tools/trace-forwarder/README.md",
+  "sourceDirName": "tools/packaging/src/tools/trace-forwarder",
+  "slug": "/tools/packaging/src/tools/trace-forwarder/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/tools/trace-forwarder/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/trace-forwarder/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/runk/README"
+  }
+}

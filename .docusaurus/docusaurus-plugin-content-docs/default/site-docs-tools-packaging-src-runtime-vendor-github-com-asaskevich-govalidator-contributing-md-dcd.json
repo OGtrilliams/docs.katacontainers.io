@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/CONTRIBUTING",
+  "id": "tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/CONTRIBUTING",
+  "isDocsHomePage": false,
+  "title": "CONTRIBUTING",
+  "description": "Support",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/CONTRIBUTING.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/CONTRIBUTING",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/CONTRIBUTING",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/CONTRIBUTING.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributor Code of Conduct",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/CODE_OF_CONDUCT"
+  },
+  "next": {
+    "title": "semver for golang [![Build Status](https://travis-ci.org/blang/semver.svg?branch=master)](https://travis-ci.org/blang/semver) [![GoDoc](https://godoc.org/github.com/blang/semver?status.png)](https://godoc.org/github.com/blang/semver) [![Coverage Status](https://img.shields.io/coveralls/blang/semver.svg)](https://coveralls.io/r/blang/semver?branch=master)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/blang/semver/README"
+  }
+}

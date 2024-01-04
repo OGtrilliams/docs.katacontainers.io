@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd/BUILDING",
+  "id": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd/BUILDING",
+  "isDocsHomePage": false,
+  "title": "Build containerd from source",
+  "description": "This guide is useful if you intend to contribute on containerd. Thanks for your",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/BUILDING.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/BUILDING",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/BUILDING",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/BUILDING.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "code-of-conduct",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/code-of-conduct"
+  },
+  "next": {
+    "title": "Versioning and Release",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/RELEASES"
+  }
+}

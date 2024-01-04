@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/opencontainers/selinux/pkg/pwalkdir/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/opencontainers/selinux/pkg/pwalkdir/README",
+  "isDocsHomePage": false,
+  "title": "README",
+  "description": "pwalkdir: parallel implementation of filepath.WalkDir",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/opencontainers/selinux/pkg/pwalkdir/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/opencontainers/selinux/pkg/pwalkdir",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/opencontainers/selinux/pkg/pwalkdir/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/opencontainers/selinux/pkg/pwalkdir/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/opencontainers/selinux/pkg/pwalkdir/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "go-digest",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/opencontainers/go-digest/README"
+  },
+  "next": {
+    "title": "memory",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/pbnjay/memory/README"
+  }
+}

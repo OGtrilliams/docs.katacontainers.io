@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime-rs/README",
+  "id": "tools/packaging/src/runtime-rs/README",
+  "isDocsHomePage": false,
+  "title": "runtime-rs",
+  "description": "Wath's runtime-rs",
+  "source": "@site/docs/tools/packaging/src/runtime-rs/README.md",
+  "sourceDirName": "tools/packaging/src/runtime-rs",
+  "slug": "/tools/packaging/src/runtime-rs/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime-rs/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime-rs/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Test Utilities",
+    "permalink": "/docs/intro/docs/tools/packaging/src/libs/test-utils/README"
+  },
+  "next": {
+    "title": "Multi-vmm support for runtime-rs",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime-rs/crates/hypervisor/README"
+  }
+}

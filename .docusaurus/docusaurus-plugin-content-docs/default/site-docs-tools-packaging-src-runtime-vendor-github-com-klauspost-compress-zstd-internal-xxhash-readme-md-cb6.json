@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd/internal/xxhash/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd/internal/xxhash/README",
+  "isDocsHomePage": false,
+  "title": "xxhash",
+  "description": "VENDORED: Go to github.com/cespare/xxhash for original package.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd/internal/xxhash/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd/internal/xxhash",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd/internal/xxhash/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd/internal/xxhash/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd/internal/xxhash/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zstd",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd/README"
+  },
+  "next": {
+    "title": "CHANGELOG",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/socket/CHANGELOG"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/CHANGELOG",
+  "id": "tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/CHANGELOG",
+  "isDocsHomePage": false,
+  "title": "Changelog",
+  "description": "All notable changes to this project will be documented in this file.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/CHANGELOG.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/CHANGELOG",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/CHANGELOG",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/CHANGELOG.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/docker/go-units/README"
+  },
+  "next": {
+    "title": "CONTRIBUTING",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/CONTRIBUTING"
+  }
+}

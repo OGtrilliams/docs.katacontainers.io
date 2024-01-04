@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/dragonball/src/dbs_tdx/README",
+  "id": "tools/packaging/src/dragonball/src/dbs_tdx/README",
+  "isDocsHomePage": false,
+  "title": "dbs-tdx",
+  "description": "This crate is a collection of modules that provides helpers and utilities to create a TDX Dragonball VM.",
+  "source": "@site/docs/tools/packaging/src/dragonball/src/dbs_tdx/README.md",
+  "sourceDirName": "tools/packaging/src/dragonball/src/dbs_tdx",
+  "slug": "/tools/packaging/src/dragonball/src/dbs_tdx/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_tdx/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/dragonball/src/dbs_tdx/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dbs-pci",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_pci/README"
+  },
+  "next": {
+    "title": "dbs-upcall",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_upcall/README"
+  }
+}

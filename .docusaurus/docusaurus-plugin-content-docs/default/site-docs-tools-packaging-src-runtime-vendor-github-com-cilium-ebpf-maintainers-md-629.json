@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/MAINTAINERS",
+  "id": "tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/MAINTAINERS",
+  "isDocsHomePage": false,
+  "title": "Maintainers",
+  "description": "* [Lorenz Bauer]",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/MAINTAINERS.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/cilium/ebpf",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/MAINTAINERS",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/MAINTAINERS",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/MAINTAINERS.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "eBPF",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/README"
+  },
+  "next": {
+    "title": "Architecture of the library",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/ARCHITECTURE"
+  }
+}

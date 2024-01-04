@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/dragonball/docs/api",
+  "id": "tools/packaging/src/dragonball/docs/api",
+  "isDocsHomePage": false,
+  "title": "API",
+  "description": "We provide plenty API for Kata runtime to interact with Dragonball virtual machine manager.",
+  "source": "@site/docs/tools/packaging/src/dragonball/docs/api.md",
+  "sourceDirName": "tools/packaging/src/dragonball/docs",
+  "slug": "/tools/packaging/src/dragonball/docs/api",
+  "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/docs/api",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/dragonball/docs/api.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/README"
+  },
+  "next": {
+    "title": "Device",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/docs/device"
+  }
+}

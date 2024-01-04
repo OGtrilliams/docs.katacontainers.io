@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/README",
+  "isDocsHomePage": false,
+  "title": "vsock [![Test Status](https://github.com/mdlayher/vsock/workflows/Linux%20Test/badge.svg)](https://github.com/mdlayher/vsock/actions) [![Go Reference](https://pkg.go.dev/badge/github.com/mdlayher/vsock.svg)](https://pkg.go.dev/github.com/mdlayher/vsock)  [![Go Report Card](https://goreportcard.com/badge/github.com/mdlayher/vsock)](https://goreportcard.com/report/github.com/mdlayher/vsock)",
+  "description": "Package vsock provides access to Linux VM sockets (AF_VSOCK) for",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MIT License",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/LICENSE"
+  },
+  "next": {
+    "title": "CHANGELOG",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure/CHANGELOG"
+  }
+}

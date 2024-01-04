@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/CODE_OF_CONDUCT",
+  "id": "tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/CODE_OF_CONDUCT",
+  "isDocsHomePage": false,
+  "title": "Contributor Covenant Code of Conduct",
+  "description": "Our Pledge",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/CODE_OF_CONDUCT.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/cilium/ebpf",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/CODE_OF_CONDUCT",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/CODE_OF_CONDUCT",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/CODE_OF_CONDUCT.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to contribute",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/CONTRIBUTING"
+  },
+  "next": {
+    "title": "cgroups",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/cgroups/README"
+  }
+}

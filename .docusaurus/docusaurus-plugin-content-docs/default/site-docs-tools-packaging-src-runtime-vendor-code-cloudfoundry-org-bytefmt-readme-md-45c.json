@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/code.cloudfoundry.org/bytefmt/README",
+  "id": "tools/packaging/src/runtime/vendor/code.cloudfoundry.org/bytefmt/README",
+  "isDocsHomePage": false,
+  "title": "bytefmt",
+  "description": "Note: This repository should be imported as code.cloudfoundry.org/bytefmt.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/code.cloudfoundry.org/bytefmt/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/code.cloudfoundry.org/bytefmt",
+  "slug": "/tools/packaging/src/runtime/vendor/code.cloudfoundry.org/bytefmt/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/code.cloudfoundry.org/bytefmt/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/code.cloudfoundry.org/bytefmt/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Signals package",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/pkg/signals/README"
+  },
+  "next": {
+    "title": "go-fuzz-headers",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/AdaLogics/go-fuzz-headers/README"
+  }
+}

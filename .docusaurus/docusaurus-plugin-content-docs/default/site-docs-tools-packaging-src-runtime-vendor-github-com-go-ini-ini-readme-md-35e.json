@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/go-ini/ini/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/go-ini/ini/README",
+  "isDocsHomePage": false,
+  "title": "INI [![Build Status](https://travis-ci.org/go-ini/ini.svg?branch=master)](https://travis-ci.org/go-ini/ini) [![Sourcegraph](https://sourcegraph.com/github.com/go-ini/ini/-/badge.svg)](https://sourcegraph.com/github.com/go-ini/ini?badge)",
+  "description": "Package ini provides INI file read and write functionality in Go.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/go-ini/ini/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/go-ini/ini",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/go-ini/ini/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-ini/ini/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/go-ini/ini/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/README"
+  },
+  "next": {
+    "title": "README_ZH",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-ini/ini/README_ZH"
+  }
+}

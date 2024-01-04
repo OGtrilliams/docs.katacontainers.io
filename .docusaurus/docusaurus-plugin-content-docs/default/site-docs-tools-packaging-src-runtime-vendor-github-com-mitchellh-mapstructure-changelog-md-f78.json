@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure/CHANGELOG",
+  "id": "tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure/CHANGELOG",
+  "isDocsHomePage": false,
+  "title": "CHANGELOG",
+  "description": "1.5.0",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure/CHANGELOG.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure/CHANGELOG",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure/CHANGELOG",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure/CHANGELOG.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vsock [![Test Status](https://github.com/mdlayher/vsock/workflows/Linux%20Test/badge.svg)](https://github.com/mdlayher/vsock/actions) [![Go Reference](https://pkg.go.dev/badge/github.com/mdlayher/vsock.svg)](https://pkg.go.dev/github.com/mdlayher/vsock)  [![Go Report Card](https://goreportcard.com/badge/github.com/mdlayher/vsock)](https://goreportcard.com/report/github.com/mdlayher/vsock)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/README"
+  },
+  "next": {
+    "title": "mapstructure [![Godoc](https://godoc.org/github.com/mitchellh/mapstructure?status.svg)](https://godoc.org/github.com/mitchellh/mapstructure)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure/README"
+  }
+}

@@ -19,6 +19,11 @@
         "href": "/docs/intro/docs/requirements"
       },
       {
+        "type": "link",
+        "label": "Developer Guide",
+        "href": "/docs/intro/docs/Developer-Guide"
+      },
+      {
         "type": "category",
         "label": "API Reference",
         "items": [
@@ -162,11 +167,6 @@
         "collapsible": true
       },
       {
-        "type": "link",
-        "label": "inotify",
-        "href": "/docs/intro/docs/inotify"
-      },
-      {
         "type": "category",
         "label": "install",
         "items": [
@@ -246,198 +246,396 @@
         "items": [
           {
             "type": "category",
-            "label": "osbuilder",
-            "items": [
-              {
-                "type": "link",
-                "label": "osbuilder",
-                "href": "/docs/intro/docs/tools/osbuilder/README"
-              },
-              {
-                "type": "category",
-                "label": "dockerfiles",
-                "items": [
-                  {
-                    "type": "category",
-                    "label": "QAT",
-                    "items": [
-                      {
-                        "type": "link",
-                        "label": "README",
-                        "href": "/docs/intro/docs/tools/osbuilder/dockerfiles/QAT/README"
-                      }
-                    ],
-                    "collapsed": true,
-                    "collapsible": true
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "image-builder",
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "Kata Containers image generation",
-                    "href": "/docs/intro/docs/tools/osbuilder/image-builder/README"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "initrd-builder",
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "Kata Containers initrd image generation",
-                    "href": "/docs/intro/docs/tools/osbuilder/initrd-builder/README"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "rootfs-builder",
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "Building a Guest OS rootfs for Kata Containers",
-                    "href": "/docs/intro/docs/tools/osbuilder/rootfs-builder/README"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "tests",
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "README",
-                    "href": "/docs/intro/docs/tools/osbuilder/tests/README"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              }
-            ],
-            "collapsed": true,
-            "collapsible": true
-          },
-          {
-            "type": "category",
             "label": "packaging",
             "items": [
               {
-                "type": "link",
-                "label": "Kata Containers packaging",
-                "href": "/docs/intro/docs/tools/packaging/README"
-              },
-              {
                 "type": "category",
-                "label": "kata-debug",
+                "label": "src",
                 "items": [
-                  {
-                    "type": "link",
-                    "label": "kata-debug",
-                    "href": "/docs/intro/docs/tools/packaging/kata-debug/README"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "kata-deploy",
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "kata-deploy",
-                    "href": "/docs/intro/docs/tools/packaging/kata-deploy/README"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "kernel",
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "Build Kata Containers Kernel",
-                    "href": "/docs/intro/docs/tools/packaging/kernel/README"
-                  },
                   {
                     "type": "category",
-                    "label": "configs",
+                    "label": "tools",
                     "items": [
                       {
-                        "type": "link",
-                        "label": "Kata Containers kernel config files",
-                        "href": "/docs/intro/docs/tools/packaging/kernel/configs/README"
+                        "type": "category",
+                        "label": "agent-ctl",
+                        "items": [
+                          {
+                            "type": "link",
+                            "label": "Agent Control tool",
+                            "href": "/docs/intro/docs/tools/packaging/src/tools/agent-ctl/README"
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
+                      },
+                      {
+                        "type": "category",
+                        "label": "csi-kata-directvolume",
+                        "items": [
+                          {
+                            "type": "link",
+                            "label": "CSI Direct Volume Driver",
+                            "href": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/README"
+                          },
+                          {
+                            "type": "category",
+                            "label": "docs",
+                            "items": [
+                              {
+                                "type": "link",
+                                "label": "Deploy Kata Direct Volume CSI and Do Validation",
+                                "href": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol"
+                              }
+                            ],
+                            "collapsed": true,
+                            "collapsible": true
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
+                      },
+                      {
+                        "type": "category",
+                        "label": "kata-ctl",
+                        "items": [
+                          {
+                            "type": "link",
+                            "label": "Kata Containers control tool",
+                            "href": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/README"
+                          },
+                          {
+                            "type": "category",
+                            "label": "src",
+                            "items": [
+                              {
+                                "type": "category",
+                                "label": "log_parser",
+                                "items": [
+                                  {
+                                    "type": "link",
+                                    "label": "kata-log-parser",
+                                    "href": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README"
+                                  }
+                                ],
+                                "collapsed": true,
+                                "collapsible": true
+                              }
+                            ],
+                            "collapsed": true,
+                            "collapsible": true
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
+                      },
+                      {
+                        "type": "category",
+                        "label": "log-parser",
+                        "items": [
+                          {
+                            "type": "link",
+                            "label": "kata-log-parser",
+                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/README"
+                          },
+                          {
+                            "type": "category",
+                            "label": "vendor",
+                            "items": [
+                              {
+                                "type": "category",
+                                "label": "github.com",
+                                "items": [
+                                  {
+                                    "type": "category",
+                                    "label": "BurntSushi",
+                                    "items": [
+                                      {
+                                        "type": "category",
+                                        "label": "toml",
+                                        "items": [
+                                          {
+                                            "type": "link",
+                                            "label": "README",
+                                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README"
+                                          }
+                                        ],
+                                        "collapsed": true,
+                                        "collapsible": true
+                                      }
+                                    ],
+                                    "collapsed": true,
+                                    "collapsible": true
+                                  },
+                                  {
+                                    "type": "category",
+                                    "label": "cpuguy83",
+                                    "items": [
+                                      {
+                                        "type": "category",
+                                        "label": "go-md2man",
+                                        "items": [
+                                          {
+                                            "type": "category",
+                                            "label": "v2",
+                                            "items": [
+                                              {
+                                                "type": "link",
+                                                "label": "LICENSE",
+                                                "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE"
+                                              }
+                                            ],
+                                            "collapsed": true,
+                                            "collapsible": true
+                                          }
+                                        ],
+                                        "collapsed": true,
+                                        "collapsible": true
+                                      }
+                                    ],
+                                    "collapsed": true,
+                                    "collapsible": true
+                                  },
+                                  {
+                                    "type": "category",
+                                    "label": "go-logfmt",
+                                    "items": [
+                                      {
+                                        "type": "category",
+                                        "label": "logfmt",
+                                        "items": [
+                                          {
+                                            "type": "link",
+                                            "label": "Changelog",
+                                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG"
+                                          },
+                                          {
+                                            "type": "link",
+                                            "label": "README",
+                                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README"
+                                          }
+                                        ],
+                                        "collapsed": true,
+                                        "collapsible": true
+                                      }
+                                    ],
+                                    "collapsed": true,
+                                    "collapsible": true
+                                  },
+                                  {
+                                    "type": "category",
+                                    "label": "russross",
+                                    "items": [
+                                      {
+                                        "type": "category",
+                                        "label": "blackfriday",
+                                        "items": [
+                                          {
+                                            "type": "category",
+                                            "label": "v2",
+                                            "items": [
+                                              {
+                                                "type": "link",
+                                                "label": "Blackfriday [![Build Status](https://travis-ci.org/russross/blackfriday.svg?branch=master)](https://travis-ci.org/russross/blackfriday)",
+                                                "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README"
+                                              }
+                                            ],
+                                            "collapsed": true,
+                                            "collapsible": true
+                                          }
+                                        ],
+                                        "collapsed": true,
+                                        "collapsible": true
+                                      }
+                                    ],
+                                    "collapsed": true,
+                                    "collapsible": true
+                                  },
+                                  {
+                                    "type": "category",
+                                    "label": "shurcooL",
+                                    "items": [
+                                      {
+                                        "type": "category",
+                                        "label": "sanitized_anchor_name",
+                                        "items": [
+                                          {
+                                            "type": "link",
+                                            "label": "sanitized_anchor_name",
+                                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README"
+                                          }
+                                        ],
+                                        "collapsed": true,
+                                        "collapsible": true
+                                      }
+                                    ],
+                                    "collapsed": true,
+                                    "collapsible": true
+                                  },
+                                  {
+                                    "type": "category",
+                                    "label": "sirupsen",
+                                    "items": [
+                                      {
+                                        "type": "category",
+                                        "label": "logrus",
+                                        "items": [
+                                          {
+                                            "type": "link",
+                                            "label": "1.8.1",
+                                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG"
+                                          },
+                                          {
+                                            "type": "link",
+                                            "label": "Logrus <img src=\"http://i.imgur.com/hTeVwmJ.png\" width=\"40\" height=\"40\" alt=\":walrus:\" class=\"emoji\" title=\":walrus:\"/> [![Build Status](https://travis-ci.org/sirupsen/logrus.svg?branch=master)](https://travis-ci.org/sirupsen/logrus) [![GoDoc](https://godoc.org/github.com/sirupsen/logrus?status.svg)](https://godoc.org/github.com/sirupsen/logrus)",
+                                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README"
+                                          }
+                                        ],
+                                        "collapsed": true,
+                                        "collapsible": true
+                                      }
+                                    ],
+                                    "collapsed": true,
+                                    "collapsible": true
+                                  },
+                                  {
+                                    "type": "category",
+                                    "label": "urfave",
+                                    "items": [
+                                      {
+                                        "type": "category",
+                                        "label": "cli",
+                                        "items": [
+                                          {
+                                            "type": "link",
+                                            "label": "Contributor Covenant Code of Conduct",
+                                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT"
+                                          },
+                                          {
+                                            "type": "link",
+                                            "label": "cli",
+                                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README"
+                                          }
+                                        ],
+                                        "collapsed": true,
+                                        "collapsible": true
+                                      }
+                                    ],
+                                    "collapsed": true,
+                                    "collapsible": true
+                                  }
+                                ],
+                                "collapsed": true,
+                                "collapsible": true
+                              },
+                              {
+                                "type": "category",
+                                "label": "golang.org",
+                                "items": [
+                                  {
+                                    "type": "category",
+                                    "label": "x",
+                                    "items": [
+                                      {
+                                        "type": "category",
+                                        "label": "sys",
+                                        "items": [
+                                          {
+                                            "type": "category",
+                                            "label": "unix",
+                                            "items": [
+                                              {
+                                                "type": "link",
+                                                "label": "Building `sys/unix`",
+                                                "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README"
+                                              }
+                                            ],
+                                            "collapsed": true,
+                                            "collapsible": true
+                                          }
+                                        ],
+                                        "collapsed": true,
+                                        "collapsible": true
+                                      }
+                                    ],
+                                    "collapsed": true,
+                                    "collapsible": true
+                                  }
+                                ],
+                                "collapsed": true,
+                                "collapsible": true
+                              },
+                              {
+                                "type": "category",
+                                "label": "gopkg.in",
+                                "items": [
+                                  {
+                                    "type": "category",
+                                    "label": "yaml.v2",
+                                    "items": [
+                                      {
+                                        "type": "link",
+                                        "label": "YAML support for the Go language",
+                                        "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README"
+                                      }
+                                    ],
+                                    "collapsed": true,
+                                    "collapsible": true
+                                  },
+                                  {
+                                    "type": "category",
+                                    "label": "yaml.v3",
+                                    "items": [
+                                      {
+                                        "type": "link",
+                                        "label": "YAML support for the Go language",
+                                        "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README"
+                                      }
+                                    ],
+                                    "collapsed": true,
+                                    "collapsible": true
+                                  }
+                                ],
+                                "collapsed": true,
+                                "collapsible": true
+                              }
+                            ],
+                            "collapsed": true,
+                            "collapsible": true
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
+                      },
+                      {
+                        "type": "category",
+                        "label": "runk",
+                        "items": [
+                          {
+                            "type": "link",
+                            "label": "README",
+                            "href": "/docs/intro/docs/tools/packaging/src/tools/runk/README"
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
+                      },
+                      {
+                        "type": "category",
+                        "label": "trace-forwarder",
+                        "items": [
+                          {
+                            "type": "link",
+                            "label": "Trace Forwarder",
+                            "href": "/docs/intro/docs/tools/packaging/src/tools/trace-forwarder/README"
+                          }
+                        ],
+                        "collapsed": true,
+                        "collapsible": true
                       }
                     ],
                     "collapsed": true,
                     "collapsible": true
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "qemu",
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "QEMU patches",
-                    "href": "/docs/intro/docs/tools/packaging/qemu/README"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "release",
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "Release information",
-                    "href": "/docs/intro/docs/tools/packaging/release/README"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "scripts",
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "Packaging scripts",
-                    "href": "/docs/intro/docs/tools/packaging/scripts/README"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "static-build",
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "Static build",
-                    "href": "/docs/intro/docs/tools/packaging/static-build/README"
                   }
                 ],
                 "collapsed": true,

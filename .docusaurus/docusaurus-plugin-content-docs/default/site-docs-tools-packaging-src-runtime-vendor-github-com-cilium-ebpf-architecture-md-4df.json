@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/ARCHITECTURE",
+  "id": "tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/ARCHITECTURE",
+  "isDocsHomePage": false,
+  "title": "Architecture of the library",
+  "description": "ELF -> Specifications -> Objects -> Links",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/ARCHITECTURE.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/cilium/ebpf",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/ARCHITECTURE",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/ARCHITECTURE",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/ARCHITECTURE.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Maintainers",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/MAINTAINERS"
+  },
+  "next": {
+    "title": "How to contribute",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/CONTRIBUTING"
+  }
+}

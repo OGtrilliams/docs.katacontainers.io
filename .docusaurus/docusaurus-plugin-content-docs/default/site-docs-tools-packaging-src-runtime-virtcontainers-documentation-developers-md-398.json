@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/virtcontainers/documentation/Developers",
+  "id": "tools/packaging/src/runtime/virtcontainers/documentation/Developers",
+  "isDocsHomePage": false,
+  "title": "Prerequisites",
+  "description": "virtcontainers has a few prerequisites for development:",
+  "source": "@site/docs/tools/packaging/src/runtime/virtcontainers/documentation/Developers.md",
+  "sourceDirName": "tools/packaging/src/runtime/virtcontainers/documentation",
+  "slug": "/tools/packaging/src/runtime/virtcontainers/documentation/Developers",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/documentation/Developers",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/virtcontainers/documentation/Developers.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is it?",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/README"
+  },
+  "next": {
+    "title": "virtcontainers 1.0 API",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/documentation/api/1.0/api"
+  }
+}

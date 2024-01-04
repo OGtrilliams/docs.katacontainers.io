@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/dragonball/docs/upcall",
+  "id": "tools/packaging/src/dragonball/docs/upcall",
+  "isDocsHomePage": false,
+  "title": "Upcall",
+  "description": "What is Upcall?",
+  "source": "@site/docs/tools/packaging/src/dragonball/docs/upcall.md",
+  "sourceDirName": "tools/packaging/src/dragonball/docs",
+  "slug": "/tools/packaging/src/dragonball/docs/upcall",
+  "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/docs/upcall",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/dragonball/docs/upcall.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Device",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/docs/device"
+  },
+  "next": {
+    "title": "vCPU",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/docs/vcpu"
+  }
+}

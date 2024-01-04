@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/virtcontainers/documentation/api/1.0/api",
+  "id": "tools/packaging/src/runtime/virtcontainers/documentation/api/1.0/api",
+  "isDocsHomePage": false,
+  "title": "virtcontainers 1.0 API",
+  "description": "The virtcontainers 1.0 API operates on two high level objects:",
+  "source": "@site/docs/tools/packaging/src/runtime/virtcontainers/documentation/api/1.0/api.md",
+  "sourceDirName": "tools/packaging/src/runtime/virtcontainers/documentation/api/1.0",
+  "slug": "/tools/packaging/src/runtime/virtcontainers/documentation/api/1.0/api",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/documentation/api/1.0/api",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/virtcontainers/documentation/api/1.0/api.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prerequisites",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/documentation/Developers"
+  },
+  "next": {
+    "title": "Experimental package description",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/experimental/README"
+  }
+}

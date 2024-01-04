@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/oklog/ulid/AUTHORS",
+  "id": "tools/packaging/src/runtime/vendor/github.com/oklog/ulid/AUTHORS",
+  "isDocsHomePage": false,
+  "title": "AUTHORS",
+  "description": "- Peter Bourgon (@peterbourgon)",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/oklog/ulid/AUTHORS.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/oklog/ulid",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/oklog/ulid/AUTHORS",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/oklog/ulid/AUTHORS",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/oklog/ulid/AUTHORS.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/moby/sys/symlink/README"
+  },
+  "next": {
+    "title": "CHANGELOG",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/oklog/ulid/CHANGELOG"
+  }
+}

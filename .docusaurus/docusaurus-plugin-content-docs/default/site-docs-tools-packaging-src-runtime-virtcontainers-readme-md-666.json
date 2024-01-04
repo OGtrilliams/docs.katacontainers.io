@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/virtcontainers/README",
+  "id": "tools/packaging/src/runtime/virtcontainers/README",
+  "isDocsHomePage": false,
+  "title": "What is it?",
+  "description": "virtcontainers is a Go library that can be used to build hardware-virtualized container",
+  "source": "@site/docs/tools/packaging/src/runtime/virtcontainers/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/virtcontainers",
+  "slug": "/tools/packaging/src/runtime/virtcontainers/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/virtcontainers/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kubernetes Community Code of Conduct",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/code-of-conduct"
+  },
+  "next": {
+    "title": "Prerequisites",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/documentation/Developers"
+  }
+}

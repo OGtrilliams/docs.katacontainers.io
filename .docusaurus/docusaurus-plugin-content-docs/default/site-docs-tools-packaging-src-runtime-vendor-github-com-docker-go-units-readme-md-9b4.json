@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/docker/go-units/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/docker/go-units/README",
+  "isDocsHomePage": false,
+  "title": "README",
+  "description": "GoDoc",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/docker/go-units/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/docker/go-units",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/docker/go-units/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/docker/go-units/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/docker/go-units/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing to go-units",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/docker/go-units/CONTRIBUTING"
+  },
+  "next": {
+    "title": "Changelog",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/CHANGELOG"
+  }
+}

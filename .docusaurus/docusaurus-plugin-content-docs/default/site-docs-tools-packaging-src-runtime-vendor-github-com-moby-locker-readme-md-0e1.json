@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/moby/locker/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/moby/locker/README",
+  "isDocsHomePage": false,
+  "title": "Locker",
+  "description": "locker provides a mechanism for creating finer-grained locking to help",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/moby/locker/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/moby/locker",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/moby/locker/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/moby/locker/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/moby/locker/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mapstructure [![Godoc](https://godoc.org/github.com/mitchellh/mapstructure?status.svg)](https://godoc.org/github.com/mitchellh/mapstructure)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure/README"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/moby/sys/symlink/README"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/README",
+  "id": "tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/README",
+  "isDocsHomePage": false,
+  "title": "OpenTelemetry-Go",
+  "description": "CI",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel",
+  "slug": "/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing to opentelemetry-go",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/CONTRIBUTING"
+  },
+  "next": {
+    "title": "Release Process",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/RELEASING"
+  }
+}

@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Packaging scripts",
-    "permalink": "/docs/intro/docs/tools/packaging/scripts/README"
+    "title": "Trace Forwarder",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/trace-forwarder/README"
   }
 }

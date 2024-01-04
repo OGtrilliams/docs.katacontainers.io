@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/tools/log-parser/README",
+  "id": "tools/packaging/src/tools/log-parser/README",
+  "isDocsHomePage": false,
+  "title": "kata-log-parser",
+  "description": "Introduction",
+  "source": "@site/docs/tools/packaging/src/tools/log-parser/README.md",
+  "sourceDirName": "tools/packaging/src/tools/log-parser",
+  "slug": "/tools/packaging/src/tools/log-parser/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kata-log-parser",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README"
+  }
+}

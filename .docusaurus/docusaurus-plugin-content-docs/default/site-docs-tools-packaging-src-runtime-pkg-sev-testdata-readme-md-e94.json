@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/pkg/sev/testdata/README",
+  "id": "tools/packaging/src/runtime/pkg/sev/testdata/README",
+  "isDocsHomePage": false,
+  "title": "sev/testdata",
+  "description": "The ovmf_suffix.bin contains the last 4KB of the OVMF.fd binary from edk2's",
+  "source": "@site/docs/tools/packaging/src/runtime/pkg/sev/testdata/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/pkg/sev/testdata",
+  "slug": "/tools/packaging/src/runtime/pkg/sev/testdata/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/pkg/sev/testdata/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/pkg/sev/testdata/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AMD SEV confidential guest utilities",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/pkg/sev/README"
+  },
+  "next": {
+    "title": "Signals package",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/pkg/signals/README"
+  }
+}

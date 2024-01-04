@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/hashicorp/go-multierror/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/hashicorp/go-multierror/README",
+  "isDocsHomePage": false,
+  "title": "go-multierror",
+  "description": "CircleCI",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/hashicorp/go-multierror/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/hashicorp/go-multierror",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/hashicorp/go-multierror/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/hashicorp/go-multierror/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/hashicorp/go-multierror/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "errwrap",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/hashicorp/errwrap/README"
+  },
+  "next": {
+    "title": "cpuid",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/intel-go/cpuid/README"
+  }
+}

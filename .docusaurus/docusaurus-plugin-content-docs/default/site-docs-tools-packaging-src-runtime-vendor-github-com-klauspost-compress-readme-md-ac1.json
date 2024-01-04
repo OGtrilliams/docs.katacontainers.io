@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/klauspost/compress/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/klauspost/compress/README",
+  "isDocsHomePage": false,
+  "title": "compress",
+  "description": "This package provides various compression algorithms.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/klauspost/compress",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "license",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/josharian/intern/license"
+  },
+  "next": {
+    "title": "Finite State Entropy",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/fse/README"
+  }
+}

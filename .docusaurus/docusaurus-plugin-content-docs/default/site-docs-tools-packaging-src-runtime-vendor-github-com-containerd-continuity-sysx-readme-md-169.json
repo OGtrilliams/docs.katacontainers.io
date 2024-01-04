@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/containerd/continuity/sysx/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/containerd/continuity/sysx/README",
+  "isDocsHomePage": false,
+  "title": "README",
+  "description": "This package is for internal use only. It is intended to only have",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/containerd/continuity/sysx/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/containerd/continuity/sysx",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/containerd/continuity/sysx/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/continuity/sysx/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/containerd/continuity/sysx/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "README"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "containerd roadmap",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/ROADMAP"
+  },
+  "next": {
+    "title": "readme",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/fifo/readme"
+  }
+}

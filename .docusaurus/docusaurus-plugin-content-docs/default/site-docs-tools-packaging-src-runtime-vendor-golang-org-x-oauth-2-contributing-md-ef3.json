@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/golang.org/x/oauth2/CONTRIBUTING",
+  "id": "tools/packaging/src/runtime/vendor/golang.org/x/oauth2/CONTRIBUTING",
+  "isDocsHomePage": false,
+  "title": "Contributing to Go",
+  "description": "Go is an open source project.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/golang.org/x/oauth2/CONTRIBUTING.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/golang.org/x/oauth2",
+  "slug": "/tools/packaging/src/runtime/vendor/golang.org/x/oauth2/CONTRIBUTING",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/golang.org/x/oauth2/CONTRIBUTING",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/golang.org/x/oauth2/CONTRIBUTING.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OpenTelemetry-Go Jaeger Exporter",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/exporters/jaeger/README"
+  },
+  "next": {
+    "title": "OAuth2 for Go",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/golang.org/x/oauth2/README"
+  }
+}

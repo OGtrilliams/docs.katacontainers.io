@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/cyphar/filepath-securejoin/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/cyphar/filepath-securejoin/README",
+  "isDocsHomePage": false,
+  "title": "README",
+  "description": "filepath-securejoin ##",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/cyphar/filepath-securejoin/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/cyphar/filepath-securejoin",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/cyphar/filepath-securejoin/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cyphar/filepath-securejoin/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/cyphar/filepath-securejoin/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LICENSE",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE"
+  },
+  "next": {
+    "title": "Contributing to Docker open source projects",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/docker/go-events/CONTRIBUTING"
+  }
+}

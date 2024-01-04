@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/pkg/README",
+  "id": "tools/packaging/src/runtime/pkg/README",
+  "isDocsHomePage": false,
+  "title": "Kata golang packages",
+  "description": "This repository contains a number of packages in addition to the",
+  "source": "@site/docs/tools/packaging/src/runtime/pkg/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/pkg",
+  "slug": "/tools/packaging/src/runtime/pkg/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/pkg/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/pkg/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kata monitor",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/cmd/kata-monitor/README"
+  },
+  "next": {
+    "title": "Kata test utilities",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/pkg/katatestutils/README"
+  }
+}

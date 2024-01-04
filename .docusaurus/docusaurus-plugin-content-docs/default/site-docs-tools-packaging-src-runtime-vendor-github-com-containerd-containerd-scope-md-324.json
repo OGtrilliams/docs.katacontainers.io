@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd/SCOPE",
+  "id": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd/SCOPE",
+  "isDocsHomePage": false,
+  "title": "Scope and Principles",
+  "description": "Having a clearly defined scope of a project is important for ensuring consistency and focus.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/SCOPE.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/SCOPE",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/SCOPE",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/SCOPE.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versioning and Release",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/RELEASES"
+  },
+  "next": {
+    "title": "containerd roadmap",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/ROADMAP"
+  }
+}

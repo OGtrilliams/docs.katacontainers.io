@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/go-openapi/validate/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/go-openapi/validate/README",
+  "isDocsHomePage": false,
+  "title": "Validation helpers",
+  "description": "Build Status",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/validate/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/go-openapi/validate",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/go-openapi/validate/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/validate/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/validate/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributor Covenant Code of Conduct",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/validate/CODE_OF_CONDUCT"
+  },
+  "next": {
+    "title": "LICENSE",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-stack/stack/LICENSE"
+  }
+}

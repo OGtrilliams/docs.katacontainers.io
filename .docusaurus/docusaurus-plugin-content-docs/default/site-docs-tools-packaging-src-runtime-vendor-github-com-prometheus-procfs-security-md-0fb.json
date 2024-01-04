@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/SECURITY",
+  "id": "tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/SECURITY",
+  "isDocsHomePage": false,
+  "title": "Reporting a security issue",
+  "description": "The Prometheus security policy, including how to report vulnerabilities, can be",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/SECURITY.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/prometheus/procfs",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/SECURITY",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/SECURITY",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/SECURITY.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "procfs",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/README"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/russross/blackfriday/v2/README"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/pkg/errors/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/pkg/errors/README",
+  "isDocsHomePage": false,
+  "title": "errors [![Travis-CI](https://travis-ci.org/pkg/errors.svg)](https://travis-ci.org/pkg/errors) [![AppVeyor](https://ci.appveyor.com/api/projects/status/b98mptawhudj53ep/branch/master?svg=true)](https://ci.appveyor.com/project/davecheney/errors/branch/master) [![GoDoc](https://godoc.org/github.com/pkg/errors?status.svg)](http://godoc.org/github.com/pkg/errors) [![Report card](https://goreportcard.com/badge/github.com/pkg/errors)](https://goreportcard.com/report/github.com/pkg/errors) [![Sourcegraph](https://sourcegraph.com/github.com/pkg/errors/-/badge.svg)](https://sourcegraph.com/github.com/pkg/errors?badge)",
+  "description": "Package errors provides simple error handling primitives.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/pkg/errors/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/pkg/errors",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/pkg/errors/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/pkg/errors/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/pkg/errors/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "memory",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/pbnjay/memory/README"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/client_golang/prometheus/README"
+  }
+}

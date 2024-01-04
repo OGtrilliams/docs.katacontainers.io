@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/README",
+  "isDocsHomePage": false,
+  "title": "README",
+  "description": "fsnotify is a Go library to provide cross-platform filesystem notifications on",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CONTRIBUTING",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/CONTRIBUTING"
+  },
+  "next": {
+    "title": "INI [![Build Status](https://travis-ci.org/go-ini/ini.svg?branch=master)](https://travis-ci.org/go-ini/ini) [![Sourcegraph](https://sourcegraph.com/github.com/go-ini/ini/-/badge.svg)](https://sourcegraph.com/github.com/go-ini/ini?badge)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-ini/ini/README"
+  }
+}

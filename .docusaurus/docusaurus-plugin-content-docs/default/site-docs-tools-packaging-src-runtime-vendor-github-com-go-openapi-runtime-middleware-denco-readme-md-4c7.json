@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/go-openapi/runtime/middleware/denco/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/go-openapi/runtime/middleware/denco/README",
+  "isDocsHomePage": false,
+  "title": "Denco [![Build Status](https://travis-ci.org/naoina/denco.png?branch=master)](https://travis-ci.org/naoina/denco)",
+  "description": "The fast and flexible HTTP request router for Go.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/runtime/middleware/denco/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/go-openapi/runtime/middleware/denco",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/go-openapi/runtime/middleware/denco/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/runtime/middleware/denco/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/runtime/middleware/denco/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "runtime [![Build Status](https://travis-ci.org/go-openapi/runtime.svg?branch=client-context)](https://travis-ci.org/go-openapi/runtime) [![codecov](https://codecov.io/gh/go-openapi/runtime/branch/master/graph/badge.svg)](https://codecov.io/gh/go-openapi/runtime) [![Slack Status](https://slackin.goswagger.io/badge.svg)](https://slackin.goswagger.io)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/runtime/README"
+  },
+  "next": {
+    "title": "Contributor Covenant Code of Conduct",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/spec/CODE_OF_CONDUCT"
+  }
+}

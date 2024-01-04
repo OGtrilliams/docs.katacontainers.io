@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd/ROADMAP",
+  "id": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd/ROADMAP",
+  "isDocsHomePage": false,
+  "title": "containerd roadmap",
+  "description": "containerd uses the issues and milestones to define its roadmap.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/ROADMAP.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/ROADMAP",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/ROADMAP",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/ROADMAP.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scope and Principles",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/SCOPE"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/continuity/sysx/README"
+  }
+}

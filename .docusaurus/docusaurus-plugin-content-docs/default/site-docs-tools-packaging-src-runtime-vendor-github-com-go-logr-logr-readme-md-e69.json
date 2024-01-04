@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/go-logr/logr/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/go-logr/logr/README",
+  "isDocsHomePage": false,
+  "title": "A minimal logging API for Go",
+  "description": "Go Reference",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/logr/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/go-logr/logr",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/go-logr/logr/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/logr/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/logr/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/logr/CONTRIBUTING"
+  },
+  "next": {
+    "title": "Minimal Go logging using logr and Go's standard library",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/stdr/README"
+  }
+}

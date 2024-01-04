@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/blang/semver/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/blang/semver/README",
+  "isDocsHomePage": false,
+  "title": "semver for golang [![Build Status](https://travis-ci.org/blang/semver.svg?branch=master)](https://travis-ci.org/blang/semver) [![GoDoc](https://godoc.org/github.com/blang/semver?status.png)](https://godoc.org/github.com/blang/semver) [![Coverage Status](https://img.shields.io/coveralls/blang/semver.svg)](https://coveralls.io/r/blang/semver?branch=master)",
+  "description": "semver is a Semantic Versioning library written in golang. It fully covers spec version 2.0.0.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/blang/semver/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/blang/semver",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/blang/semver/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/blang/semver/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/blang/semver/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CONTRIBUTING",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/CONTRIBUTING"
+  },
+  "next": {
+    "title": "xxhash",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cespare/xxhash/v2/README"
+  }
+}

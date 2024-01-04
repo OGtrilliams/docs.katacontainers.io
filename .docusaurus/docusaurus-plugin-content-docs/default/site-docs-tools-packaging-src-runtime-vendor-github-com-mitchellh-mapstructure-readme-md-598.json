@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure/README",
+  "isDocsHomePage": false,
+  "title": "mapstructure [![Godoc](https://godoc.org/github.com/mitchellh/mapstructure?status.svg)](https://godoc.org/github.com/mitchellh/mapstructure)",
+  "description": "mapstructure is a Go library for decoding generic map values to structures",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CHANGELOG",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mitchellh/mapstructure/CHANGELOG"
+  },
+  "next": {
+    "title": "Locker",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/moby/locker/README"
+  }
+}

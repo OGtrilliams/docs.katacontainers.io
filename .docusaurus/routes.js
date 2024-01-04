@@ -110,7 +110,7 @@ export default [
   },
   {
     path: '/docs/intro/docs',
-    component: ComponentCreator('/docs/intro/docs','0fb'),
+    component: ComponentCreator('/docs/intro/docs','212'),
     routes: [
       {
         path: '/docs/intro/docs/API Reference/hooks-handling',
@@ -185,8 +185,8 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/intro/docs/inotify',
-        component: ComponentCreator('/docs/intro/docs/inotify','655'),
+        path: '/docs/intro/docs/Developer-Guide',
+        component: ComponentCreator('/docs/intro/docs/Developer-Guide','900'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -287,92 +287,128 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/intro/docs/tools/osbuilder/dockerfiles/QAT/README',
-        component: ComponentCreator('/docs/intro/docs/tools/osbuilder/dockerfiles/QAT/README','b8f'),
+        path: '/docs/intro/docs/tools/packaging/src/tools/agent-ctl/README',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/agent-ctl/README','c2e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/intro/docs/tools/osbuilder/image-builder/README',
-        component: ComponentCreator('/docs/intro/docs/tools/osbuilder/image-builder/README','e8e'),
+        path: '/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol','548'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/intro/docs/tools/osbuilder/initrd-builder/README',
-        component: ComponentCreator('/docs/intro/docs/tools/osbuilder/initrd-builder/README','963'),
+        path: '/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/README',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/README','590'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/intro/docs/tools/osbuilder/README',
-        component: ComponentCreator('/docs/intro/docs/tools/osbuilder/README','de5'),
+        path: '/docs/intro/docs/tools/packaging/src/tools/kata-ctl/README',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/kata-ctl/README','f83'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/intro/docs/tools/osbuilder/rootfs-builder/README',
-        component: ComponentCreator('/docs/intro/docs/tools/osbuilder/rootfs-builder/README','16d'),
+        path: '/docs/intro/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README','bb2'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/intro/docs/tools/osbuilder/tests/README',
-        component: ComponentCreator('/docs/intro/docs/tools/osbuilder/tests/README','818'),
+        path: '/docs/intro/docs/tools/packaging/src/tools/log-parser/README',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/log-parser/README','8d1'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/intro/docs/tools/packaging/kata-debug/README',
-        component: ComponentCreator('/docs/intro/docs/tools/packaging/kata-debug/README','ab4'),
+        path: '/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README','f3f'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/intro/docs/tools/packaging/kata-deploy/README',
-        component: ComponentCreator('/docs/intro/docs/tools/packaging/kata-deploy/README','662'),
+        path: '/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE','8e9'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/intro/docs/tools/packaging/kernel/configs/README',
-        component: ComponentCreator('/docs/intro/docs/tools/packaging/kernel/configs/README','c5c'),
+        path: '/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG','2fb'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/intro/docs/tools/packaging/kernel/README',
-        component: ComponentCreator('/docs/intro/docs/tools/packaging/kernel/README','e15'),
+        path: '/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README','431'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/intro/docs/tools/packaging/qemu/README',
-        component: ComponentCreator('/docs/intro/docs/tools/packaging/qemu/README','fac'),
+        path: '/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README','311'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/intro/docs/tools/packaging/README',
-        component: ComponentCreator('/docs/intro/docs/tools/packaging/README','c9a'),
+        path: '/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README','ad8'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/intro/docs/tools/packaging/release/README',
-        component: ComponentCreator('/docs/intro/docs/tools/packaging/release/README','acf'),
+        path: '/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG','984'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/intro/docs/tools/packaging/scripts/README',
-        component: ComponentCreator('/docs/intro/docs/tools/packaging/scripts/README','a0f'),
+        path: '/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README','334'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/intro/docs/tools/packaging/static-build/README',
-        component: ComponentCreator('/docs/intro/docs/tools/packaging/static-build/README','cbf'),
+        path: '/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT','297'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README','bfc'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README','3d1'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README','6c3'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README','bdf'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/intro/docs/tools/packaging/src/tools/runk/README',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/runk/README','a03'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/intro/docs/tools/packaging/src/tools/trace-forwarder/README',
+        component: ComponentCreator('/docs/intro/docs/tools/packaging/src/tools/trace-forwarder/README','90b'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

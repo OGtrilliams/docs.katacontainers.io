@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/containerd/console/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/containerd/console/README",
+  "isDocsHomePage": false,
+  "title": "console",
+  "description": "PkgGoDev",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/containerd/console/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/containerd/console",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/containerd/console/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/console/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/containerd/console/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cgroups",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/cgroups/v3/README"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/README"
+  }
+}

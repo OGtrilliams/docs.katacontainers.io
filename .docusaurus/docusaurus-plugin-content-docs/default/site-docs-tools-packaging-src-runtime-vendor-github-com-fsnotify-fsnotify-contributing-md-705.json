@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/CONTRIBUTING",
+  "id": "tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/CONTRIBUTING",
+  "isDocsHomePage": false,
+  "title": "CONTRIBUTING",
+  "description": "Thank you for your interest in contributing to fsnotify! We try to review and",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/CONTRIBUTING.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/CONTRIBUTING",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/CONTRIBUTING",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/CONTRIBUTING.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Changelog",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/CHANGELOG"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/fsnotify/fsnotify/README"
+  }
+}

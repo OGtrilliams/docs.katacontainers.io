@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd/code-of-conduct",
+  "id": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd/code-of-conduct",
+  "isDocsHomePage": false,
+  "title": "code-of-conduct",
+  "description": "containerd Community Code of Conduct",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/code-of-conduct.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/containerd/containerd",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/code-of-conduct",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/code-of-conduct",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/code-of-conduct.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ADOPTERS",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/ADOPTERS"
+  },
+  "next": {
+    "title": "Build containerd from source",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/containerd/BUILDING"
+  }
+}

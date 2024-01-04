@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/go-logr/logr/CONTRIBUTING",
+  "id": "tools/packaging/src/runtime/vendor/github.com/go-logr/logr/CONTRIBUTING",
+  "isDocsHomePage": false,
+  "title": "Contributing",
+  "description": "Logr is open to pull-requests, provided they fit within the intended scope of",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/logr/CONTRIBUTING.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/go-logr/logr",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/go-logr/logr/CONTRIBUTING",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/logr/CONTRIBUTING",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/logr/CONTRIBUTING.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CHANGELOG",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/logr/CHANGELOG"
+  },
+  "next": {
+    "title": "A minimal logging API for Go",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/logr/README"
+  }
+}

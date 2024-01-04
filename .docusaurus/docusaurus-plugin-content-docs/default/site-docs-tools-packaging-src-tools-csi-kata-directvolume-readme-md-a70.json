@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/tools/csi-kata-directvolume/README",
+  "id": "tools/packaging/src/tools/csi-kata-directvolume/README",
+  "isDocsHomePage": false,
+  "title": "CSI Direct Volume Driver",
+  "description": "The Direct Volume CSI driver is heavily inspired by the K8s CSI HostPath driver. It aims to provide a production-ready implementation and a reference implementation for Kubernetes to connect to Direct Volume.",
+  "source": "@site/docs/tools/packaging/src/tools/csi-kata-directvolume/README.md",
+  "sourceDirName": "tools/packaging/src/tools/csi-kata-directvolume",
+  "slug": "/tools/packaging/src/tools/csi-kata-directvolume/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/csi-kata-directvolume/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agent Control tool",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/agent-ctl/README"
+  },
+  "next": {
+    "title": "Deploy Kata Direct Volume CSI and Do Validation",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol"
+  }
+}

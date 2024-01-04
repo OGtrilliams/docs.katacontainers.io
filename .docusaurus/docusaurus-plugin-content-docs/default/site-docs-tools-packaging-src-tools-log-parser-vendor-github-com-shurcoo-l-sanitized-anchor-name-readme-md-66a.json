@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README",
+  "id": "tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README",
+  "isDocsHomePage": false,
+  "title": "sanitized_anchor_name",
+  "description": "Build Status GoDoc",
+  "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README.md",
+  "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name",
+  "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Blackfriday [![Build Status](https://travis-ci.org/russross/blackfriday.svg?branch=master)](https://travis-ci.org/russross/blackfriday)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README"
+  },
+  "next": {
+    "title": "1.8.1",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG"
+  }
+}

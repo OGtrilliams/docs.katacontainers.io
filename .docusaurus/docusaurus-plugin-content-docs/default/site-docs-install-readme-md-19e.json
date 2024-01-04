@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "inotify",
-    "permalink": "/docs/intro/docs/inotify"
+    "title": "Kata 2.0 Metrics Design",
+    "permalink": "/docs/intro/docs/design/kata-2-0-metrics"
   },
   "next": {
     "title": "Install with kata-deploy (Recommended)",

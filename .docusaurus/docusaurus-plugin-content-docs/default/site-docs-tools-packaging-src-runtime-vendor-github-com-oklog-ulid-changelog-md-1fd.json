@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/oklog/ulid/CHANGELOG",
+  "id": "tools/packaging/src/runtime/vendor/github.com/oklog/ulid/CHANGELOG",
+  "isDocsHomePage": false,
+  "title": "CHANGELOG",
+  "description": "1.3.1 / 2018-10-02",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/oklog/ulid/CHANGELOG.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/oklog/ulid",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/oklog/ulid/CHANGELOG",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/oklog/ulid/CHANGELOG",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/oklog/ulid/CHANGELOG.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AUTHORS",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/oklog/ulid/AUTHORS"
+  },
+  "next": {
+    "title": "Contributing",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/oklog/ulid/CONTRIBUTING"
+  }
+}

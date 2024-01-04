@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/josharian/intern/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/josharian/intern/README",
+  "isDocsHomePage": false,
+  "title": "README",
+  "description": "Docs//godoc.org/github.com/josharian/intern",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/josharian/intern/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/josharian/intern",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/josharian/intern/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/josharian/intern/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/josharian/intern/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cpuid",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/intel-go/cpuid/README"
+  },
+  "next": {
+    "title": "license",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/josharian/intern/license"
+  }
+}

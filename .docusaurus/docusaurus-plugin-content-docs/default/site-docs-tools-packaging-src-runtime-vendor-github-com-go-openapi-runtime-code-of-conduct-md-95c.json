@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/go-openapi/runtime/CODE_OF_CONDUCT",
+  "id": "tools/packaging/src/runtime/vendor/github.com/go-openapi/runtime/CODE_OF_CONDUCT",
+  "isDocsHomePage": false,
+  "title": "Contributor Covenant Code of Conduct",
+  "description": "Our Pledge",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/runtime/CODE_OF_CONDUCT.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/go-openapi/runtime",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/go-openapi/runtime/CODE_OF_CONDUCT",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/runtime/CODE_OF_CONDUCT",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/runtime/CODE_OF_CONDUCT.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Loads OAI specs  [![Build Status](https://travis-ci.org/go-openapi/loads.svg?branch=master)](https://travis-ci.org/go-openapi/loads) [![codecov](https://codecov.io/gh/go-openapi/loads/branch/master/graph/badge.svg)](https://codecov.io/gh/go-openapi/loads) [![Slack Status](https://slackin.goswagger.io/badge.svg)](https://slackin.goswagger.io) [![Actions/Go Test Status](https://github.com/go-openapi/loads/workflows/Go%20Test/badge.svg)](https://github.com/go-openapi/loads/actions?query=workflow%3A\"Go+Test\")",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/loads/README"
+  },
+  "next": {
+    "title": "runtime [![Build Status](https://travis-ci.org/go-openapi/runtime.svg?branch=client-context)](https://travis-ci.org/go-openapi/runtime) [![codecov](https://codecov.io/gh/go-openapi/runtime/branch/master/graph/badge.svg)](https://codecov.io/gh/go-openapi/runtime) [![Slack Status](https://slackin.goswagger.io/badge.svg)](https://slackin.goswagger.io)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/runtime/README"
+  }
+}

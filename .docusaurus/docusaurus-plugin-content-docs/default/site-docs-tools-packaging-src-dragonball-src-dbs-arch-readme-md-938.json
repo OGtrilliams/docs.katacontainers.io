@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/dragonball/src/dbs_arch/README",
+  "id": "tools/packaging/src/dragonball/src/dbs_arch/README",
+  "isDocsHomePage": false,
+  "title": "dbs-arch",
+  "description": "Design",
+  "source": "@site/docs/tools/packaging/src/dragonball/src/dbs_arch/README.md",
+  "sourceDirName": "tools/packaging/src/dragonball/src/dbs_arch",
+  "slug": "/tools/packaging/src/dragonball/src/dbs_arch/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_arch/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/dragonball/src/dbs_arch/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dbs-allocator",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_allocator/README"
+  },
+  "next": {
+    "title": "CPUID",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_arch/docs/x86_64_cpuid"
+  }
+}

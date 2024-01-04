@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/go-openapi/errors/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/go-openapi/errors/README",
+  "isDocsHomePage": false,
+  "title": "OpenAPI errors",
+  "description": "Build Status",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/errors/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/go-openapi/errors",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/go-openapi/errors/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/errors/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/errors/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributor Covenant Code of Conduct",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/errors/CODE_OF_CONDUCT"
+  },
+  "next": {
+    "title": "Contributor Covenant Code of Conduct",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/jsonpointer/CODE_OF_CONDUCT"
+  }
+}

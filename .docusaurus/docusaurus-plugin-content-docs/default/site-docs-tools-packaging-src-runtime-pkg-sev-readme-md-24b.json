@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/pkg/sev/README",
+  "id": "tools/packaging/src/runtime/pkg/sev/README",
+  "isDocsHomePage": false,
+  "title": "AMD SEV confidential guest utilities",
+  "description": "This package provides utilities for launching AMD SEV confidential guests.",
+  "source": "@site/docs/tools/packaging/src/runtime/pkg/sev/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/pkg/sev",
+  "slug": "/tools/packaging/src/runtime/pkg/sev/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/pkg/sev/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/pkg/sev/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kata utilities packages",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/pkg/katautils/README"
+  },
+  "next": {
+    "title": "sev/testdata",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/pkg/sev/testdata/README"
+  }
+}

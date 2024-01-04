@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/libs/kata-sys-util/README",
+  "id": "tools/packaging/src/libs/kata-sys-util/README",
+  "isDocsHomePage": false,
+  "title": "kata-sys-util",
+  "description": "This crate is a collection of utilities and helpers for",
+  "source": "@site/docs/tools/packaging/src/libs/kata-sys-util/README.md",
+  "sourceDirName": "tools/packaging/src/libs/kata-sys-util",
+  "slug": "/tools/packaging/src/libs/kata-sys-util/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/libs/kata-sys-util/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/libs/kata-sys-util/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/libs/README"
+  },
+  "next": {
+    "title": "kata-types",
+    "permalink": "/docs/intro/docs/tools/packaging/src/libs/kata-types/README"
+  }
+}

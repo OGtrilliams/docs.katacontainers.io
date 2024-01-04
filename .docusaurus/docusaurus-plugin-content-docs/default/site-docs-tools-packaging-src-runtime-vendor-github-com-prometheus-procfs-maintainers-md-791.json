@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/MAINTAINERS",
+  "id": "tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/MAINTAINERS",
+  "isDocsHomePage": false,
+  "title": "MAINTAINERS",
+  "description": "* Johannes 'fish' Ziemke  @discordianfish",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/MAINTAINERS.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/prometheus/procfs",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/MAINTAINERS",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/MAINTAINERS",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/MAINTAINERS.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/CONTRIBUTING"
+  },
+  "next": {
+    "title": "procfs",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/README"
+  }
+}

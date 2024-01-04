@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/cmd/kata-monitor/README",
+  "id": "tools/packaging/src/runtime/cmd/kata-monitor/README",
+  "isDocsHomePage": false,
+  "title": "Kata monitor",
+  "description": "Overview",
+  "source": "@site/docs/tools/packaging/src/runtime/cmd/kata-monitor/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/cmd/kata-monitor",
+  "slug": "/tools/packaging/src/runtime/cmd/kata-monitor/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/cmd/kata-monitor/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/cmd/kata-monitor/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/README"
+  },
+  "next": {
+    "title": "Kata golang packages",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/pkg/README"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/purell/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/purell/README",
+  "isDocsHomePage": false,
+  "title": "Purell",
+  "description": "Purell is a tiny Go library to normalize URLs. It returns a pure URL. Pure-ell. Sanitizer and all. Yeah, I know...",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/purell/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/purell",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/purell/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/purell/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/purell/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SECURITY",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/Microsoft/hcsshim/SECURITY"
+  },
+  "next": {
+    "title": "urlesc [![Build Status](https://travis-ci.org/PuerkitoBio/urlesc.svg?branch=master)](https://travis-ci.org/PuerkitoBio/urlesc) [![GoDoc](http://godoc.org/github.com/PuerkitoBio/urlesc?status.svg)](http://godoc.org/github.com/PuerkitoBio/urlesc)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/urlesc/README"
+  }
+}

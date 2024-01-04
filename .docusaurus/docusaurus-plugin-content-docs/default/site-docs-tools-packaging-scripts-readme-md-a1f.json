@@ -21,7 +21,7 @@
     "permalink": "/docs/intro/docs/tools/packaging/release/README"
   },
   "next": {
-    "title": "Static build",
-    "permalink": "/docs/intro/docs/tools/packaging/static-build/README"
+    "title": "Kata Agent",
+    "permalink": "/docs/intro/docs/tools/packaging/src/agent/README"
   }
 }

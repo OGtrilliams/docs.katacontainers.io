@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/intel-go/cpuid/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/intel-go/cpuid/README",
+  "isDocsHomePage": false,
+  "title": "cpuid",
+  "description": "Intel CPUID library for Go Programming Language",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/intel-go/cpuid/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/intel-go/cpuid",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/intel-go/cpuid/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/intel-go/cpuid/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/intel-go/cpuid/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "go-multierror",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/hashicorp/go-multierror/README"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/josharian/intern/README"
+  }
+}

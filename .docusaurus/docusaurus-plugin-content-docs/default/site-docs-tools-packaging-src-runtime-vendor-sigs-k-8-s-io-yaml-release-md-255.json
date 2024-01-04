@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/RELEASE",
+  "id": "tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/RELEASE",
+  "isDocsHomePage": false,
+  "title": "Release Process",
+  "description": "The yaml Project is released on an as-needed basis. The process is as follows:",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/RELEASE.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml",
+  "slug": "/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/RELEASE",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/RELEASE",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/RELEASE.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "YAML marshaling and unmarshaling support for Go",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/README"
+  },
+  "next": {
+    "title": "Kubernetes Community Code of Conduct",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/code-of-conduct"
+  }
+}

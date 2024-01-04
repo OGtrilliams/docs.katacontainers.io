@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/libs/safe-path/README",
+  "id": "tools/packaging/src/libs/safe-path/README",
+  "isDocsHomePage": false,
+  "title": "Safe Path",
+  "description": "CI",
+  "source": "@site/docs/tools/packaging/src/libs/safe-path/README.md",
+  "sourceDirName": "tools/packaging/src/libs/safe-path",
+  "slug": "/tools/packaging/src/libs/safe-path/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/libs/safe-path/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/libs/safe-path/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kata-types",
+    "permalink": "/docs/intro/docs/tools/packaging/src/libs/kata-types/README"
+  },
+  "next": {
+    "title": "Test Utilities",
+    "permalink": "/docs/intro/docs/tools/packaging/src/libs/test-utils/README"
+  }
+}

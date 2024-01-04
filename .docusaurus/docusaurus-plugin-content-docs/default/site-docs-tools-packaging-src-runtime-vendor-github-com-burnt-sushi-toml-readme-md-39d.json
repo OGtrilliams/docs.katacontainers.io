@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/BurntSushi/toml/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/BurntSushi/toml/README",
+  "isDocsHomePage": false,
+  "title": "README",
+  "description": "TOML stands for Tom's Obvious, Minimal Language. This Go package provides a",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/BurntSushi/toml/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/BurntSushi/toml",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/BurntSushi/toml/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/BurntSushi/toml/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/BurntSushi/toml/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "go-fuzz-headers",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/AdaLogics/go-fuzz-headers/README"
+  },
+  "next": {
+    "title": "go-winio [![Build Status](https://github.com/microsoft/go-winio/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/go-winio/actions/workflows/ci.yml)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/Microsoft/go-winio/README"
+  }
+}

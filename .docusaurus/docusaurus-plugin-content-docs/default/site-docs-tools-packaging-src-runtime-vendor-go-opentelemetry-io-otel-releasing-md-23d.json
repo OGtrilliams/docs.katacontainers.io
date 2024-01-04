@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/RELEASING",
+  "id": "tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/RELEASING",
+  "isDocsHomePage": false,
+  "title": "Release Process",
+  "description": "Semantic Convention Generation",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/RELEASING.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel",
+  "slug": "/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/RELEASING",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/RELEASING",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/RELEASING.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OpenTelemetry-Go",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/README"
+  },
+  "next": {
+    "title": "Versioning",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opentelemetry.io/otel/VERSIONING"
+  }
+}

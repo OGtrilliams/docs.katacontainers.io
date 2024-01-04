@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/google.golang.org/grpc/CONTRIBUTING",
+  "id": "tools/packaging/src/runtime/vendor/google.golang.org/grpc/CONTRIBUTING",
+  "isDocsHomePage": false,
+  "title": "How to contribute",
+  "description": "We definitely welcome your patches and contributions to gRPC! Please read the gRPC",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/google.golang.org/grpc/CONTRIBUTING.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/google.golang.org/grpc",
+  "slug": "/tools/packaging/src/runtime/vendor/google.golang.org/grpc/CONTRIBUTING",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/google.golang.org/grpc/CONTRIBUTING",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/google.golang.org/grpc/CONTRIBUTING.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CODE-OF-CONDUCT",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/google.golang.org/grpc/CODE-OF-CONDUCT"
+  },
+  "next": {
+    "title": "GOVERNANCE",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/google.golang.org/grpc/GOVERNANCE"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/go-logr/logr/CHANGELOG",
+  "id": "tools/packaging/src/runtime/vendor/github.com/go-logr/logr/CHANGELOG",
+  "isDocsHomePage": false,
+  "title": "CHANGELOG",
+  "description": "v1.0.0-rc1",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/logr/CHANGELOG.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/go-logr/logr",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/go-logr/logr/CHANGELOG",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/logr/CHANGELOG",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/logr/CHANGELOG.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README_ZH",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-ini/ini/README_ZH"
+  },
+  "next": {
+    "title": "Contributing",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/logr/CONTRIBUTING"
+  }
+}

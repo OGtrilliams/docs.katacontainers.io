@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/tools/kata-ctl/src/log_parser/README",
+  "id": "tools/packaging/src/tools/kata-ctl/src/log_parser/README",
+  "isDocsHomePage": false,
+  "title": "kata-log-parser",
+  "description": "Introduction",
+  "source": "@site/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README.md",
+  "sourceDirName": "tools/packaging/src/tools/kata-ctl/src/log_parser",
+  "slug": "/tools/packaging/src/tools/kata-ctl/src/log_parser/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kata Containers control tool",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/README"
+  },
+  "next": {
+    "title": "kata-log-parser",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/README"
+  }
+}

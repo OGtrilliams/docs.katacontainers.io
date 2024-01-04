@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/pbnjay/memory/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/pbnjay/memory/README",
+  "isDocsHomePage": false,
+  "title": "memory",
+  "description": "Package memory provides two methods reporting total physical system memory",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/pbnjay/memory/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/pbnjay/memory",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/pbnjay/memory/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/pbnjay/memory/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/pbnjay/memory/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/opencontainers/selinux/pkg/pwalkdir/README"
+  },
+  "next": {
+    "title": "errors [![Travis-CI](https://travis-ci.org/pkg/errors.svg)](https://travis-ci.org/pkg/errors) [![AppVeyor](https://ci.appveyor.com/api/projects/status/b98mptawhudj53ep/branch/master?svg=true)](https://ci.appveyor.com/project/davecheney/errors/branch/master) [![GoDoc](https://godoc.org/github.com/pkg/errors?status.svg)](http://godoc.org/github.com/pkg/errors) [![Report card](https://goreportcard.com/badge/github.com/pkg/errors)](https://goreportcard.com/report/github.com/pkg/errors) [![Sourcegraph](https://sourcegraph.com/github.com/pkg/errors/-/badge.svg)](https://sourcegraph.com/github.com/pkg/errors?badge)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/pkg/errors/README"
+  }
+}

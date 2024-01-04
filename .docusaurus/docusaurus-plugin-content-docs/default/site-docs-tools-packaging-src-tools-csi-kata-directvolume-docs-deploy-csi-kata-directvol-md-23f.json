@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol",
+  "id": "tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol",
+  "isDocsHomePage": false,
+  "title": "Deploy Kata Direct Volume CSI and Do Validation",
+  "description": "How to Deploy Kata Direct Volume CSI",
+  "source": "@site/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol.md",
+  "sourceDirName": "tools/packaging/src/tools/csi-kata-directvolume/docs",
+  "slug": "/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol",
+  "permalink": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CSI Direct Volume Driver",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/README"
+  },
+  "next": {
+    "title": "Kata Containers control tool",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/README"
+  }
+}

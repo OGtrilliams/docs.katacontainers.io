@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/go-openapi/jsonreference/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/go-openapi/jsonreference/README",
+  "isDocsHomePage": false,
+  "title": "gojsonreference [![Build Status](https://travis-ci.org/go-openapi/jsonreference.svg?branch=master)](https://travis-ci.org/go-openapi/jsonreference) [![codecov](https://codecov.io/gh/go-openapi/jsonreference/branch/master/graph/badge.svg)](https://codecov.io/gh/go-openapi/jsonreference) [![Slack Status](https://slackin.goswagger.io/badge.svg)](https://slackin.goswagger.io)",
+  "description": "license GoDoc",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/jsonreference/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/go-openapi/jsonreference",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/go-openapi/jsonreference/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/jsonreference/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/jsonreference/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributor Covenant Code of Conduct",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/jsonreference/CODE_OF_CONDUCT"
+  },
+  "next": {
+    "title": "Contributor Covenant Code of Conduct",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/loads/CODE_OF_CONDUCT"
+  }
+}

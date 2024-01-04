@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/dragonball/src/dbs_virtio_devices/README",
+  "id": "tools/packaging/src/dragonball/src/dbs_virtio_devices/README",
+  "isDocsHomePage": false,
+  "title": "dbs-virtio-devices",
+  "description": "dbs-virtio-devices provides emulation for virtio devices.",
+  "source": "@site/docs/tools/packaging/src/dragonball/src/dbs_virtio_devices/README.md",
+  "sourceDirName": "tools/packaging/src/dragonball/src/dbs_virtio_devices",
+  "slug": "/tools/packaging/src/dragonball/src/dbs_virtio_devices/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_virtio_devices/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/dragonball/src/dbs_virtio_devices/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dbs-utils",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_utils/README"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/libs/README"
+  }
+}

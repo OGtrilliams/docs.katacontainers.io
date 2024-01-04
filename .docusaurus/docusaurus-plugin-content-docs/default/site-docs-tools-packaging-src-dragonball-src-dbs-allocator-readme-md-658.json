@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/dragonball/src/dbs_allocator/README",
+  "id": "tools/packaging/src/dragonball/src/dbs_allocator/README",
+  "isDocsHomePage": false,
+  "title": "dbs-allocator",
+  "description": "Design",
+  "source": "@site/docs/tools/packaging/src/dragonball/src/dbs_allocator/README.md",
+  "sourceDirName": "tools/packaging/src/dragonball/src/dbs_allocator",
+  "slug": "/tools/packaging/src/dragonball/src/dbs_allocator/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_allocator/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/dragonball/src/dbs_allocator/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dbs-address-space",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_address_space/README"
+  },
+  "next": {
+    "title": "dbs-arch",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_arch/README"
+  }
+}

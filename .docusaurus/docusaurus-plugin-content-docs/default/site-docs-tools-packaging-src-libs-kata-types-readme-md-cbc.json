@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/libs/kata-types/README",
+  "id": "tools/packaging/src/libs/kata-types/README",
+  "isDocsHomePage": false,
+  "title": "kata-types",
+  "description": "This crate is a collection of constants and data types shared by multiple",
+  "source": "@site/docs/tools/packaging/src/libs/kata-types/README.md",
+  "sourceDirName": "tools/packaging/src/libs/kata-types",
+  "slug": "/tools/packaging/src/libs/kata-types/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/libs/kata-types/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/libs/kata-types/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kata-sys-util",
+    "permalink": "/docs/intro/docs/tools/packaging/src/libs/kata-sys-util/README"
+  },
+  "next": {
+    "title": "Safe Path",
+    "permalink": "/docs/intro/docs/tools/packaging/src/libs/safe-path/README"
+  }
+}

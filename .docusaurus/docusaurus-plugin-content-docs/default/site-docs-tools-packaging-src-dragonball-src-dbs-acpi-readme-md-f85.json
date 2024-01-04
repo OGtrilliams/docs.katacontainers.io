@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/dragonball/src/dbs_acpi/README",
+  "id": "tools/packaging/src/dragonball/src/dbs_acpi/README",
+  "isDocsHomePage": false,
+  "title": "dbs-acpi",
+  "description": "dbs-acpi provides ACPI data structures for VMM to emulate ACPI behavior.",
+  "source": "@site/docs/tools/packaging/src/dragonball/src/dbs_acpi/README.md",
+  "sourceDirName": "tools/packaging/src/dragonball/src/dbs_acpi",
+  "slug": "/tools/packaging/src/dragonball/src/dbs_acpi/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_acpi/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/dragonball/src/dbs_acpi/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vCPU",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/docs/vcpu"
+  },
+  "next": {
+    "title": "dbs-address-space",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_address_space/README"
+  }
+}

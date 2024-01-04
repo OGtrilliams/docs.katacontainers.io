@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README",
+  "id": "tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README",
+  "isDocsHomePage": false,
+  "title": "Building `sys/unix`",
+  "description": "The sys/unix package provides access to the raw system call interface of the",
+  "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README.md",
+  "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix",
+  "slug": "/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cli",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README"
+  },
+  "next": {
+    "title": "YAML support for the Go language",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README"
+  }
+}

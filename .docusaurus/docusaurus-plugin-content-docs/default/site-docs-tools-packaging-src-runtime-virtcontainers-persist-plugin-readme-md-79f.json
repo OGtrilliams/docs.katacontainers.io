@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/virtcontainers/persist/plugin/README",
+  "id": "tools/packaging/src/runtime/virtcontainers/persist/plugin/README",
+  "isDocsHomePage": false,
+  "title": "README",
+  "description": "This package is a simple placeholder currently which will contain persist storage plugin support,",
+  "source": "@site/docs/tools/packaging/src/runtime/virtcontainers/persist/plugin/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/virtcontainers/persist/plugin",
+  "slug": "/tools/packaging/src/runtime/virtcontainers/persist/plugin/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/persist/plugin/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/virtcontainers/persist/plugin/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Experimental package description",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/experimental/README"
+  },
+  "next": {
+    "title": "Cloud Hypervisor OpenAPI generated code",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/virtcontainers/pkg/cloud-hypervisor/README"
+  }
+}

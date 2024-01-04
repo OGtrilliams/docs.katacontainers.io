@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README",
+  "id": "tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README",
+  "isDocsHomePage": false,
+  "title": "Blackfriday [![Build Status](https://travis-ci.org/russross/blackfriday.svg?branch=master)](https://travis-ci.org/russross/blackfriday)",
+  "description": "Blackfriday is a Markdown processor implemented in Go. It",
+  "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README.md",
+  "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2",
+  "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README"
+  },
+  "next": {
+    "title": "sanitized_anchor_name",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README"
+  }
+}

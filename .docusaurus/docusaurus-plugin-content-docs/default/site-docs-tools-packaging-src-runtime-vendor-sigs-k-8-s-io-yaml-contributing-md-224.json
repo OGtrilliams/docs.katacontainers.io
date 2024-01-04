@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/CONTRIBUTING",
+  "id": "tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/CONTRIBUTING",
+  "isDocsHomePage": false,
+  "title": "Contributing Guidelines",
+  "description": "Welcome to Kubernetes. We are excited about the prospect of you joining our community! The Kubernetes community abides by the CNCF code of conduct. Here is an excerpt:",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/CONTRIBUTING.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml",
+  "slug": "/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/CONTRIBUTING",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/CONTRIBUTING",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/CONTRIBUTING.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "YAML support for the Go language",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/gopkg.in/yaml.v3/README"
+  },
+  "next": {
+    "title": "YAML marshaling and unmarshaling support for Go",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/sigs.k8s.io/yaml/README"
+  }
+}

@@ -22,7 +22,7 @@
     "permalink": "/docs/intro/docs/proposals/README"
   },
   "next": {
-    "title": "osbuilder",
-    "permalink": "/docs/intro/docs/tools/osbuilder/README"
+    "title": "Agent Control tool",
+    "permalink": "/docs/intro/docs/tools/packaging/src/tools/agent-ctl/README"
   }
 }

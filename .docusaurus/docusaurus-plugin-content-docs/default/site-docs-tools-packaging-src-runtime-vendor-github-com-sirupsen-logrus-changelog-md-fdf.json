@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/sirupsen/logrus/CHANGELOG",
+  "id": "tools/packaging/src/runtime/vendor/github.com/sirupsen/logrus/CHANGELOG",
+  "isDocsHomePage": false,
+  "title": "1.8.1",
+  "description": "Code quality:",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/sirupsen/logrus/CHANGELOG.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/sirupsen/logrus",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/sirupsen/logrus/CHANGELOG",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/sirupsen/logrus/CHANGELOG",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/sirupsen/logrus/CHANGELOG.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ethtool go package",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/safchain/ethtool/README"
+  },
+  "next": {
+    "title": "Logrus <img src=\"http://i.imgur.com/hTeVwmJ.png\" width=\"40\" height=\"40\" alt=\":walrus:\" class=\"emoji\" title=\":walrus:\"/> [![Build Status](https://github.com/sirupsen/logrus/workflows/CI/badge.svg)](https://github.com/sirupsen/logrus/actions?query=workflow%3ACI) [![Build Status](https://travis-ci.org/sirupsen/logrus.svg?branch=master)](https://travis-ci.org/sirupsen/logrus) [![Go Reference](https://pkg.go.dev/badge/github.com/sirupsen/logrus.svg)](https://pkg.go.dev/github.com/sirupsen/logrus)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/sirupsen/logrus/README"
+  }
+}

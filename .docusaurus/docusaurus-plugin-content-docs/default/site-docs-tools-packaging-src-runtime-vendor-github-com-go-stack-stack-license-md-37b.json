@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/go-stack/stack/LICENSE",
+  "id": "tools/packaging/src/runtime/vendor/github.com/go-stack/stack/LICENSE",
+  "isDocsHomePage": false,
+  "title": "LICENSE",
+  "description": "The MIT License (MIT)",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/go-stack/stack/LICENSE.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/go-stack/stack",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/go-stack/stack/LICENSE",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-stack/stack/LICENSE",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/go-stack/stack/LICENSE.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Validation helpers",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/validate/README"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-stack/stack/README"
+  }
+}

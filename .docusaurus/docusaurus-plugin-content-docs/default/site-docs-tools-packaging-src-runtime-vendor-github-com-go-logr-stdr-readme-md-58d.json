@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/go-logr/stdr/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/go-logr/stdr/README",
+  "isDocsHomePage": false,
+  "title": "Minimal Go logging using logr and Go's standard library",
+  "description": "Go Reference",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/stdr/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/go-logr/stdr",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/go-logr/stdr/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/stdr/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/stdr/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "A minimal logging API for Go",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-logr/logr/README"
+  },
+  "next": {
+    "title": "Contributor Covenant Code of Conduct",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/go-openapi/analysis/CODE_OF_CONDUCT"
+  }
+}

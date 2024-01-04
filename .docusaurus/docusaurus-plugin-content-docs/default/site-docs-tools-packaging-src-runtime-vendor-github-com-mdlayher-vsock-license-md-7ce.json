@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/LICENSE",
+  "id": "tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/LICENSE",
+  "isDocsHomePage": false,
+  "title": "MIT License",
+  "description": "Copyright (C) 2017-2022 Matt Layher",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/LICENSE.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/LICENSE",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/LICENSE",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/LICENSE.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CHANGELOG",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/CHANGELOG"
+  },
+  "next": {
+    "title": "vsock [![Test Status](https://github.com/mdlayher/vsock/workflows/Linux%20Test/badge.svg)](https://github.com/mdlayher/vsock/actions) [![Go Reference](https://pkg.go.dev/badge/github.com/mdlayher/vsock.svg)](https://pkg.go.dev/github.com/mdlayher/vsock)  [![Go Report Card](https://goreportcard.com/badge/github.com/mdlayher/vsock)](https://goreportcard.com/report/github.com/mdlayher/vsock)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/README"
+  }
+}

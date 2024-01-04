@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/josharian/intern/license",
+  "id": "tools/packaging/src/runtime/vendor/github.com/josharian/intern/license",
+  "isDocsHomePage": false,
+  "title": "license",
+  "description": "MIT License",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/josharian/intern/license.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/josharian/intern",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/josharian/intern/license",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/josharian/intern/license",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/josharian/intern/license.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/josharian/intern/README"
+  },
+  "next": {
+    "title": "compress",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/README"
+  }
+}

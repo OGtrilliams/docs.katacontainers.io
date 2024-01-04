@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/dragonball/src/dbs_upcall/README",
+  "id": "tools/packaging/src/dragonball/src/dbs_upcall/README",
+  "isDocsHomePage": false,
+  "title": "dbs-upcall",
+  "description": "dbs-upcall is a direct communication tool between VMM and guest developed upon VSOCK. The server side of the upcall is a driver in guest kernel (kernel patches are needed for this feature) and it'll start to serve the requests after the kernel starts. And the client side is in VMM , it'll be a thread that communicates with VSOCK through UDS.",
+  "source": "@site/docs/tools/packaging/src/dragonball/src/dbs_upcall/README.md",
+  "sourceDirName": "tools/packaging/src/dragonball/src/dbs_upcall",
+  "slug": "/tools/packaging/src/dragonball/src/dbs_upcall/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_upcall/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/dragonball/src/dbs_upcall/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dbs-tdx",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_tdx/README"
+  },
+  "next": {
+    "title": "dbs-utils",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_utils/README"
+  }
+}

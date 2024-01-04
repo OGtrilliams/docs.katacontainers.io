@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/Microsoft/hcsshim/SECURITY",
+  "id": "tools/packaging/src/runtime/vendor/github.com/Microsoft/hcsshim/SECURITY",
+  "isDocsHomePage": false,
+  "title": "SECURITY",
+  "description": "Security",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/Microsoft/hcsshim/SECURITY.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/Microsoft/hcsshim",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/Microsoft/hcsshim/SECURITY",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/Microsoft/hcsshim/SECURITY",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/Microsoft/hcsshim/SECURITY.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hcsshim",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/Microsoft/hcsshim/README"
+  },
+  "next": {
+    "title": "Purell",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/PuerkitoBio/purell/README"
+  }
+}

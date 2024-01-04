@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/CONTRIBUTING",
+  "id": "tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/CONTRIBUTING",
+  "isDocsHomePage": false,
+  "title": "Contributing",
+  "description": "Prometheus uses GitHub to manage reviews of pull requests.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/CONTRIBUTING.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/prometheus/procfs",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/CONTRIBUTING",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/CONTRIBUTING",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/CONTRIBUTING.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prometheus Community Code of Conduct",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/CODE_OF_CONDUCT"
+  },
+  "next": {
+    "title": "MAINTAINERS",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/MAINTAINERS"
+  }
+}

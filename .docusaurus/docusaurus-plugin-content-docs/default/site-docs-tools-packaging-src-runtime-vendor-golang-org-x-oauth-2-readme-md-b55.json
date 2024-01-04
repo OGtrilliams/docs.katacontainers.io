@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/golang.org/x/oauth2/README",
+  "id": "tools/packaging/src/runtime/vendor/golang.org/x/oauth2/README",
+  "isDocsHomePage": false,
+  "title": "OAuth2 for Go",
+  "description": "Go Reference",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/golang.org/x/oauth2/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/golang.org/x/oauth2",
+  "slug": "/tools/packaging/src/runtime/vendor/golang.org/x/oauth2/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/golang.org/x/oauth2/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/golang.org/x/oauth2/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing to Go",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/golang.org/x/oauth2/CONTRIBUTING"
+  },
+  "next": {
+    "title": "Building `sys/unix`",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/golang.org/x/sys/unix/README"
+  }
+}

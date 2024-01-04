@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/dragonball/src/dbs_interrupt/README",
+  "id": "tools/packaging/src/dragonball/src/dbs_interrupt/README",
+  "isDocsHomePage": false,
+  "title": "dbs-interrupt",
+  "description": "Interrupts are used by hardware devices to indicate asynchronous events to the processor.",
+  "source": "@site/docs/tools/packaging/src/dragonball/src/dbs_interrupt/README.md",
+  "sourceDirName": "tools/packaging/src/dragonball/src/dbs_interrupt",
+  "slug": "/tools/packaging/src/dragonball/src/dbs_interrupt/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_interrupt/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/dragonball/src/dbs_interrupt/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dbs-device",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_device/README"
+  },
+  "next": {
+    "title": "dbs-legacy-devices",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_legacy_devices/README"
+  }
+}

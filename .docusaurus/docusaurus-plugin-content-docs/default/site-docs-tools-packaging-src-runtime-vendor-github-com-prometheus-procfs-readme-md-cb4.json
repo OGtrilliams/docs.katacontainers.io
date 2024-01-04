@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/README",
+  "isDocsHomePage": false,
+  "title": "procfs",
+  "description": "This package provides functions to retrieve system, kernel, and process",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/prometheus/procfs",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MAINTAINERS",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/MAINTAINERS"
+  },
+  "next": {
+    "title": "Reporting a security issue",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/prometheus/procfs/SECURITY"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/moby/sys/symlink/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/moby/sys/symlink/README",
+  "isDocsHomePage": false,
+  "title": "README",
+  "description": "Package symlink implements EvalSymlinksInScope which is an extension of filepath.EvalSymlinks,",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/moby/sys/symlink/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/moby/sys/symlink",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/moby/sys/symlink/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/moby/sys/symlink/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/moby/sys/symlink/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Locker",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/moby/locker/README"
+  },
+  "next": {
+    "title": "AUTHORS",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/oklog/ulid/AUTHORS"
+  }
+}

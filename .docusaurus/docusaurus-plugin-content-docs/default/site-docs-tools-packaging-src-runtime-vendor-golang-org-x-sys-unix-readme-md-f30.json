@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/golang.org/x/sys/unix/README",
+  "id": "tools/packaging/src/runtime/vendor/golang.org/x/sys/unix/README",
+  "isDocsHomePage": false,
+  "title": "Building `sys/unix`",
+  "description": "The sys/unix package provides access to the raw system call interface of the",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/golang.org/x/sys/unix/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/golang.org/x/sys/unix",
+  "slug": "/tools/packaging/src/runtime/vendor/golang.org/x/sys/unix/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/golang.org/x/sys/unix/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/golang.org/x/sys/unix/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OAuth2 for Go",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/golang.org/x/oauth2/README"
+  },
+  "next": {
+    "title": "CODE-OF-CONDUCT",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/google.golang.org/grpc/CODE-OF-CONDUCT"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/agent/README",
+  "id": "tools/packaging/src/agent/README",
+  "isDocsHomePage": false,
+  "title": "Kata Agent",
+  "description": "Overview",
+  "source": "@site/docs/tools/packaging/src/agent/README.md",
+  "sourceDirName": "tools/packaging/src/agent",
+  "slug": "/tools/packaging/src/agent/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/agent/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/agent/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Packaging scripts",
+    "permalink": "/docs/intro/docs/tools/packaging/scripts/README"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/README"
+  }
+}

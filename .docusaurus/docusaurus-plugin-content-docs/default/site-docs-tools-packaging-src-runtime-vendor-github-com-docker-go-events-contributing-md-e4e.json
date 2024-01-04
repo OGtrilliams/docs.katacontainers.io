@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/docker/go-events/CONTRIBUTING",
+  "id": "tools/packaging/src/runtime/vendor/github.com/docker/go-events/CONTRIBUTING",
+  "isDocsHomePage": false,
+  "title": "Contributing to Docker open source projects",
+  "description": "Want to hack on go-events? Awesome! Here are instructions to get you started.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/docker/go-events/CONTRIBUTING.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/docker/go-events",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/docker/go-events/CONTRIBUTING",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/docker/go-events/CONTRIBUTING",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/docker/go-events/CONTRIBUTING.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cyphar/filepath-securejoin/README"
+  },
+  "next": {
+    "title": "Docker Events Package",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/docker/go-events/README"
+  }
+}

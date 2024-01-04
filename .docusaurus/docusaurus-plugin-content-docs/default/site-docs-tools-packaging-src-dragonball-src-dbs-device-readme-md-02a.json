@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/dragonball/src/dbs_device/README",
+  "id": "tools/packaging/src/dragonball/src/dbs_device/README",
+  "isDocsHomePage": false,
+  "title": "dbs-device",
+  "description": "The dbs-device crate, as a counterpart of [vm-device], defines device model for the Dragonball Secure Sandbox.",
+  "source": "@site/docs/tools/packaging/src/dragonball/src/dbs_device/README.md",
+  "sourceDirName": "tools/packaging/src/dragonball/src/dbs_device",
+  "slug": "/tools/packaging/src/dragonball/src/dbs_device/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_device/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/dragonball/src/dbs_device/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dbs-boot",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_boot/README"
+  },
+  "next": {
+    "title": "dbs-interrupt",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_interrupt/README"
+  }
+}

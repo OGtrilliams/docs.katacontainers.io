@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/go.opencensus.io/CONTRIBUTING",
+  "id": "tools/packaging/src/runtime/vendor/go.opencensus.io/CONTRIBUTING",
+  "isDocsHomePage": false,
+  "title": "How to contribute",
+  "description": "We'd love to accept your patches and contributions to this project. There are",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/go.opencensus.io/CONTRIBUTING.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/go.opencensus.io",
+  "slug": "/tools/packaging/src/runtime/vendor/go.opencensus.io/CONTRIBUTING",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opencensus.io/CONTRIBUTING",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/go.opencensus.io/CONTRIBUTING.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "netns - network namespaces in go",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/vishvananda/netns/README"
+  },
+  "next": {
+    "title": "OpenCensus Libraries for Go",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opencensus.io/README"
+  }
+}

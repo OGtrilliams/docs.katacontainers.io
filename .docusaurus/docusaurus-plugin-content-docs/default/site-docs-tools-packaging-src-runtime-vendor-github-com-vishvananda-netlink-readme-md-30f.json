@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/vishvananda/netlink/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/vishvananda/netlink/README",
+  "isDocsHomePage": false,
+  "title": "netlink - netlink library for go",
+  "description": "Build Status GoDoc",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/vishvananda/netlink/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/vishvananda/netlink",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/vishvananda/netlink/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/vishvananda/netlink/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/vishvananda/netlink/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Changelog",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/vishvananda/netlink/CHANGELOG"
+  },
+  "next": {
+    "title": "netns - network namespaces in go",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/vishvananda/netns/README"
+  }
+}

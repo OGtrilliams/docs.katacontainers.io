@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/CODE_OF_CONDUCT",
+  "id": "tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/CODE_OF_CONDUCT",
+  "isDocsHomePage": false,
+  "title": "Contributor Code of Conduct",
+  "description": "This project adheres to The Code Manifesto",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/CODE_OF_CONDUCT.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/CODE_OF_CONDUCT",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/CODE_OF_CONDUCT",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/CODE_OF_CONDUCT.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "govalidator",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/README"
+  },
+  "next": {
+    "title": "CONTRIBUTING",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/asaskevich/govalidator/CONTRIBUTING"
+  }
+}

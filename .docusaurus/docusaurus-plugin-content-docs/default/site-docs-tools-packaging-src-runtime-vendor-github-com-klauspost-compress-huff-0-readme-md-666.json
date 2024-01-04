@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/klauspost/compress/huff0/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/klauspost/compress/huff0/README",
+  "isDocsHomePage": false,
+  "title": "Huff0 entropy compression",
+  "description": "This package provides Huff0 encoding and decoding as used in zstd.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/huff0/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/klauspost/compress/huff0",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/huff0/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/huff0/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/huff0/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Finite State Entropy",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/fse/README"
+  },
+  "next": {
+    "title": "zstd",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd/README"
+  }
+}

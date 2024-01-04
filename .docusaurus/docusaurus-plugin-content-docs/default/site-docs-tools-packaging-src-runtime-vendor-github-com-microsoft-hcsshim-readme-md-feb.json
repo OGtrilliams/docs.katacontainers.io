@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/Microsoft/hcsshim/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/Microsoft/hcsshim/README",
+  "isDocsHomePage": false,
+  "title": "hcsshim",
+  "description": "Build status",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/Microsoft/hcsshim/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/Microsoft/hcsshim",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/Microsoft/hcsshim/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/Microsoft/hcsshim/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/Microsoft/hcsshim/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SECURITY",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/Microsoft/go-winio/SECURITY"
+  },
+  "next": {
+    "title": "SECURITY",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/Microsoft/hcsshim/SECURITY"
+  }
+}

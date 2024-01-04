@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/CHANGELOG",
+  "id": "tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/CHANGELOG",
+  "isDocsHomePage": false,
+  "title": "CHANGELOG",
+  "description": "Unreleased",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/CHANGELOG.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/CHANGELOG",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/CHANGELOG",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/CHANGELOG.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "socket [![Test Status](https://github.com/mdlayher/socket/workflows/Test/badge.svg)](https://github.com/mdlayher/socket/actions) [![Go Reference](https://pkg.go.dev/badge/github.com/mdlayher/socket.svg)](https://pkg.go.dev/github.com/mdlayher/socket) [![Go Report Card](https://goreportcard.com/badge/github.com/mdlayher/socket)](https://goreportcard.com/report/github.com/mdlayher/socket)",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/socket/README"
+  },
+  "next": {
+    "title": "MIT License",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/mdlayher/vsock/LICENSE"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/containerd/ttrpc/PROTOCOL",
+  "id": "tools/packaging/src/runtime/vendor/github.com/containerd/ttrpc/PROTOCOL",
+  "isDocsHomePage": false,
+  "title": "Protocol Specification",
+  "description": "The ttrpc protocol is client/server protocol to support multiple request streams",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/containerd/ttrpc/PROTOCOL.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/containerd/ttrpc",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/containerd/ttrpc/PROTOCOL",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/ttrpc/PROTOCOL",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/containerd/ttrpc/PROTOCOL.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "go-runc",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/go-runc/README"
+  },
+  "next": {
+    "title": "ttrpc",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/ttrpc/README"
+  }
+}

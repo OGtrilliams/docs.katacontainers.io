@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/opencontainers/go-digest/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/opencontainers/go-digest/README",
+  "isDocsHomePage": false,
+  "title": "go-digest",
+  "description": "GoDoc Go Report Card Build Status",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/opencontainers/go-digest/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/opencontainers/go-digest",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/opencontainers/go-digest/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/opencontainers/go-digest/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/opencontainers/go-digest/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing to Docker open source projects",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/opencontainers/go-digest/CONTRIBUTING"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/opencontainers/selinux/pkg/pwalkdir/README"
+  }
+}

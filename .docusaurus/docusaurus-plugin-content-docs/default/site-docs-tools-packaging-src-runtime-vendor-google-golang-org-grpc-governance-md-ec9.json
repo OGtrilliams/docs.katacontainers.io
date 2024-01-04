@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/google.golang.org/grpc/GOVERNANCE",
+  "id": "tools/packaging/src/runtime/vendor/google.golang.org/grpc/GOVERNANCE",
+  "isDocsHomePage": false,
+  "title": "GOVERNANCE",
+  "description": "This repository is governed by the gRPC organization's governance rules.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/google.golang.org/grpc/GOVERNANCE.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/google.golang.org/grpc",
+  "slug": "/tools/packaging/src/runtime/vendor/google.golang.org/grpc/GOVERNANCE",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/google.golang.org/grpc/GOVERNANCE",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/google.golang.org/grpc/GOVERNANCE.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to contribute",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/google.golang.org/grpc/CONTRIBUTING"
+  },
+  "next": {
+    "title": "MAINTAINERS",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/google.golang.org/grpc/MAINTAINERS"
+  }
+}

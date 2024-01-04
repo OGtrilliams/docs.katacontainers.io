@@ -2,8 +2,8 @@
   "unversionedId": "inotify",
   "id": "inotify",
   "isDocsHomePage": false,
-  "title": "inotify",
-  "description": "---",
+  "title": "Kata Containers support for `inotify`",
+  "description": "Background on inotify usage",
   "source": "@site/docs/inotify.md",
   "sourceDirName": ".",
   "slug": "/inotify",
@@ -11,7 +11,10 @@
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/inotify.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "sidebar_posititon": 13,
+    "sidebar_label": "Support for inotify"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Kata 2.0 Metrics Design",

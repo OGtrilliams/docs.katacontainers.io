@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/pkg/katautils/README",
+  "id": "tools/packaging/src/runtime/pkg/katautils/README",
+  "isDocsHomePage": false,
+  "title": "Kata utilities packages",
+  "description": "The katautils package contains useful functions that are shared by various",
+  "source": "@site/docs/tools/packaging/src/runtime/pkg/katautils/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/pkg/katautils",
+  "slug": "/tools/packaging/src/runtime/pkg/katautils/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/pkg/katautils/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/pkg/katautils/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kata test utilities",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/pkg/katatestutils/README"
+  },
+  "next": {
+    "title": "AMD SEV confidential guest utilities",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/pkg/sev/README"
+  }
+}

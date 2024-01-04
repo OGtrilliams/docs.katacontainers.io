@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/vishvananda/netns/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/vishvananda/netns/README",
+  "isDocsHomePage": false,
+  "title": "netns - network namespaces in go",
+  "description": "The netns package provides an ultra-simple interface for handling",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/vishvananda/netns/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/vishvananda/netns",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/vishvananda/netns/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/vishvananda/netns/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/vishvananda/netns/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "netlink - netlink library for go",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/vishvananda/netlink/README"
+  },
+  "next": {
+    "title": "How to contribute",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/go.opencensus.io/CONTRIBUTING"
+  }
+}

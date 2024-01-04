@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/google.golang.org/grpc/README",
+  "id": "tools/packaging/src/runtime/vendor/google.golang.org/grpc/README",
+  "isDocsHomePage": false,
+  "title": "gRPC-Go",
+  "description": "Build Status",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/google.golang.org/grpc/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/google.golang.org/grpc",
+  "slug": "/tools/packaging/src/runtime/vendor/google.golang.org/grpc/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/google.golang.org/grpc/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/google.golang.org/grpc/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MAINTAINERS",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/google.golang.org/grpc/MAINTAINERS"
+  },
+  "next": {
+    "title": "Security Policy",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/google.golang.org/grpc/SECURITY"
+  }
+}

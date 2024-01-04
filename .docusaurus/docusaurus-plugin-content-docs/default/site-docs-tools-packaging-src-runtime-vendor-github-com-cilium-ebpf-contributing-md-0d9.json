@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/CONTRIBUTING",
+  "id": "tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/CONTRIBUTING",
+  "isDocsHomePage": false,
+  "title": "How to contribute",
+  "description": "Development is on GitHub and contributions in",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/CONTRIBUTING.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/cilium/ebpf",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/CONTRIBUTING",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/CONTRIBUTING",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/CONTRIBUTING.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture of the library",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/ARCHITECTURE"
+  },
+  "next": {
+    "title": "Contributor Covenant Code of Conduct",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/cilium/ebpf/CODE_OF_CONDUCT"
+  }
+}

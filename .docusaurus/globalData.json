@@ -71,8 +71,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "inotify",
-              "path": "/docs/intro/docs/inotify",
+              "id": "Developer-Guide",
+              "path": "/docs/intro/docs/Developer-Guide",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -156,78 +156,108 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tools/osbuilder/dockerfiles/QAT/README",
-              "path": "/docs/intro/docs/tools/osbuilder/dockerfiles/QAT/README",
+              "id": "tools/packaging/src/tools/agent-ctl/README",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/agent-ctl/README",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tools/osbuilder/image-builder/README",
-              "path": "/docs/intro/docs/tools/osbuilder/image-builder/README",
+              "id": "tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tools/osbuilder/initrd-builder/README",
-              "path": "/docs/intro/docs/tools/osbuilder/initrd-builder/README",
+              "id": "tools/packaging/src/tools/csi-kata-directvolume/README",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/README",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tools/osbuilder/README",
-              "path": "/docs/intro/docs/tools/osbuilder/README",
+              "id": "tools/packaging/src/tools/kata-ctl/README",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/README",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tools/osbuilder/rootfs-builder/README",
-              "path": "/docs/intro/docs/tools/osbuilder/rootfs-builder/README",
+              "id": "tools/packaging/src/tools/kata-ctl/src/log_parser/README",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tools/osbuilder/tests/README",
-              "path": "/docs/intro/docs/tools/osbuilder/tests/README",
+              "id": "tools/packaging/src/tools/log-parser/README",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/README",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tools/packaging/kata-debug/README",
-              "path": "/docs/intro/docs/tools/packaging/kata-debug/README",
+              "id": "tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tools/packaging/kata-deploy/README",
-              "path": "/docs/intro/docs/tools/packaging/kata-deploy/README",
+              "id": "tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tools/packaging/kernel/configs/README",
-              "path": "/docs/intro/docs/tools/packaging/kernel/configs/README",
+              "id": "tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tools/packaging/kernel/README",
-              "path": "/docs/intro/docs/tools/packaging/kernel/README",
+              "id": "tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tools/packaging/qemu/README",
-              "path": "/docs/intro/docs/tools/packaging/qemu/README",
+              "id": "tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tools/packaging/README",
-              "path": "/docs/intro/docs/tools/packaging/README",
+              "id": "tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tools/packaging/release/README",
-              "path": "/docs/intro/docs/tools/packaging/release/README",
+              "id": "tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tools/packaging/scripts/README",
-              "path": "/docs/intro/docs/tools/packaging/scripts/README",
+              "id": "tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tools/packaging/static-build/README",
-              "path": "/docs/intro/docs/tools/packaging/static-build/README",
+              "id": "tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/packaging/src/tools/runk/README",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/runk/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/packaging/src/tools/trace-forwarder/README",
+              "path": "/docs/intro/docs/tools/packaging/src/tools/trace-forwarder/README",
               "sidebar": "tutorialSidebar"
             },
             {

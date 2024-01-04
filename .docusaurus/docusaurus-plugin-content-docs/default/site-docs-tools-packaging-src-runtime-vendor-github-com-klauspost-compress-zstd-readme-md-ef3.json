@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd/README",
+  "isDocsHomePage": false,
+  "title": "zstd",
+  "description": "Zstandard is a real-time compression algorithm, providing high compression ratios.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Huff0 entropy compression",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/huff0/README"
+  },
+  "next": {
+    "title": "xxhash",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/klauspost/compress/zstd/internal/xxhash/README"
+  }
+}

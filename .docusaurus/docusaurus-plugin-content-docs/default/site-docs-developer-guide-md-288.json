@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Developer-Guide",
+  "id": "Developer-Guide",
+  "isDocsHomePage": false,
+  "title": "Developer Guide",
+  "description": "",
+  "source": "@site/docs/Developer-Guide.md",
+  "sourceDirName": ".",
+  "slug": "/Developer-Guide",
+  "permalink": "/docs/intro/docs/Developer-Guide",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/Developer-Guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "System Requirements",
+    "permalink": "/docs/intro/docs/requirements"
+  },
+  "next": {
+    "title": "API Hooks Handling",
+    "permalink": "/docs/intro/docs/API Reference/hooks-handling"
+  }
+}

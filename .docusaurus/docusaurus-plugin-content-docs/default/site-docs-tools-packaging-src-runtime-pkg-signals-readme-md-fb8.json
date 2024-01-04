@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/pkg/signals/README",
+  "id": "tools/packaging/src/runtime/pkg/signals/README",
+  "isDocsHomePage": false,
+  "title": "Signals package",
+  "description": "The signals package contains common signal handling functions that are shared by",
+  "source": "@site/docs/tools/packaging/src/runtime/pkg/signals/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/pkg/signals",
+  "slug": "/tools/packaging/src/runtime/pkg/signals/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/pkg/signals/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/pkg/signals/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sev/testdata",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/pkg/sev/testdata/README"
+  },
+  "next": {
+    "title": "bytefmt",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/code.cloudfoundry.org/bytefmt/README"
+  }
+}

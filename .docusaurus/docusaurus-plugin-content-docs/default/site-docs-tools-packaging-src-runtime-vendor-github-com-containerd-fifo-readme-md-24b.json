@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/containerd/fifo/readme",
+  "id": "tools/packaging/src/runtime/vendor/github.com/containerd/fifo/readme",
+  "isDocsHomePage": false,
+  "title": "readme",
+  "description": "fifo",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/containerd/fifo/readme.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/containerd/fifo",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/containerd/fifo/readme",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/fifo/readme",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/containerd/fifo/readme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/continuity/sysx/README"
+  },
+  "next": {
+    "title": "go-runc",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/containerd/go-runc/README"
+  }
+}

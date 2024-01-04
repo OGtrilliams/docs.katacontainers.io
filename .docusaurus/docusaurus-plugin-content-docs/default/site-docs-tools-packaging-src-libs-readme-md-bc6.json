@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/libs/README",
+  "id": "tools/packaging/src/libs/README",
+  "isDocsHomePage": false,
+  "title": "README",
+  "description": "The src/libs directory hosts library crates which may be shared by multiple Kata Containers components",
+  "source": "@site/docs/tools/packaging/src/libs/README.md",
+  "sourceDirName": "tools/packaging/src/libs",
+  "slug": "/tools/packaging/src/libs/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/libs/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/libs/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dbs-virtio-devices",
+    "permalink": "/docs/intro/docs/tools/packaging/src/dragonball/src/dbs_virtio_devices/README"
+  },
+  "next": {
+    "title": "kata-sys-util",
+    "permalink": "/docs/intro/docs/tools/packaging/src/libs/kata-sys-util/README"
+  }
+}

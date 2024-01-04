@@ -1,0 +1,24 @@
+{
+  "unversionedId": "tools/packaging/src/runtime/vendor/github.com/AdaLogics/go-fuzz-headers/README",
+  "id": "tools/packaging/src/runtime/vendor/github.com/AdaLogics/go-fuzz-headers/README",
+  "isDocsHomePage": false,
+  "title": "go-fuzz-headers",
+  "description": "This repository contains various helper functions for go fuzzing. It is mostly used in combination with go-fuzz, but compatibility with fuzzing in the standard library will also be supported. Any coverage guided fuzzing engine that provides an array or slice of bytes can be used with go-fuzz-headers.",
+  "source": "@site/docs/tools/packaging/src/runtime/vendor/github.com/AdaLogics/go-fuzz-headers/README.md",
+  "sourceDirName": "tools/packaging/src/runtime/vendor/github.com/AdaLogics/go-fuzz-headers",
+  "slug": "/tools/packaging/src/runtime/vendor/github.com/AdaLogics/go-fuzz-headers/README",
+  "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/AdaLogics/go-fuzz-headers/README",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/runtime/vendor/github.com/AdaLogics/go-fuzz-headers/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bytefmt",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/code.cloudfoundry.org/bytefmt/README"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/tools/packaging/src/runtime/vendor/github.com/BurntSushi/toml/README"
+  }
+}
