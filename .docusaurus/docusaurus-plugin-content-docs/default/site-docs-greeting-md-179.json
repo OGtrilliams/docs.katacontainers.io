@@ -1,0 +1,20 @@
+{
+  "unversionedId": "greeting",
+  "id": "greeting",
+  "isDocsHomePage": false,
+  "title": "docs.katacontainers.io",
+  "description": "lorem ipsum...",
+  "source": "@site/docs/greeting.md",
+  "sourceDirName": ".",
+  "slug": "/greeting",
+  "permalink": "/docs/greeting",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/greeting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Networking",
+    "permalink": "/docs/Architecture Overview/networking"
+  }
+}

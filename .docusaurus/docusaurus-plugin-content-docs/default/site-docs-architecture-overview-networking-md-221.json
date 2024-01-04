@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Architecture Overview/networking",
+  "id": "Architecture Overview/networking",
+  "isDocsHomePage": false,
+  "title": "Networking",
+  "description": "Containers typically live in their own, possibly shared, networking namespace.",
+  "source": "@site/docs/Architecture Overview/networking.md",
+  "sourceDirName": "Architecture Overview",
+  "slug": "/Architecture Overview/networking",
+  "permalink": "/docs/Architecture Overview/networking",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Architecture Overview/networking.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Networking",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Storage",
+    "permalink": "/docs/Architecture Overview/storage"
+  },
+  "next": {
+    "title": "docs.katacontainers.io",
+    "permalink": "/docs/greeting"
+  }
+}

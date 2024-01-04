@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Architecture Overview/example-command",
+  "id": "Architecture Overview/example-command",
+  "isDocsHomePage": false,
+  "title": "Example command",
+  "description": "The following containerd command creates a container. It is referred",
+  "source": "@site/docs/Architecture Overview/example-command.md",
+  "sourceDirName": "Architecture Overview",
+  "slug": "/Architecture Overview/example-command",
+  "permalink": "/docs/Architecture Overview/example-command",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Architecture Overview/example-command.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Example command"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture History",
+    "permalink": "/docs/Architecture Overview/history"
+  },
+  "next": {
+    "title": "Background Knowledge",
+    "permalink": "/docs/Architecture Overview/background"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Architecture Overview/README",
+  "id": "Architecture Overview/README",
+  "isDocsHomePage": false,
+  "title": "Kata Containers Architecture",
+  "description": "Overview",
+  "source": "@site/docs/Architecture Overview/README.md",
+  "sourceDirName": "Architecture Overview",
+  "slug": "/Architecture Overview/README",
+  "permalink": "/docs/Architecture Overview/README",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/Architecture Overview/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Kata Containers Architecture",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Architecture History",
+    "permalink": "/docs/Architecture Overview/history"
+  }
+}
