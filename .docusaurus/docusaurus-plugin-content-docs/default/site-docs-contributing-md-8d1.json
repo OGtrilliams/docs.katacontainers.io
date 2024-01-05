@@ -7,7 +7,7 @@
   "source": "@site/docs/CONTRIBUTING.md",
   "sourceDirName": ".",
   "slug": "/CONTRIBUTING",
-  "permalink": "/docs/intro/docs/CONTRIBUTING",
+  "permalink": "/docs/CONTRIBUTING",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/CONTRIBUTING.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "CODE OF CONDUCT",
-    "permalink": "/docs/intro/docs/CODE_OF_CONDUCT"
+    "permalink": "/docs/CODE_OF_CONDUCT"
   },
   "next": {
     "title": "GLOSSARY",
-    "permalink": "/docs/intro/docs/Glossary"
+    "permalink": "/docs/Glossary"
   }
 }

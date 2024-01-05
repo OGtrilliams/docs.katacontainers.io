@@ -7,7 +7,7 @@
   "source": "@site/docs/tools/packaging/src/tools/trace-forwarder/README.md",
   "sourceDirName": "tools/packaging/src/tools/trace-forwarder",
   "slug": "/tools/packaging/src/tools/trace-forwarder/README",
-  "permalink": "/docs/intro/docs/tools/packaging/src/tools/trace-forwarder/README",
+  "permalink": "/docs/tools/packaging/src/tools/trace-forwarder/README",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/trace-forwarder/README.md",
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "README",
-    "permalink": "/docs/intro/docs/tools/packaging/src/tools/runk/README"
+    "permalink": "/docs/tools/packaging/src/tools/runk/README"
   }
 }

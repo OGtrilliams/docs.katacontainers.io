@@ -7,7 +7,7 @@
   "source": "@site/docs/proposals/tracing-proposals.md",
   "sourceDirName": "proposals",
   "slug": "/proposals/tracing-proposals",
-  "permalink": "/docs/intro/docs/proposals/tracing-proposals",
+  "permalink": "/docs/proposals/tracing-proposals",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/proposals/tracing-proposals.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Design Proposals",
-    "permalink": "/docs/intro/docs/proposals/README"
+    "permalink": "/docs/proposals/README"
   },
   "next": {
     "title": "Agent Control tool",
-    "permalink": "/docs/intro/docs/tools/packaging/src/tools/agent-ctl/README"
+    "permalink": "/docs/tools/packaging/src/tools/agent-ctl/README"
   }
 }

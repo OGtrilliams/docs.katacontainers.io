@@ -7,7 +7,7 @@
   "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README.md",
   "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2",
   "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README",
-  "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README",
+  "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "README",
-    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README"
+    "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README"
   },
   "next": {
     "title": "sanitized_anchor_name",
-    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README"
+    "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README"
   }
 }

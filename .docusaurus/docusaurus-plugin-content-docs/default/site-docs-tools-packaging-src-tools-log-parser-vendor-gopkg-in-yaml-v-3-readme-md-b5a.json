@@ -7,7 +7,7 @@
   "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README.md",
   "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3",
   "slug": "/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README",
-  "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README",
+  "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "YAML support for the Go language",
-    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README"
+    "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README"
   },
   "next": {
     "title": "README",
-    "permalink": "/docs/intro/docs/tools/packaging/src/tools/runk/README"
+    "permalink": "/docs/tools/packaging/src/tools/runk/README"
   }
 }

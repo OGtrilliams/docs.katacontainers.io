@@ -7,7 +7,7 @@
   "source": "@site/docs/tools/packaging/src/tools/csi-kata-directvolume/README.md",
   "sourceDirName": "tools/packaging/src/tools/csi-kata-directvolume",
   "slug": "/tools/packaging/src/tools/csi-kata-directvolume/README",
-  "permalink": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/README",
+  "permalink": "/docs/tools/packaging/src/tools/csi-kata-directvolume/README",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/csi-kata-directvolume/README.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Agent Control tool",
-    "permalink": "/docs/intro/docs/tools/packaging/src/tools/agent-ctl/README"
+    "permalink": "/docs/tools/packaging/src/tools/agent-ctl/README"
   },
   "next": {
     "title": "Deploy Kata Direct Volume CSI and Do Validation",
-    "permalink": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol"
+    "permalink": "/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol"
   }
 }

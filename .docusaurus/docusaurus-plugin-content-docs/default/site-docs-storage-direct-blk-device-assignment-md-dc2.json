@@ -7,7 +7,7 @@
   "source": "@site/docs/Storage/direct-blk-device-assignment.md",
   "sourceDirName": "Storage",
   "slug": "/Storage/direct-blk-device-assignment",
-  "permalink": "/docs/intro/docs/Storage/direct-blk-device-assignment",
+  "permalink": "/docs/Storage/direct-blk-device-assignment",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/Storage/direct-blk-device-assignment.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "vCPU sizing | GOLANG",
-    "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-go"
+    "permalink": "/docs/Runtimes/vcpu-handling-runtime-go"
   },
   "next": {
     "title": "Storage",
-    "permalink": "/docs/intro/docs/Storage/storage"
+    "permalink": "/docs/Storage/storage"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/Developer-Guide.md",
   "sourceDirName": ".",
   "slug": "/Developer-Guide",
-  "permalink": "/docs/intro/docs/Developer-Guide",
+  "permalink": "/docs/Developer-Guide",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/Developer-Guide.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "System Requirements",
-    "permalink": "/docs/intro/docs/requirements"
+    "permalink": "/docs/requirements"
   },
   "next": {
     "title": "Creating a Kata Containers release",
-    "permalink": "/docs/intro/docs/Release-Process"
+    "permalink": "/docs/Release-Process"
   }
 }

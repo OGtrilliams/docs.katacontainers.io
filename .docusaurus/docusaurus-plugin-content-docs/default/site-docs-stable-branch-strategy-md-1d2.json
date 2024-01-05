@@ -7,7 +7,7 @@
   "source": "@site/docs/Stable-Branch-Strategy.md",
   "sourceDirName": ".",
   "slug": "/Stable-Branch-Strategy",
-  "permalink": "/docs/intro/docs/Stable-Branch-Strategy",
+  "permalink": "/docs/Stable-Branch-Strategy",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/Stable-Branch-Strategy.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Creating a Kata Containers release",
-    "permalink": "/docs/intro/docs/Release-Process"
+    "permalink": "/docs/Release-Process"
   },
   "next": {
     "title": "Hypervisors",
-    "permalink": "/docs/intro/docs/hypervisors"
+    "permalink": "/docs/hypervisors"
   }
 }

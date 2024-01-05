@@ -7,7 +7,7 @@
   "source": "@site/docs/install/example-command.md",
   "sourceDirName": "install",
   "slug": "/install/example-command",
-  "permalink": "/docs/intro/docs/install/example-command",
+  "permalink": "/docs/install/example-command",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/install/example-command.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Quickstart",
-    "permalink": "/docs/intro/docs/install/quickstart"
+    "permalink": "/docs/install/quickstart"
   },
   "next": {
     "title": "Host cgroup Management",
-    "permalink": "/docs/intro/docs/networking/host-cgroups"
+    "permalink": "/docs/networking/host-cgroups"
   }
 }

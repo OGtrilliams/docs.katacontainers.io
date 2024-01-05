@@ -7,7 +7,7 @@
   "source": "@site/docs/design/kata-2-0-metrics.md",
   "sourceDirName": "design",
   "slug": "/design/kata-2-0-metrics",
-  "permalink": "/docs/intro/docs/design/kata-2-0-metrics",
+  "permalink": "/docs/design/kata-2-0-metrics",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/design/kata-2-0-metrics.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Nydus Design Proposal",
-    "permalink": "/docs/intro/docs/design/kata-nydus-design"
+    "permalink": "/docs/design/kata-nydus-design"
   },
   "next": {
     "title": "Kata Containers installation guides",
-    "permalink": "/docs/intro/docs/install/README"
+    "permalink": "/docs/install/README"
   }
 }

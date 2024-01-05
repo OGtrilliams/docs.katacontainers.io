@@ -1,380 +1,380 @@
 {
-  "/docs/intro/-a2d": {
+  "/-deb": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---docs-intro-5-e-9-aa9"
+    "config": "config---5-e-9-4f3"
   },
-  "/docs/intro/__docusaurus/debug-ea9": {
+  "/__docusaurus/debug-3d6": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/docs/intro/__docusaurus/debug/config-bed": {
+  "/__docusaurus/debug/config-914": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/docs/intro/__docusaurus/debug/content-453": {
+  "/__docusaurus/debug/content-c28": {
     "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---docs-intro-docusaurus-debug-content-246-18e"
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/docs/intro/__docusaurus/debug/globalData-6c4": {
+  "/__docusaurus/debug/globalData-3cf": {
     "component": "component---theme-debug-global-dataede-0fa"
   },
-  "/docs/intro/__docusaurus/debug/metadata-0e3": {
+  "/__docusaurus/debug/metadata-31b": {
     "component": "component---theme-debug-site-metadata-68-e-3d4"
   },
-  "/docs/intro/__docusaurus/debug/registry-459": {
+  "/__docusaurus/debug/registry-0da": {
     "component": "component---theme-debug-registry-679-501"
   },
-  "/docs/intro/__docusaurus/debug/routes-e29": {
+  "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/docs/intro/blog-cf8": {
+  "/blog-520": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---docs-intro-blog-814-f61",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---docs-intro-blog-766-aac"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "content---docs-intro-blogf-4-f-288"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "content---docs-intro-blog-871-3a5"
+        "content": "content---blog-871-381"
       },
       {
-        "content": "content---docs-intro-blog-925-862"
+        "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "metadata---docs-intro-blog-896-41b"
+    "metadata": "metadata---blogb-2-b-df1"
   },
-  "/docs/intro/blog/archive-06a": {
+  "/blog/archive-f4c": {
     "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---docs-intro-blog-archive-5-a-6-238"
+    "archive": "archive---blog-archiveb-2-f-393"
   },
-  "/docs/intro/blog/first-blog-post-464": {
+  "/blog/first-blog-post-6c7": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---docs-intro-blog-814-f61",
-    "content": "content---docs-intro-blog-first-blog-poste-27-c29"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-first-blog-poste-27-4a1"
   },
-  "/docs/intro/blog/long-blog-post-776": {
+  "/blog/long-blog-post-f06": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---docs-intro-blog-814-f61",
-    "content": "content---docs-intro-blog-long-blog-post-736-da5"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-long-blog-post-736-bc7"
   },
-  "/docs/intro/blog/mdx-blog-post-827": {
+  "/blog/mdx-blog-post-bee": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---docs-intro-blog-814-f61",
-    "content": "content---docs-intro-blog-mdx-blog-post-593-823"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-mdx-blog-post-593-37b"
   },
-  "/docs/intro/blog/tags-3f2": {
+  "/blog/tags-e13": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---docs-intro-blog-814-f61",
-    "tags": "tags---docs-intro-blog-tagsfd-7-595"
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
   },
-  "/docs/intro/blog/tags/docusaurus-15d": {
+  "/blog/tags/docusaurus-ddf": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---docs-intro-blog-814-f61",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---docs-intro-blog-766-aac"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "content---docs-intro-blogf-4-f-288"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "content---docs-intro-blog-871-3a5"
+        "content": "content---blog-871-381"
       },
       {
-        "content": "content---docs-intro-blog-925-862"
+        "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "metadata---docs-intro-blog-tags-docusaurus-5-d-6-09b"
+    "metadata": "metadata---blog-tags-docusaurusa-80-728"
   },
-  "/docs/intro/blog/tags/facebook-29b": {
+  "/blog/tags/facebook-ede": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---docs-intro-blog-814-f61",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---docs-intro-blog-766-aac"
+        "content": "content---blog-766-e3c"
       }
     ],
-    "metadata": "metadata---docs-intro-blog-tags-facebookdc-8-015"
+    "metadata": "metadata---blog-tags-facebook-031-c52"
   },
-  "/docs/intro/blog/tags/hello-383": {
+  "/blog/tags/hello-4c2": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---docs-intro-blog-814-f61",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---docs-intro-blog-766-aac"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "content---docs-intro-blog-871-3a5"
+        "content": "content---blog-871-381"
       }
     ],
-    "metadata": "metadata---docs-intro-blog-tags-hello-7-bc-e0f"
+    "metadata": "metadata---blog-tags-hello-30-a-bed"
   },
-  "/docs/intro/blog/tags/hola-f10": {
+  "/blog/tags/hola-752": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---docs-intro-blog-814-f61",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---docs-intro-blog-925-862"
+        "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "metadata---docs-intro-blog-tags-holad-51-0b3"
+    "metadata": "metadata---blog-tags-holae-16-18a"
   },
-  "/docs/intro/blog/welcome-76d": {
+  "/blog/welcome-bfa": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---docs-intro-blog-814-f61",
-    "content": "content---docs-intro-blog-welcomed-9-f-525"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/docs/intro/docs/tags-98e": {
+  "/docs/tags-0cc": {
     "component": "component---theme-doc-tags-list-page-372-89e",
-    "tags": "tags---docs-intro-docs-tags-559-228"
+    "tags": "tags---docs-tags-559-5e5"
   },
-  "/docs/intro/markdown-page-02e": {
+  "/markdown-page-be1": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---docs-intro-markdown-page-393-736"
+    "content": "content---markdown-page-393-028"
   },
-  "/docs/intro/docs-65a": {
+  "/docs-9b5": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docs-intro-docs-935-f75"
+    "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/intro/docs/API Reference/hooks-handling-d24": {
+  "/docs/API Reference/hooks-handling-bc4": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-api-reference-hooks-handling-855-e18"
+    "content": "content---docs-api-reference-hooks-handling-855-d7c"
   },
-  "/docs/intro/docs/Architecture/background-d4c": {
+  "/docs/Architecture/background-854": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-architecture-background-950-cd8"
+    "content": "content---docs-architecture-background-950-c0a"
   },
-  "/docs/intro/docs/Architecture/guest-assets-10a": {
+  "/docs/Architecture/guest-assets-b56": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-architecture-guest-assets-6-ee-111"
+    "content": "content---docs-architecture-guest-assets-6-ee-68a"
   },
-  "/docs/intro/docs/Architecture/history-6a4": {
+  "/docs/Architecture/history-8c8": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-architecture-history-50-c-2f8"
+    "content": "content---docs-architecture-history-50-c-561"
   },
-  "/docs/intro/docs/Architecture/kata-3.0-arch-e93": {
+  "/docs/Architecture/kata-3.0-arch-14b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-architecture-kata-3-0-arch-255-a41"
+    "content": "content---docs-architecture-kata-3-0-arch-255-95a"
   },
-  "/docs/intro/docs/Architecture/kubernetes-b7d": {
+  "/docs/Architecture/kubernetes-09c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-architecture-kubernetes-014-cb9"
+    "content": "content---docs-architecture-kubernetes-014-1ba"
   },
-  "/docs/intro/docs/Architecture/README-1b5": {
+  "/docs/Architecture/README-315": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-architecture-readm-ec-8-c-3f0"
+    "content": "content---docs-architecture-readm-ec-8-c-b47"
   },
-  "/docs/intro/docs/CODE_OF_CONDUCT-815": {
+  "/docs/CODE_OF_CONDUCT-fe8": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-code-of-conduc-tc-43-274"
+    "content": "content---docs-code-of-conduc-tc-43-885"
   },
-  "/docs/intro/docs/CONTRIBUTING-0bc": {
+  "/docs/CONTRIBUTING-03b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-contributing-8-d-1-907"
+    "content": "content---docs-contributing-8-d-1-096"
   },
-  "/docs/intro/docs/design/kata-2-0-metrics-f90": {
+  "/docs/design/kata-2-0-metrics-715": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-design-kata-2-0-metrics-7-a-4-8af"
+    "content": "content---docs-design-kata-2-0-metrics-7-a-4-b07"
   },
-  "/docs/intro/docs/design/kata-api-design-443": {
+  "/docs/design/kata-api-design-a57": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-design-kata-api-design-1-c-7-573"
+    "content": "content---docs-design-kata-api-design-1-c-7-b24"
   },
-  "/docs/intro/docs/design/kata-design-requirements-e9d": {
+  "/docs/design/kata-design-requirements-1c1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-design-kata-design-requirementsc-0-c-96a"
+    "content": "content---docs-design-kata-design-requirementsc-0-c-06f"
   },
-  "/docs/intro/docs/design/kata-nydus-design-047": {
+  "/docs/design/kata-nydus-design-f0a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-design-kata-nydus-design-88-d-082"
+    "content": "content---docs-design-kata-nydus-design-88-d-195"
   },
-  "/docs/intro/docs/design/vcpu-threads-pinning-cd5": {
+  "/docs/design/vcpu-threads-pinning-407": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-design-vcpu-threads-pinningdfd-cdf"
+    "content": "content---docs-design-vcpu-threads-pinningdfd-f31"
   },
-  "/docs/intro/docs/Developer-Guide-900": {
+  "/docs/Developer-Guide-fdb": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-developer-guide-288-b6e"
+    "content": "content---docs-developer-guide-288-33a"
   },
-  "/docs/intro/docs/Glossary-970": {
+  "/docs/Glossary-845": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-glossaryb-5-a-af0"
+    "content": "content---docs-glossaryb-5-a-e9e"
   },
-  "/docs/intro/docs/hypervisors-06a": {
+  "/docs/hypervisors-9f4": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-hypervisorse-3-a-01c"
+    "content": "content---docs-hypervisorse-3-a-6fb"
   },
-  "/docs/intro/docs/install/example-command-118": {
+  "/docs/install/example-command-d70": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-install-example-commanddac-747"
+    "content": "content---docs-install-example-commanddac-650"
   },
-  "/docs/intro/docs/install/kata-deploy-dff": {
+  "/docs/install/kata-deploy-62e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-install-kata-deploy-1-ae-7a2"
+    "content": "content---docs-install-kata-deploy-1-ae-312"
   },
-  "/docs/intro/docs/install/quickstart-e23": {
+  "/docs/install/quickstart-758": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-install-quickstart-1-d-5-126"
+    "content": "content---docs-install-quickstart-1-d-5-536"
   },
-  "/docs/intro/docs/install/README-735": {
+  "/docs/install/README-1b4": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-install-readme-19-e-981"
+    "content": "content---docs-install-readme-19-e-ab8"
   },
-  "/docs/intro/docs/intro-877": {
+  "/docs/intro-aed": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-intro-0-e-3-a16"
+    "content": "content---docs-intro-0-e-3-be1"
   },
-  "/docs/intro/docs/networking/agent-systemd-cgroup-297": {
+  "/docs/networking/agent-systemd-cgroup-3dc": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-networking-agent-systemd-cgroupeda-88e"
+    "content": "content---docs-networking-agent-systemd-cgroupeda-3f3"
   },
-  "/docs/intro/docs/networking/end-to-end-flow-f9d": {
+  "/docs/networking/end-to-end-flow-f3a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-networking-end-to-end-flow-48-c-186"
+    "content": "content---docs-networking-end-to-end-flow-48-c-1a6"
   },
-  "/docs/intro/docs/networking/host-cgroups-8c6": {
+  "/docs/networking/host-cgroups-6ff": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-networking-host-cgroups-1-db-4f8"
+    "content": "content---docs-networking-host-cgroups-1-db-15e"
   },
-  "/docs/intro/docs/networking/networking-c07": {
+  "/docs/networking/networking-68f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-networking-networkingee-7-8ed"
+    "content": "content---docs-networking-networkingee-7-cec"
   },
-  "/docs/intro/docs/proposals/README-bf2": {
+  "/docs/proposals/README-d19": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-proposals-readme-0-b-6-519"
+    "content": "content---docs-proposals-readme-0-b-6-20b"
   },
-  "/docs/intro/docs/proposals/tracing-proposals-195": {
+  "/docs/proposals/tracing-proposals-805": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-proposals-tracing-proposals-6-af-536"
+    "content": "content---docs-proposals-tracing-proposals-6-af-c99"
   },
-  "/docs/intro/docs/README-16c": {
+  "/docs/README-32f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-readme-233-452"
+    "content": "content---docs-readme-233-f53"
   },
-  "/docs/intro/docs/Release-Process-5f5": {
+  "/docs/Release-Process-498": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-release-processb-66-39e"
+    "content": "content---docs-release-processb-66-90f"
   },
-  "/docs/intro/docs/requirements-983": {
+  "/docs/requirements-0bd": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-requirements-5-ed-761"
+    "content": "content---docs-requirements-5-ed-1a6"
   },
-  "/docs/intro/docs/Runtimes/vcpu-handling-runtime-go-87e": {
+  "/docs/Runtimes/vcpu-handling-runtime-go-56b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-runtimes-vcpu-handling-runtime-goc-9-e-1bf"
+    "content": "content---docs-runtimes-vcpu-handling-runtime-goc-9-e-4d3"
   },
-  "/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs-559": {
+  "/docs/Runtimes/vcpu-handling-runtime-rs-b8f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-runtimes-vcpu-handling-runtime-rs-8-e-3-1f5"
+    "content": "content---docs-runtimes-vcpu-handling-runtime-rs-8-e-3-dae"
   },
-  "/docs/intro/docs/Stable-Branch-Strategy-75c": {
+  "/docs/Stable-Branch-Strategy-42d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-stable-branch-strategy-1-d-2-c11"
+    "content": "content---docs-stable-branch-strategy-1-d-2-dda"
   },
-  "/docs/intro/docs/Storage/direct-blk-device-assignment-556": {
+  "/docs/Storage/direct-blk-device-assignment-d56": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-storage-direct-blk-device-assignmentdc-2-1a4"
+    "content": "content---docs-storage-direct-blk-device-assignmentdc-2-440"
   },
-  "/docs/intro/docs/Storage/storage-d99": {
+  "/docs/Storage/storage-a5d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-storage-storage-997-e84"
+    "content": "content---docs-storage-storage-997-c8e"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/agent-ctl/README-c2e": {
+  "/docs/tools/packaging/src/tools/agent-ctl/README-fb0": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-agent-ctl-readm-eded-fa1"
+    "content": "content---docs-tools-packaging-src-tools-agent-ctl-readm-eded-e75"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol-548": {
+  "/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol-280": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-csi-kata-directvolume-docs-deploy-csi-kata-directvol-23-f-427"
+    "content": "content---docs-tools-packaging-src-tools-csi-kata-directvolume-docs-deploy-csi-kata-directvol-23-f-346"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/README-590": {
+  "/docs/tools/packaging/src/tools/csi-kata-directvolume/README-bd5": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-csi-kata-directvolume-readm-ea-70-c02"
+    "content": "content---docs-tools-packaging-src-tools-csi-kata-directvolume-readm-ea-70-561"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/README-f83": {
+  "/docs/tools/packaging/src/tools/kata-ctl/README-3f2": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-kata-ctl-readme-4-f-4-f98"
+    "content": "content---docs-tools-packaging-src-tools-kata-ctl-readme-4-f-4-587"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README-bb2": {
+  "/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README-b0e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-kata-ctl-src-log-parser-readme-455-969"
+    "content": "content---docs-tools-packaging-src-tools-kata-ctl-src-log-parser-readme-455-2c4"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/log-parser/README-8d1": {
+  "/docs/tools/packaging/src/tools/log-parser/README-4c2": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-log-parser-readme-06-c-579"
+    "content": "content---docs-tools-packaging-src-tools-log-parser-readme-06-c-3b6"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README-f3f": {
+  "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README-a92": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-log-parser-vendor-github-com-burnt-sushi-toml-readm-ee-94-11f"
+    "content": "content---docs-tools-packaging-src-tools-log-parser-vendor-github-com-burnt-sushi-toml-readm-ee-94-37a"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE-8e9": {
+  "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE-ef5": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-log-parser-vendor-github-com-cpuguy-83-go-md-2-man-v-2-licens-ea-61-797"
+    "content": "content---docs-tools-packaging-src-tools-log-parser-vendor-github-com-cpuguy-83-go-md-2-man-v-2-licens-ea-61-14c"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG-2fb": {
+  "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG-212": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-log-parser-vendor-github-com-go-logfmt-logfmt-changelog-7-ba-fb7"
+    "content": "content---docs-tools-packaging-src-tools-log-parser-vendor-github-com-go-logfmt-logfmt-changelog-7-ba-583"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README-431": {
+  "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README-0fe": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-log-parser-vendor-github-com-go-logfmt-logfmt-readm-ec-6-b-289"
+    "content": "content---docs-tools-packaging-src-tools-log-parser-vendor-github-com-go-logfmt-logfmt-readm-ec-6-b-f8c"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README-311": {
+  "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README-d0f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-log-parser-vendor-github-com-russross-blackfriday-v-2-readme-594-d71"
+    "content": "content---docs-tools-packaging-src-tools-log-parser-vendor-github-com-russross-blackfriday-v-2-readme-594-23b"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README-ad8": {
+  "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README-0e8": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-log-parser-vendor-github-com-shurcoo-l-sanitized-anchor-name-readme-66-a-da3"
+    "content": "content---docs-tools-packaging-src-tools-log-parser-vendor-github-com-shurcoo-l-sanitized-anchor-name-readme-66-a-a15"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG-984": {
+  "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG-a5c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-log-parser-vendor-github-com-sirupsen-logrus-changelog-7-f-9-bc7"
+    "content": "content---docs-tools-packaging-src-tools-log-parser-vendor-github-com-sirupsen-logrus-changelog-7-f-9-d74"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README-334": {
+  "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README-730": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-log-parser-vendor-github-com-sirupsen-logrus-readme-8-ee-ca0"
+    "content": "content---docs-tools-packaging-src-tools-log-parser-vendor-github-com-sirupsen-logrus-readme-8-ee-84f"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT-297": {
+  "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT-b10": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-log-parser-vendor-github-com-urfave-cli-code-of-conduct-02-b-949"
+    "content": "content---docs-tools-packaging-src-tools-log-parser-vendor-github-com-urfave-cli-code-of-conduct-02-b-c99"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README-bfc": {
+  "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README-c12": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-log-parser-vendor-github-com-urfave-cli-readm-eb-2-d-a66"
+    "content": "content---docs-tools-packaging-src-tools-log-parser-vendor-github-com-urfave-cli-readm-eb-2-d-d8a"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README-3d1": {
+  "/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README-20b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-log-parser-vendor-golang-org-x-sys-unix-readm-ee-4-c-1dd"
+    "content": "content---docs-tools-packaging-src-tools-log-parser-vendor-golang-org-x-sys-unix-readm-ee-4-c-ad1"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README-6c3": {
+  "/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README-e19": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-log-parser-vendor-gopkg-in-yaml-v-2-readm-ea-57-e31"
+    "content": "content---docs-tools-packaging-src-tools-log-parser-vendor-gopkg-in-yaml-v-2-readm-ea-57-62c"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README-bdf": {
+  "/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README-5e1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-log-parser-vendor-gopkg-in-yaml-v-3-readm-eb-5-a-d4e"
+    "content": "content---docs-tools-packaging-src-tools-log-parser-vendor-gopkg-in-yaml-v-3-readm-eb-5-a-2c0"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/runk/README-a03": {
+  "/docs/tools/packaging/src/tools/runk/README-7a1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-runk-readme-145-1e5"
+    "content": "content---docs-tools-packaging-src-tools-runk-readme-145-8d3"
   },
-  "/docs/intro/docs/tools/packaging/src/tools/trace-forwarder/README-90b": {
+  "/docs/tools/packaging/src/tools/trace-forwarder/README-ead": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-tools-packaging-src-tools-trace-forwarder-readme-936-04b"
+    "content": "content---docs-tools-packaging-src-tools-trace-forwarder-readme-936-21e"
   },
-  "/docs/intro/docs/Virtualization/kata-vra-8f0": {
+  "/docs/Virtualization/kata-vra-0b6": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-virtualization-kata-vra-1-a-3-8a3"
+    "content": "content---docs-virtualization-kata-vra-1-a-3-6d0"
   },
-  "/docs/intro/docs/Virtualization/virtualization-d3d": {
+  "/docs/Virtualization/virtualization-d3f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-virtualization-virtualizationecb-e7c"
+    "content": "content---docs-virtualization-virtualizationecb-f84"
   },
-  "/docs/intro/docs/Virtualization/VSocks-d6d": {
+  "/docs/Virtualization/VSocks-576": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-docs-virtualization-v-socks-56-d-689"
+    "content": "content---docs-virtualization-v-socks-56-d-fca"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/Storage/storage.md",
   "sourceDirName": "Storage",
   "slug": "/Storage/storage",
-  "permalink": "/docs/intro/docs/Storage/storage",
+  "permalink": "/docs/Storage/storage",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/Storage/storage.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Motivation",
-    "permalink": "/docs/intro/docs/Storage/direct-blk-device-assignment"
+    "permalink": "/docs/Storage/direct-blk-device-assignment"
   },
   "next": {
     "title": "Virtualization Reference Architecture",
-    "permalink": "/docs/intro/docs/Virtualization/kata-vra"
+    "permalink": "/docs/Virtualization/kata-vra"
   }
 }

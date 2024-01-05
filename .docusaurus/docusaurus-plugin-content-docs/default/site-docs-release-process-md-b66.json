@@ -7,7 +7,7 @@
   "source": "@site/docs/Release-Process.md",
   "sourceDirName": ".",
   "slug": "/Release-Process",
-  "permalink": "/docs/intro/docs/Release-Process",
+  "permalink": "/docs/Release-Process",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/Release-Process.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Developer Guide",
-    "permalink": "/docs/intro/docs/Developer-Guide"
+    "permalink": "/docs/Developer-Guide"
   },
   "next": {
     "title": "Branch Strategy",
-    "permalink": "/docs/intro/docs/Stable-Branch-Strategy"
+    "permalink": "/docs/Stable-Branch-Strategy"
   }
 }

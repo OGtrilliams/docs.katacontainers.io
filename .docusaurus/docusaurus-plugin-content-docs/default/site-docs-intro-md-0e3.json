@@ -7,7 +7,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/docs/intro/docs/intro",
+  "permalink": "/docs/intro",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/intro.md",
   "tags": [],
   "version": "current",
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "System Requirements",
-    "permalink": "/docs/intro/docs/requirements"
+    "permalink": "/docs/requirements"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/requirements.md",
   "sourceDirName": ".",
   "slug": "/requirements",
-  "permalink": "/docs/intro/docs/requirements",
+  "permalink": "/docs/requirements",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/requirements.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/docs/intro/docs/intro"
+    "permalink": "/docs/intro"
   },
   "next": {
     "title": "Developer Guide",
-    "permalink": "/docs/intro/docs/Developer-Guide"
+    "permalink": "/docs/Developer-Guide"
   }
 }

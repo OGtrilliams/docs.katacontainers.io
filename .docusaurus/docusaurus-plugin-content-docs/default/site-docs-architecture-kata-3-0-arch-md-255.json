@@ -7,7 +7,7 @@
   "source": "@site/docs/Architecture/kata-3.0-arch.md",
   "sourceDirName": "Architecture",
   "slug": "/Architecture/kata-3.0-arch",
-  "permalink": "/docs/intro/docs/Architecture/kata-3.0-arch",
+  "permalink": "/docs/Architecture/kata-3.0-arch",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/kata-3.0-arch.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Architecture History",
-    "permalink": "/docs/intro/docs/Architecture/history"
+    "permalink": "/docs/Architecture/history"
   },
   "next": {
     "title": "Background Knowledge",
-    "permalink": "/docs/intro/docs/Architecture/background"
+    "permalink": "/docs/Architecture/background"
   }
 }

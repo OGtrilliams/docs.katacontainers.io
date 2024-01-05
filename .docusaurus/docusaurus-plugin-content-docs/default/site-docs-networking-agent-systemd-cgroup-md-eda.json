@@ -7,7 +7,7 @@
   "source": "@site/docs/networking/agent-systemd-cgroup.md",
   "sourceDirName": "networking",
   "slug": "/networking/agent-systemd-cgroup",
-  "permalink": "/docs/intro/docs/networking/agent-systemd-cgroup",
+  "permalink": "/docs/networking/agent-systemd-cgroup",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/networking/agent-systemd-cgroup.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Host cgroup Management",
-    "permalink": "/docs/intro/docs/networking/host-cgroups"
+    "permalink": "/docs/networking/host-cgroups"
   },
   "next": {
     "title": "Networking",
-    "permalink": "/docs/intro/docs/networking/networking"
+    "permalink": "/docs/networking/networking"
   }
 }

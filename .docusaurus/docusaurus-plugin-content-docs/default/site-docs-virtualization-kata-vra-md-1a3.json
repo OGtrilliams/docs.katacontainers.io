@@ -7,7 +7,7 @@
   "source": "@site/docs/Virtualization/kata-vra.md",
   "sourceDirName": "Virtualization",
   "slug": "/Virtualization/kata-vra",
-  "permalink": "/docs/intro/docs/Virtualization/kata-vra",
+  "permalink": "/docs/Virtualization/kata-vra",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/Virtualization/kata-vra.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Storage",
-    "permalink": "/docs/intro/docs/Storage/storage"
+    "permalink": "/docs/Storage/storage"
   },
   "next": {
     "title": "Virtualization in Kata Containers",
-    "permalink": "/docs/intro/docs/Virtualization/virtualization"
+    "permalink": "/docs/Virtualization/virtualization"
   }
 }

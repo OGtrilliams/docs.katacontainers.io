@@ -7,7 +7,7 @@
   "source": "@site/docs/CODE_OF_CONDUCT.md",
   "sourceDirName": ".",
   "slug": "/CODE_OF_CONDUCT",
-  "permalink": "/docs/intro/docs/CODE_OF_CONDUCT",
+  "permalink": "/docs/CODE_OF_CONDUCT",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/CODE_OF_CONDUCT.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Hypervisors",
-    "permalink": "/docs/intro/docs/hypervisors"
+    "permalink": "/docs/hypervisors"
   },
   "next": {
     "title": "Contributing",
-    "permalink": "/docs/intro/docs/CONTRIBUTING"
+    "permalink": "/docs/CONTRIBUTING"
   }
 }

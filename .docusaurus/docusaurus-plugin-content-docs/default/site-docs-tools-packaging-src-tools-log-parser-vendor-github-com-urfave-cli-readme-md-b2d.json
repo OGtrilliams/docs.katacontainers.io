@@ -7,7 +7,7 @@
   "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README.md",
   "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli",
   "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README",
-  "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README",
+  "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Contributor Covenant Code of Conduct",
-    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT"
+    "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT"
   },
   "next": {
     "title": "Building `sys/unix`",
-    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README"
+    "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README"
   }
 }

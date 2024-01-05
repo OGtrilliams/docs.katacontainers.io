@@ -5,8 +5,8 @@
         {
           "versionName": "current",
           "versionLabel": "Next",
-          "versionPath": "/docs/intro/docs",
-          "tagsPath": "/docs/intro/docs/tags",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
           "versionEditUrl": "https://github.com/kata-containers/kata-containers/docs",
           "versionEditUrlLocalized": "https://github.com/kata-containers/kata-containers/i18n/en/docusaurus-plugin-content-docs/current",
           "versionBanner": null,
@@ -684,7 +684,7 @@
               "source": "@site/docs/API Reference/hooks-handling.md",
               "sourceDirName": "API Reference",
               "slug": "/API Reference/hooks-handling",
-              "permalink": "/docs/intro/docs/API Reference/hooks-handling",
+              "permalink": "/docs/API Reference/hooks-handling",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/API Reference/hooks-handling.md",
               "tags": [],
               "version": "current",
@@ -696,11 +696,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "README",
-                "permalink": "/docs/intro/docs/README"
+                "permalink": "/docs/README"
               },
               "next": {
                 "title": "Kata Containers Architecture",
-                "permalink": "/docs/intro/docs/Architecture/README"
+                "permalink": "/docs/Architecture/README"
               }
             },
             {
@@ -712,7 +712,7 @@
               "source": "@site/docs/Architecture/background.md",
               "sourceDirName": "Architecture",
               "slug": "/Architecture/background",
-              "permalink": "/docs/intro/docs/Architecture/background",
+              "permalink": "/docs/Architecture/background",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/background.md",
               "tags": [],
               "version": "current",
@@ -724,11 +724,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "3.0 Architecture",
-                "permalink": "/docs/intro/docs/Architecture/kata-3.0-arch"
+                "permalink": "/docs/Architecture/kata-3.0-arch"
               },
               "next": {
                 "title": "Guest Assets",
-                "permalink": "/docs/intro/docs/Architecture/guest-assets"
+                "permalink": "/docs/Architecture/guest-assets"
               }
             },
             {
@@ -740,7 +740,7 @@
               "source": "@site/docs/Architecture/guest-assets.md",
               "sourceDirName": "Architecture",
               "slug": "/Architecture/guest-assets",
-              "permalink": "/docs/intro/docs/Architecture/guest-assets",
+              "permalink": "/docs/Architecture/guest-assets",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/guest-assets.md",
               "tags": [],
               "version": "current",
@@ -752,11 +752,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Background Knowledge",
-                "permalink": "/docs/intro/docs/Architecture/background"
+                "permalink": "/docs/Architecture/background"
               },
               "next": {
                 "title": "Kubernetes Support",
-                "permalink": "/docs/intro/docs/Architecture/kubernetes"
+                "permalink": "/docs/Architecture/kubernetes"
               }
             },
             {
@@ -768,7 +768,7 @@
               "source": "@site/docs/Architecture/history.md",
               "sourceDirName": "Architecture",
               "slug": "/Architecture/history",
-              "permalink": "/docs/intro/docs/Architecture/history",
+              "permalink": "/docs/Architecture/history",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/history.md",
               "tags": [],
               "version": "current",
@@ -780,11 +780,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Kata Containers Architecture",
-                "permalink": "/docs/intro/docs/Architecture/README"
+                "permalink": "/docs/Architecture/README"
               },
               "next": {
                 "title": "3.0 Architecture",
-                "permalink": "/docs/intro/docs/Architecture/kata-3.0-arch"
+                "permalink": "/docs/Architecture/kata-3.0-arch"
               }
             },
             {
@@ -796,7 +796,7 @@
               "source": "@site/docs/Architecture/kata-3.0-arch.md",
               "sourceDirName": "Architecture",
               "slug": "/Architecture/kata-3.0-arch",
-              "permalink": "/docs/intro/docs/Architecture/kata-3.0-arch",
+              "permalink": "/docs/Architecture/kata-3.0-arch",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/kata-3.0-arch.md",
               "tags": [],
               "version": "current",
@@ -808,11 +808,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Architecture History",
-                "permalink": "/docs/intro/docs/Architecture/history"
+                "permalink": "/docs/Architecture/history"
               },
               "next": {
                 "title": "Background Knowledge",
-                "permalink": "/docs/intro/docs/Architecture/background"
+                "permalink": "/docs/Architecture/background"
               }
             },
             {
@@ -824,7 +824,7 @@
               "source": "@site/docs/Architecture/kubernetes.md",
               "sourceDirName": "Architecture",
               "slug": "/Architecture/kubernetes",
-              "permalink": "/docs/intro/docs/Architecture/kubernetes",
+              "permalink": "/docs/Architecture/kubernetes",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/kubernetes.md",
               "tags": [],
               "version": "current",
@@ -836,11 +836,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Guest Assets",
-                "permalink": "/docs/intro/docs/Architecture/guest-assets"
+                "permalink": "/docs/Architecture/guest-assets"
               },
               "next": {
                 "title": "vCPU Handling | RUST",
-                "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs"
+                "permalink": "/docs/Runtimes/vcpu-handling-runtime-rs"
               }
             },
             {
@@ -852,7 +852,7 @@
               "source": "@site/docs/Architecture/README.md",
               "sourceDirName": "Architecture",
               "slug": "/Architecture/README",
-              "permalink": "/docs/intro/docs/Architecture/README",
+              "permalink": "/docs/Architecture/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/README.md",
               "tags": [],
               "version": "current",
@@ -864,11 +864,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "API Hooks Handling",
-                "permalink": "/docs/intro/docs/API Reference/hooks-handling"
+                "permalink": "/docs/API Reference/hooks-handling"
               },
               "next": {
                 "title": "Architecture History",
-                "permalink": "/docs/intro/docs/Architecture/history"
+                "permalink": "/docs/Architecture/history"
               }
             },
             {
@@ -880,7 +880,7 @@
               "source": "@site/docs/CODE_OF_CONDUCT.md",
               "sourceDirName": ".",
               "slug": "/CODE_OF_CONDUCT",
-              "permalink": "/docs/intro/docs/CODE_OF_CONDUCT",
+              "permalink": "/docs/CODE_OF_CONDUCT",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/CODE_OF_CONDUCT.md",
               "tags": [],
               "version": "current",
@@ -892,11 +892,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Hypervisors",
-                "permalink": "/docs/intro/docs/hypervisors"
+                "permalink": "/docs/hypervisors"
               },
               "next": {
                 "title": "Contributing",
-                "permalink": "/docs/intro/docs/CONTRIBUTING"
+                "permalink": "/docs/CONTRIBUTING"
               }
             },
             {
@@ -908,7 +908,7 @@
               "source": "@site/docs/CONTRIBUTING.md",
               "sourceDirName": ".",
               "slug": "/CONTRIBUTING",
-              "permalink": "/docs/intro/docs/CONTRIBUTING",
+              "permalink": "/docs/CONTRIBUTING",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/CONTRIBUTING.md",
               "tags": [],
               "version": "current",
@@ -920,11 +920,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "CODE OF CONDUCT",
-                "permalink": "/docs/intro/docs/CODE_OF_CONDUCT"
+                "permalink": "/docs/CODE_OF_CONDUCT"
               },
               "next": {
                 "title": "GLOSSARY",
-                "permalink": "/docs/intro/docs/Glossary"
+                "permalink": "/docs/Glossary"
               }
             },
             {
@@ -936,7 +936,7 @@
               "source": "@site/docs/design/kata-2-0-metrics.md",
               "sourceDirName": "design",
               "slug": "/design/kata-2-0-metrics",
-              "permalink": "/docs/intro/docs/design/kata-2-0-metrics",
+              "permalink": "/docs/design/kata-2-0-metrics",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/design/kata-2-0-metrics.md",
               "tags": [],
               "version": "current",
@@ -947,11 +947,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Nydus Design Proposal",
-                "permalink": "/docs/intro/docs/design/kata-nydus-design"
+                "permalink": "/docs/design/kata-nydus-design"
               },
               "next": {
                 "title": "Kata Containers installation guides",
-                "permalink": "/docs/intro/docs/install/README"
+                "permalink": "/docs/install/README"
               }
             },
             {
@@ -963,7 +963,7 @@
               "source": "@site/docs/design/kata-api-design.md",
               "sourceDirName": "design",
               "slug": "/design/kata-api-design",
-              "permalink": "/docs/intro/docs/design/kata-api-design",
+              "permalink": "/docs/design/kata-api-design",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/design/kata-api-design.md",
               "tags": [],
               "version": "current",
@@ -975,11 +975,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Kata Containers & vSOCKS",
-                "permalink": "/docs/intro/docs/Virtualization/VSocks"
+                "permalink": "/docs/Virtualization/VSocks"
               },
               "next": {
                 "title": "Design Requirements",
-                "permalink": "/docs/intro/docs/design/kata-design-requirements"
+                "permalink": "/docs/design/kata-design-requirements"
               }
             },
             {
@@ -991,7 +991,7 @@
               "source": "@site/docs/design/kata-design-requirements.md",
               "sourceDirName": "design",
               "slug": "/design/kata-design-requirements",
-              "permalink": "/docs/intro/docs/design/kata-design-requirements",
+              "permalink": "/docs/design/kata-design-requirements",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/design/kata-design-requirements.md",
               "tags": [],
               "version": "current",
@@ -1003,11 +1003,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "API Design",
-                "permalink": "/docs/intro/docs/design/kata-api-design"
+                "permalink": "/docs/design/kata-api-design"
               },
               "next": {
                 "title": "vCPU Pinning Feature",
-                "permalink": "/docs/intro/docs/design/vcpu-threads-pinning"
+                "permalink": "/docs/design/vcpu-threads-pinning"
               }
             },
             {
@@ -1019,7 +1019,7 @@
               "source": "@site/docs/design/kata-nydus-design.md",
               "sourceDirName": "design",
               "slug": "/design/kata-nydus-design",
-              "permalink": "/docs/intro/docs/design/kata-nydus-design",
+              "permalink": "/docs/design/kata-nydus-design",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/design/kata-nydus-design.md",
               "tags": [],
               "version": "current",
@@ -1031,11 +1031,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "vCPU Pinning Feature",
-                "permalink": "/docs/intro/docs/design/vcpu-threads-pinning"
+                "permalink": "/docs/design/vcpu-threads-pinning"
               },
               "next": {
                 "title": "Kata 2.0 Metrics Design",
-                "permalink": "/docs/intro/docs/design/kata-2-0-metrics"
+                "permalink": "/docs/design/kata-2-0-metrics"
               }
             },
             {
@@ -1047,7 +1047,7 @@
               "source": "@site/docs/design/vcpu-threads-pinning.md",
               "sourceDirName": "design",
               "slug": "/design/vcpu-threads-pinning",
-              "permalink": "/docs/intro/docs/design/vcpu-threads-pinning",
+              "permalink": "/docs/design/vcpu-threads-pinning",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/design/vcpu-threads-pinning.md",
               "tags": [],
               "version": "current",
@@ -1059,11 +1059,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Design Requirements",
-                "permalink": "/docs/intro/docs/design/kata-design-requirements"
+                "permalink": "/docs/design/kata-design-requirements"
               },
               "next": {
                 "title": "Nydus Design Proposal",
-                "permalink": "/docs/intro/docs/design/kata-nydus-design"
+                "permalink": "/docs/design/kata-nydus-design"
               }
             },
             {
@@ -1075,7 +1075,7 @@
               "source": "@site/docs/Developer-Guide.md",
               "sourceDirName": ".",
               "slug": "/Developer-Guide",
-              "permalink": "/docs/intro/docs/Developer-Guide",
+              "permalink": "/docs/Developer-Guide",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/Developer-Guide.md",
               "tags": [],
               "version": "current",
@@ -1086,11 +1086,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "System Requirements",
-                "permalink": "/docs/intro/docs/requirements"
+                "permalink": "/docs/requirements"
               },
               "next": {
                 "title": "Creating a Kata Containers release",
-                "permalink": "/docs/intro/docs/Release-Process"
+                "permalink": "/docs/Release-Process"
               }
             },
             {
@@ -1102,7 +1102,7 @@
               "source": "@site/docs/Glossary.md",
               "sourceDirName": ".",
               "slug": "/Glossary",
-              "permalink": "/docs/intro/docs/Glossary",
+              "permalink": "/docs/Glossary",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/Glossary.md",
               "tags": [],
               "version": "current",
@@ -1114,11 +1114,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Contributing",
-                "permalink": "/docs/intro/docs/CONTRIBUTING"
+                "permalink": "/docs/CONTRIBUTING"
               },
               "next": {
                 "title": "README",
-                "permalink": "/docs/intro/docs/README"
+                "permalink": "/docs/README"
               }
             },
             {
@@ -1130,7 +1130,7 @@
               "source": "@site/docs/hypervisors.md",
               "sourceDirName": ".",
               "slug": "/hypervisors",
-              "permalink": "/docs/intro/docs/hypervisors",
+              "permalink": "/docs/hypervisors",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/hypervisors.md",
               "tags": [],
               "version": "current",
@@ -1142,11 +1142,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Branch Strategy",
-                "permalink": "/docs/intro/docs/Stable-Branch-Strategy"
+                "permalink": "/docs/Stable-Branch-Strategy"
               },
               "next": {
                 "title": "CODE OF CONDUCT",
-                "permalink": "/docs/intro/docs/CODE_OF_CONDUCT"
+                "permalink": "/docs/CODE_OF_CONDUCT"
               }
             },
             {
@@ -1158,7 +1158,7 @@
               "source": "@site/docs/install/example-command.md",
               "sourceDirName": "install",
               "slug": "/install/example-command",
-              "permalink": "/docs/intro/docs/install/example-command",
+              "permalink": "/docs/install/example-command",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/install/example-command.md",
               "tags": [],
               "version": "current",
@@ -1170,11 +1170,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Quickstart",
-                "permalink": "/docs/intro/docs/install/quickstart"
+                "permalink": "/docs/install/quickstart"
               },
               "next": {
                 "title": "Host cgroup Management",
-                "permalink": "/docs/intro/docs/networking/host-cgroups"
+                "permalink": "/docs/networking/host-cgroups"
               }
             },
             {
@@ -1186,7 +1186,7 @@
               "source": "@site/docs/install/kata-deploy.md",
               "sourceDirName": "install",
               "slug": "/install/kata-deploy",
-              "permalink": "/docs/intro/docs/install/kata-deploy",
+              "permalink": "/docs/install/kata-deploy",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/install/kata-deploy.md",
               "tags": [],
               "version": "current",
@@ -1198,11 +1198,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Kata Containers installation guides",
-                "permalink": "/docs/intro/docs/install/README"
+                "permalink": "/docs/install/README"
               },
               "next": {
                 "title": "Quickstart",
-                "permalink": "/docs/intro/docs/install/quickstart"
+                "permalink": "/docs/install/quickstart"
               }
             },
             {
@@ -1214,7 +1214,7 @@
               "source": "@site/docs/install/quickstart.md",
               "sourceDirName": "install",
               "slug": "/install/quickstart",
-              "permalink": "/docs/intro/docs/install/quickstart",
+              "permalink": "/docs/install/quickstart",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/install/quickstart.md",
               "tags": [],
               "version": "current",
@@ -1226,11 +1226,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Install with kata-deploy (Recommended)",
-                "permalink": "/docs/intro/docs/install/kata-deploy"
+                "permalink": "/docs/install/kata-deploy"
               },
               "next": {
                 "title": "Example command",
-                "permalink": "/docs/intro/docs/install/example-command"
+                "permalink": "/docs/install/example-command"
               }
             },
             {
@@ -1242,7 +1242,7 @@
               "source": "@site/docs/install/README.md",
               "sourceDirName": "install",
               "slug": "/install/README",
-              "permalink": "/docs/intro/docs/install/README",
+              "permalink": "/docs/install/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/install/README.md",
               "tags": [],
               "version": "current",
@@ -1253,11 +1253,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Kata 2.0 Metrics Design",
-                "permalink": "/docs/intro/docs/design/kata-2-0-metrics"
+                "permalink": "/docs/design/kata-2-0-metrics"
               },
               "next": {
                 "title": "Install with kata-deploy (Recommended)",
-                "permalink": "/docs/intro/docs/install/kata-deploy"
+                "permalink": "/docs/install/kata-deploy"
               }
             },
             {
@@ -1269,7 +1269,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro/docs/intro",
+              "permalink": "/docs/intro",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/intro.md",
               "tags": [],
               "version": "current",
@@ -1281,7 +1281,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "System Requirements",
-                "permalink": "/docs/intro/docs/requirements"
+                "permalink": "/docs/requirements"
               }
             },
             {
@@ -1293,7 +1293,7 @@
               "source": "@site/docs/networking/agent-systemd-cgroup.md",
               "sourceDirName": "networking",
               "slug": "/networking/agent-systemd-cgroup",
-              "permalink": "/docs/intro/docs/networking/agent-systemd-cgroup",
+              "permalink": "/docs/networking/agent-systemd-cgroup",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/networking/agent-systemd-cgroup.md",
               "tags": [],
               "version": "current",
@@ -1305,11 +1305,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Host cgroup Management",
-                "permalink": "/docs/intro/docs/networking/host-cgroups"
+                "permalink": "/docs/networking/host-cgroups"
               },
               "next": {
                 "title": "Networking",
-                "permalink": "/docs/intro/docs/networking/networking"
+                "permalink": "/docs/networking/networking"
               }
             },
             {
@@ -1321,7 +1321,7 @@
               "source": "@site/docs/networking/end-to-end-flow.md",
               "sourceDirName": "networking",
               "slug": "/networking/end-to-end-flow",
-              "permalink": "/docs/intro/docs/networking/end-to-end-flow",
+              "permalink": "/docs/networking/end-to-end-flow",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/networking/end-to-end-flow.md",
               "tags": [],
               "version": "current",
@@ -1333,11 +1333,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Networking",
-                "permalink": "/docs/intro/docs/networking/networking"
+                "permalink": "/docs/networking/networking"
               },
               "next": {
                 "title": "Design Proposals",
-                "permalink": "/docs/intro/docs/proposals/README"
+                "permalink": "/docs/proposals/README"
               }
             },
             {
@@ -1349,7 +1349,7 @@
               "source": "@site/docs/networking/host-cgroups.md",
               "sourceDirName": "networking",
               "slug": "/networking/host-cgroups",
-              "permalink": "/docs/intro/docs/networking/host-cgroups",
+              "permalink": "/docs/networking/host-cgroups",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/networking/host-cgroups.md",
               "tags": [],
               "version": "current",
@@ -1361,11 +1361,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Example command",
-                "permalink": "/docs/intro/docs/install/example-command"
+                "permalink": "/docs/install/example-command"
               },
               "next": {
                 "title": "Systemd Cgroup for Agent",
-                "permalink": "/docs/intro/docs/networking/agent-systemd-cgroup"
+                "permalink": "/docs/networking/agent-systemd-cgroup"
               }
             },
             {
@@ -1377,7 +1377,7 @@
               "source": "@site/docs/networking/networking.md",
               "sourceDirName": "networking",
               "slug": "/networking/networking",
-              "permalink": "/docs/intro/docs/networking/networking",
+              "permalink": "/docs/networking/networking",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/networking/networking.md",
               "tags": [],
               "version": "current",
@@ -1389,11 +1389,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Systemd Cgroup for Agent",
-                "permalink": "/docs/intro/docs/networking/agent-systemd-cgroup"
+                "permalink": "/docs/networking/agent-systemd-cgroup"
               },
               "next": {
                 "title": "Kata Containers E2E Flow Diagram",
-                "permalink": "/docs/intro/docs/networking/end-to-end-flow"
+                "permalink": "/docs/networking/end-to-end-flow"
               }
             },
             {
@@ -1405,7 +1405,7 @@
               "source": "@site/docs/proposals/README.md",
               "sourceDirName": "proposals",
               "slug": "/proposals/README",
-              "permalink": "/docs/intro/docs/proposals/README",
+              "permalink": "/docs/proposals/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/proposals/README.md",
               "tags": [],
               "version": "current",
@@ -1417,11 +1417,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Kata Containers E2E Flow Diagram",
-                "permalink": "/docs/intro/docs/networking/end-to-end-flow"
+                "permalink": "/docs/networking/end-to-end-flow"
               },
               "next": {
                 "title": "Tracing Proposals",
-                "permalink": "/docs/intro/docs/proposals/tracing-proposals"
+                "permalink": "/docs/proposals/tracing-proposals"
               }
             },
             {
@@ -1433,7 +1433,7 @@
               "source": "@site/docs/proposals/tracing-proposals.md",
               "sourceDirName": "proposals",
               "slug": "/proposals/tracing-proposals",
-              "permalink": "/docs/intro/docs/proposals/tracing-proposals",
+              "permalink": "/docs/proposals/tracing-proposals",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/proposals/tracing-proposals.md",
               "tags": [],
               "version": "current",
@@ -1445,11 +1445,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Design Proposals",
-                "permalink": "/docs/intro/docs/proposals/README"
+                "permalink": "/docs/proposals/README"
               },
               "next": {
                 "title": "Agent Control tool",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/agent-ctl/README"
+                "permalink": "/docs/tools/packaging/src/tools/agent-ctl/README"
               }
             },
             {
@@ -1461,7 +1461,7 @@
               "source": "@site/docs/README.md",
               "sourceDirName": ".",
               "slug": "/README",
-              "permalink": "/docs/intro/docs/README",
+              "permalink": "/docs/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/README.md",
               "tags": [],
               "version": "current",
@@ -1473,11 +1473,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "GLOSSARY",
-                "permalink": "/docs/intro/docs/Glossary"
+                "permalink": "/docs/Glossary"
               },
               "next": {
                 "title": "API Hooks Handling",
-                "permalink": "/docs/intro/docs/API Reference/hooks-handling"
+                "permalink": "/docs/API Reference/hooks-handling"
               }
             },
             {
@@ -1489,7 +1489,7 @@
               "source": "@site/docs/Release-Process.md",
               "sourceDirName": ".",
               "slug": "/Release-Process",
-              "permalink": "/docs/intro/docs/Release-Process",
+              "permalink": "/docs/Release-Process",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/Release-Process.md",
               "tags": [],
               "version": "current",
@@ -1501,11 +1501,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Developer Guide",
-                "permalink": "/docs/intro/docs/Developer-Guide"
+                "permalink": "/docs/Developer-Guide"
               },
               "next": {
                 "title": "Branch Strategy",
-                "permalink": "/docs/intro/docs/Stable-Branch-Strategy"
+                "permalink": "/docs/Stable-Branch-Strategy"
               }
             },
             {
@@ -1517,7 +1517,7 @@
               "source": "@site/docs/requirements.md",
               "sourceDirName": ".",
               "slug": "/requirements",
-              "permalink": "/docs/intro/docs/requirements",
+              "permalink": "/docs/requirements",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/requirements.md",
               "tags": [],
               "version": "current",
@@ -1529,11 +1529,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introduction",
-                "permalink": "/docs/intro/docs/intro"
+                "permalink": "/docs/intro"
               },
               "next": {
                 "title": "Developer Guide",
-                "permalink": "/docs/intro/docs/Developer-Guide"
+                "permalink": "/docs/Developer-Guide"
               }
             },
             {
@@ -1545,7 +1545,7 @@
               "source": "@site/docs/Runtimes/vcpu-handling-runtime-go.md",
               "sourceDirName": "Runtimes",
               "slug": "/Runtimes/vcpu-handling-runtime-go",
-              "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-go",
+              "permalink": "/docs/Runtimes/vcpu-handling-runtime-go",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/Runtimes/vcpu-handling-runtime-go.md",
               "tags": [],
               "version": "current",
@@ -1557,11 +1557,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "vCPU Handling | RUST",
-                "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs"
+                "permalink": "/docs/Runtimes/vcpu-handling-runtime-rs"
               },
               "next": {
                 "title": "Motivation",
-                "permalink": "/docs/intro/docs/Storage/direct-blk-device-assignment"
+                "permalink": "/docs/Storage/direct-blk-device-assignment"
               }
             },
             {
@@ -1573,7 +1573,7 @@
               "source": "@site/docs/Runtimes/vcpu-handling-runtime-rs.md",
               "sourceDirName": "Runtimes",
               "slug": "/Runtimes/vcpu-handling-runtime-rs",
-              "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs",
+              "permalink": "/docs/Runtimes/vcpu-handling-runtime-rs",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/Runtimes/vcpu-handling-runtime-rs.md",
               "tags": [],
               "version": "current",
@@ -1585,11 +1585,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Kubernetes Support",
-                "permalink": "/docs/intro/docs/Architecture/kubernetes"
+                "permalink": "/docs/Architecture/kubernetes"
               },
               "next": {
                 "title": "vCPU sizing | GOLANG",
-                "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-go"
+                "permalink": "/docs/Runtimes/vcpu-handling-runtime-go"
               }
             },
             {
@@ -1601,7 +1601,7 @@
               "source": "@site/docs/Stable-Branch-Strategy.md",
               "sourceDirName": ".",
               "slug": "/Stable-Branch-Strategy",
-              "permalink": "/docs/intro/docs/Stable-Branch-Strategy",
+              "permalink": "/docs/Stable-Branch-Strategy",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/Stable-Branch-Strategy.md",
               "tags": [],
               "version": "current",
@@ -1613,11 +1613,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Creating a Kata Containers release",
-                "permalink": "/docs/intro/docs/Release-Process"
+                "permalink": "/docs/Release-Process"
               },
               "next": {
                 "title": "Hypervisors",
-                "permalink": "/docs/intro/docs/hypervisors"
+                "permalink": "/docs/hypervisors"
               }
             },
             {
@@ -1629,7 +1629,7 @@
               "source": "@site/docs/Storage/direct-blk-device-assignment.md",
               "sourceDirName": "Storage",
               "slug": "/Storage/direct-blk-device-assignment",
-              "permalink": "/docs/intro/docs/Storage/direct-blk-device-assignment",
+              "permalink": "/docs/Storage/direct-blk-device-assignment",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/Storage/direct-blk-device-assignment.md",
               "tags": [],
               "version": "current",
@@ -1641,11 +1641,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "vCPU sizing | GOLANG",
-                "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-go"
+                "permalink": "/docs/Runtimes/vcpu-handling-runtime-go"
               },
               "next": {
                 "title": "Storage",
-                "permalink": "/docs/intro/docs/Storage/storage"
+                "permalink": "/docs/Storage/storage"
               }
             },
             {
@@ -1657,7 +1657,7 @@
               "source": "@site/docs/Storage/storage.md",
               "sourceDirName": "Storage",
               "slug": "/Storage/storage",
-              "permalink": "/docs/intro/docs/Storage/storage",
+              "permalink": "/docs/Storage/storage",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/Storage/storage.md",
               "tags": [],
               "version": "current",
@@ -1669,11 +1669,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Motivation",
-                "permalink": "/docs/intro/docs/Storage/direct-blk-device-assignment"
+                "permalink": "/docs/Storage/direct-blk-device-assignment"
               },
               "next": {
                 "title": "Virtualization Reference Architecture",
-                "permalink": "/docs/intro/docs/Virtualization/kata-vra"
+                "permalink": "/docs/Virtualization/kata-vra"
               }
             },
             {
@@ -1685,7 +1685,7 @@
               "source": "@site/docs/tools/packaging/src/tools/agent-ctl/README.md",
               "sourceDirName": "tools/packaging/src/tools/agent-ctl",
               "slug": "/tools/packaging/src/tools/agent-ctl/README",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/agent-ctl/README",
+              "permalink": "/docs/tools/packaging/src/tools/agent-ctl/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/agent-ctl/README.md",
               "tags": [],
               "version": "current",
@@ -1693,11 +1693,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tracing Proposals",
-                "permalink": "/docs/intro/docs/proposals/tracing-proposals"
+                "permalink": "/docs/proposals/tracing-proposals"
               },
               "next": {
                 "title": "CSI Direct Volume Driver",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/README"
+                "permalink": "/docs/tools/packaging/src/tools/csi-kata-directvolume/README"
               }
             },
             {
@@ -1709,7 +1709,7 @@
               "source": "@site/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol.md",
               "sourceDirName": "tools/packaging/src/tools/csi-kata-directvolume/docs",
               "slug": "/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol",
+              "permalink": "/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol.md",
               "tags": [],
               "version": "current",
@@ -1717,11 +1717,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "CSI Direct Volume Driver",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/README"
+                "permalink": "/docs/tools/packaging/src/tools/csi-kata-directvolume/README"
               },
               "next": {
                 "title": "Kata Containers control tool",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/README"
+                "permalink": "/docs/tools/packaging/src/tools/kata-ctl/README"
               }
             },
             {
@@ -1733,7 +1733,7 @@
               "source": "@site/docs/tools/packaging/src/tools/csi-kata-directvolume/README.md",
               "sourceDirName": "tools/packaging/src/tools/csi-kata-directvolume",
               "slug": "/tools/packaging/src/tools/csi-kata-directvolume/README",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/README",
+              "permalink": "/docs/tools/packaging/src/tools/csi-kata-directvolume/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/csi-kata-directvolume/README.md",
               "tags": [],
               "version": "current",
@@ -1741,11 +1741,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Agent Control tool",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/agent-ctl/README"
+                "permalink": "/docs/tools/packaging/src/tools/agent-ctl/README"
               },
               "next": {
                 "title": "Deploy Kata Direct Volume CSI and Do Validation",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol"
+                "permalink": "/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol"
               }
             },
             {
@@ -1757,7 +1757,7 @@
               "source": "@site/docs/tools/packaging/src/tools/kata-ctl/README.md",
               "sourceDirName": "tools/packaging/src/tools/kata-ctl",
               "slug": "/tools/packaging/src/tools/kata-ctl/README",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/README",
+              "permalink": "/docs/tools/packaging/src/tools/kata-ctl/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/kata-ctl/README.md",
               "tags": [],
               "version": "current",
@@ -1765,11 +1765,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Deploy Kata Direct Volume CSI and Do Validation",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol"
+                "permalink": "/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol"
               },
               "next": {
                 "title": "kata-log-parser",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README"
+                "permalink": "/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README"
               }
             },
             {
@@ -1781,7 +1781,7 @@
               "source": "@site/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README.md",
               "sourceDirName": "tools/packaging/src/tools/kata-ctl/src/log_parser",
               "slug": "/tools/packaging/src/tools/kata-ctl/src/log_parser/README",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README",
+              "permalink": "/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README.md",
               "tags": [],
               "version": "current",
@@ -1789,11 +1789,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Kata Containers control tool",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/README"
+                "permalink": "/docs/tools/packaging/src/tools/kata-ctl/README"
               },
               "next": {
                 "title": "kata-log-parser",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/README"
               }
             },
             {
@@ -1805,7 +1805,7 @@
               "source": "@site/docs/tools/packaging/src/tools/log-parser/README.md",
               "sourceDirName": "tools/packaging/src/tools/log-parser",
               "slug": "/tools/packaging/src/tools/log-parser/README",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/README",
+              "permalink": "/docs/tools/packaging/src/tools/log-parser/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/README.md",
               "tags": [],
               "version": "current",
@@ -1816,11 +1816,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "kata-log-parser",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README"
+                "permalink": "/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README"
               },
               "next": {
                 "title": "README",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README"
               }
             },
             {
@@ -1832,7 +1832,7 @@
               "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README.md",
               "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml",
               "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README",
+              "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README.md",
               "tags": [],
               "version": "current",
@@ -1840,11 +1840,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "kata-log-parser",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/README"
               },
               "next": {
                 "title": "LICENSE",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE"
               }
             },
             {
@@ -1856,7 +1856,7 @@
               "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE.md",
               "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2",
               "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE",
+              "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE.md",
               "tags": [],
               "version": "current",
@@ -1864,11 +1864,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "README",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README"
               },
               "next": {
                 "title": "Changelog",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG"
               }
             },
             {
@@ -1880,7 +1880,7 @@
               "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG.md",
               "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt",
               "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG",
+              "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG.md",
               "tags": [],
               "version": "current",
@@ -1888,11 +1888,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "LICENSE",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE"
               },
               "next": {
                 "title": "README",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README"
               }
             },
             {
@@ -1904,7 +1904,7 @@
               "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README.md",
               "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt",
               "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README",
+              "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README.md",
               "tags": [],
               "version": "current",
@@ -1912,11 +1912,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Changelog",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG"
               },
               "next": {
                 "title": "Blackfriday [![Build Status](https://travis-ci.org/russross/blackfriday.svg?branch=master)](https://travis-ci.org/russross/blackfriday)",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README"
               }
             },
             {
@@ -1928,7 +1928,7 @@
               "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README.md",
               "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2",
               "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README",
+              "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README.md",
               "tags": [],
               "version": "current",
@@ -1936,11 +1936,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "README",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README"
               },
               "next": {
                 "title": "sanitized_anchor_name",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README"
               }
             },
             {
@@ -1952,7 +1952,7 @@
               "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README.md",
               "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name",
               "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README",
+              "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README.md",
               "tags": [],
               "version": "current",
@@ -1960,11 +1960,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Blackfriday [![Build Status](https://travis-ci.org/russross/blackfriday.svg?branch=master)](https://travis-ci.org/russross/blackfriday)",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README"
               },
               "next": {
                 "title": "1.8.1",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG"
               }
             },
             {
@@ -1976,7 +1976,7 @@
               "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG.md",
               "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus",
               "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG",
+              "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG.md",
               "tags": [],
               "version": "current",
@@ -1984,11 +1984,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "sanitized_anchor_name",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README"
               },
               "next": {
                 "title": "Logrus <img src=\"http://i.imgur.com/hTeVwmJ.png\" width=\"40\" height=\"40\" alt=\":walrus:\" class=\"emoji\" title=\":walrus:\"/> [![Build Status](https://travis-ci.org/sirupsen/logrus.svg?branch=master)](https://travis-ci.org/sirupsen/logrus) [![GoDoc](https://godoc.org/github.com/sirupsen/logrus?status.svg)](https://godoc.org/github.com/sirupsen/logrus)",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README"
               }
             },
             {
@@ -2000,7 +2000,7 @@
               "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README.md",
               "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus",
               "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README",
+              "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README.md",
               "tags": [],
               "version": "current",
@@ -2008,11 +2008,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "1.8.1",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG"
               },
               "next": {
                 "title": "Contributor Covenant Code of Conduct",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT"
               }
             },
             {
@@ -2024,7 +2024,7 @@
               "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT.md",
               "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli",
               "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT",
+              "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT.md",
               "tags": [],
               "version": "current",
@@ -2032,11 +2032,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Logrus <img src=\"http://i.imgur.com/hTeVwmJ.png\" width=\"40\" height=\"40\" alt=\":walrus:\" class=\"emoji\" title=\":walrus:\"/> [![Build Status](https://travis-ci.org/sirupsen/logrus.svg?branch=master)](https://travis-ci.org/sirupsen/logrus) [![GoDoc](https://godoc.org/github.com/sirupsen/logrus?status.svg)](https://godoc.org/github.com/sirupsen/logrus)",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README"
               },
               "next": {
                 "title": "cli",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README"
               }
             },
             {
@@ -2048,7 +2048,7 @@
               "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README.md",
               "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli",
               "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README",
+              "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README.md",
               "tags": [],
               "version": "current",
@@ -2056,11 +2056,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Contributor Covenant Code of Conduct",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT"
               },
               "next": {
                 "title": "Building `sys/unix`",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README"
               }
             },
             {
@@ -2072,7 +2072,7 @@
               "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README.md",
               "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix",
               "slug": "/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README",
+              "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README.md",
               "tags": [],
               "version": "current",
@@ -2080,11 +2080,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "cli",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README"
               },
               "next": {
                 "title": "YAML support for the Go language",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README"
               }
             },
             {
@@ -2096,7 +2096,7 @@
               "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README.md",
               "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2",
               "slug": "/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README",
+              "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README.md",
               "tags": [],
               "version": "current",
@@ -2104,11 +2104,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Building `sys/unix`",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README"
               },
               "next": {
                 "title": "YAML support for the Go language",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README"
               }
             },
             {
@@ -2120,7 +2120,7 @@
               "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README.md",
               "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3",
               "slug": "/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README",
+              "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README.md",
               "tags": [],
               "version": "current",
@@ -2128,11 +2128,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "YAML support for the Go language",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README"
               },
               "next": {
                 "title": "README",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/runk/README"
+                "permalink": "/docs/tools/packaging/src/tools/runk/README"
               }
             },
             {
@@ -2144,7 +2144,7 @@
               "source": "@site/docs/tools/packaging/src/tools/runk/README.md",
               "sourceDirName": "tools/packaging/src/tools/runk",
               "slug": "/tools/packaging/src/tools/runk/README",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/runk/README",
+              "permalink": "/docs/tools/packaging/src/tools/runk/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/runk/README.md",
               "tags": [],
               "version": "current",
@@ -2152,11 +2152,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "YAML support for the Go language",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README"
+                "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README"
               },
               "next": {
                 "title": "Trace Forwarder",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/trace-forwarder/README"
+                "permalink": "/docs/tools/packaging/src/tools/trace-forwarder/README"
               }
             },
             {
@@ -2168,7 +2168,7 @@
               "source": "@site/docs/tools/packaging/src/tools/trace-forwarder/README.md",
               "sourceDirName": "tools/packaging/src/tools/trace-forwarder",
               "slug": "/tools/packaging/src/tools/trace-forwarder/README",
-              "permalink": "/docs/intro/docs/tools/packaging/src/tools/trace-forwarder/README",
+              "permalink": "/docs/tools/packaging/src/tools/trace-forwarder/README",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/trace-forwarder/README.md",
               "tags": [],
               "version": "current",
@@ -2179,7 +2179,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "README",
-                "permalink": "/docs/intro/docs/tools/packaging/src/tools/runk/README"
+                "permalink": "/docs/tools/packaging/src/tools/runk/README"
               }
             },
             {
@@ -2191,7 +2191,7 @@
               "source": "@site/docs/Virtualization/kata-vra.md",
               "sourceDirName": "Virtualization",
               "slug": "/Virtualization/kata-vra",
-              "permalink": "/docs/intro/docs/Virtualization/kata-vra",
+              "permalink": "/docs/Virtualization/kata-vra",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/Virtualization/kata-vra.md",
               "tags": [],
               "version": "current",
@@ -2203,11 +2203,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Storage",
-                "permalink": "/docs/intro/docs/Storage/storage"
+                "permalink": "/docs/Storage/storage"
               },
               "next": {
                 "title": "Virtualization in Kata Containers",
-                "permalink": "/docs/intro/docs/Virtualization/virtualization"
+                "permalink": "/docs/Virtualization/virtualization"
               }
             },
             {
@@ -2219,7 +2219,7 @@
               "source": "@site/docs/Virtualization/virtualization.md",
               "sourceDirName": "Virtualization",
               "slug": "/Virtualization/virtualization",
-              "permalink": "/docs/intro/docs/Virtualization/virtualization",
+              "permalink": "/docs/Virtualization/virtualization",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/Virtualization/virtualization.md",
               "tags": [],
               "version": "current",
@@ -2231,11 +2231,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Virtualization Reference Architecture",
-                "permalink": "/docs/intro/docs/Virtualization/kata-vra"
+                "permalink": "/docs/Virtualization/kata-vra"
               },
               "next": {
                 "title": "Kata Containers & vSOCKS",
-                "permalink": "/docs/intro/docs/Virtualization/VSocks"
+                "permalink": "/docs/Virtualization/VSocks"
               }
             },
             {
@@ -2247,7 +2247,7 @@
               "source": "@site/docs/Virtualization/VSocks.md",
               "sourceDirName": "Virtualization",
               "slug": "/Virtualization/VSocks",
-              "permalink": "/docs/intro/docs/Virtualization/VSocks",
+              "permalink": "/docs/Virtualization/VSocks",
               "editUrl": "https://github.com/kata-containers/kata-containers/docs/Virtualization/VSocks.md",
               "tags": [],
               "version": "current",
@@ -2259,11 +2259,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Virtualization in Kata Containers",
-                "permalink": "/docs/intro/docs/Virtualization/virtualization"
+                "permalink": "/docs/Virtualization/virtualization"
               },
               "next": {
                 "title": "API Design",
-                "permalink": "/docs/intro/docs/design/kata-api-design"
+                "permalink": "/docs/design/kata-api-design"
               }
             }
           ]
@@ -2278,7 +2278,7 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/docs/intro/blog/welcome",
+            "permalink": "/blog/welcome",
             "editUrl": "https://katacontainers.io/blog/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
@@ -2288,15 +2288,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/docs/intro/blog/tags/facebook"
+                "permalink": "/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/docs/intro/blog/tags/hello"
+                "permalink": "/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/docs/intro/blog/tags/docusaurus"
+                "permalink": "/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -2319,14 +2319,14 @@
             ],
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/docs/intro/blog/mdx-blog-post"
+              "permalink": "/blog/mdx-blog-post"
             }
           }
         },
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/docs/intro/blog/mdx-blog-post",
+            "permalink": "/blog/mdx-blog-post",
             "editUrl": "https://katacontainers.io/blog/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
@@ -2336,7 +2336,7 @@
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/docs/intro/blog/tags/docusaurus"
+                "permalink": "/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -2352,18 +2352,18 @@
             ],
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/docs/intro/blog/welcome"
+              "permalink": "/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/docs/intro/blog/long-blog-post"
+              "permalink": "/blog/long-blog-post"
             }
           }
         },
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/docs/intro/blog/long-blog-post",
+            "permalink": "/blog/long-blog-post",
             "editUrl": "https://katacontainers.io/blog/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
@@ -2373,11 +2373,11 @@
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/docs/intro/blog/tags/hello"
+                "permalink": "/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/docs/intro/blog/tags/docusaurus"
+                "permalink": "/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -2393,18 +2393,18 @@
             ],
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/docs/intro/blog/mdx-blog-post"
+              "permalink": "/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/docs/intro/blog/first-blog-post"
+              "permalink": "/blog/first-blog-post"
             }
           }
         },
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/docs/intro/blog/first-blog-post",
+            "permalink": "/blog/first-blog-post",
             "editUrl": "https://katacontainers.io/blog/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
@@ -2414,11 +2414,11 @@
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/docs/intro/blog/tags/hola"
+                "permalink": "/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/docs/intro/blog/tags/docusaurus"
+                "permalink": "/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -2434,7 +2434,7 @@
             ],
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/docs/intro/blog/long-blog-post"
+              "permalink": "/blog/long-blog-post"
             }
           }
         }
@@ -2442,7 +2442,7 @@
       "blogListPaginated": [
         {
           "metadata": {
-            "permalink": "/docs/intro/blog",
+            "permalink": "/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -2461,22 +2461,22 @@
         }
       ],
       "blogTags": {
-        "/docs/intro/blog/tags/facebook": {
+        "/blog/tags/facebook": {
           "name": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/docs/intro/blog/tags/facebook"
+          "permalink": "/blog/tags/facebook"
         },
-        "/docs/intro/blog/tags/hello": {
+        "/blog/tags/hello": {
           "name": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/docs/intro/blog/tags/hello"
+          "permalink": "/blog/tags/hello"
         },
-        "/docs/intro/blog/tags/docusaurus": {
+        "/blog/tags/docusaurus": {
           "name": "docusaurus",
           "items": [
             "welcome",
@@ -2484,29 +2484,29 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/docs/intro/blog/tags/docusaurus"
+          "permalink": "/blog/tags/docusaurus"
         },
-        "/docs/intro/blog/tags/hola": {
+        "/blog/tags/hola": {
           "name": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/docs/intro/blog/tags/hola"
+          "permalink": "/blog/tags/hola"
         }
       },
-      "blogTagsListPath": "/docs/intro/blog/tags"
+      "blogTagsListPath": "/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/docs/intro/",
+        "permalink": "/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/docs/intro/markdown-page",
+        "permalink": "/markdown-page",
         "source": "@site/src/pages/markdown-page.md"
       }
     ]

@@ -7,7 +7,7 @@
   "source": "@site/docs/networking/end-to-end-flow.md",
   "sourceDirName": "networking",
   "slug": "/networking/end-to-end-flow",
-  "permalink": "/docs/intro/docs/networking/end-to-end-flow",
+  "permalink": "/docs/networking/end-to-end-flow",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/networking/end-to-end-flow.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Networking",
-    "permalink": "/docs/intro/docs/networking/networking"
+    "permalink": "/docs/networking/networking"
   },
   "next": {
     "title": "Design Proposals",
-    "permalink": "/docs/intro/docs/proposals/README"
+    "permalink": "/docs/proposals/README"
   }
 }

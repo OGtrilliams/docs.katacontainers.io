@@ -7,7 +7,7 @@
   "source": "@site/docs/Runtimes/vcpu-handling-runtime-go.md",
   "sourceDirName": "Runtimes",
   "slug": "/Runtimes/vcpu-handling-runtime-go",
-  "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-go",
+  "permalink": "/docs/Runtimes/vcpu-handling-runtime-go",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/Runtimes/vcpu-handling-runtime-go.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "vCPU Handling | RUST",
-    "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs"
+    "permalink": "/docs/Runtimes/vcpu-handling-runtime-rs"
   },
   "next": {
     "title": "Motivation",
-    "permalink": "/docs/intro/docs/Storage/direct-blk-device-assignment"
+    "permalink": "/docs/Storage/direct-blk-device-assignment"
   }
 }

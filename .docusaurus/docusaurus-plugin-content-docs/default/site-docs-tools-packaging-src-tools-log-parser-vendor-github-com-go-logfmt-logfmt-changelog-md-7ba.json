@@ -7,7 +7,7 @@
   "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG.md",
   "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt",
   "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG",
-  "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG",
+  "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "LICENSE",
-    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE"
+    "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE"
   },
   "next": {
     "title": "README",
-    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README"
+    "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README"
   }
 }

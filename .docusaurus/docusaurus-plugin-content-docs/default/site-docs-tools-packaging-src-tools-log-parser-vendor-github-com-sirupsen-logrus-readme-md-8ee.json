@@ -7,7 +7,7 @@
   "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README.md",
   "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus",
   "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README",
-  "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README",
+  "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "1.8.1",
-    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG"
+    "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG"
   },
   "next": {
     "title": "Contributor Covenant Code of Conduct",
-    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT"
+    "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/install/README.md",
   "sourceDirName": "install",
   "slug": "/install/README",
-  "permalink": "/docs/intro/docs/install/README",
+  "permalink": "/docs/install/README",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/install/README.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Kata 2.0 Metrics Design",
-    "permalink": "/docs/intro/docs/design/kata-2-0-metrics"
+    "permalink": "/docs/design/kata-2-0-metrics"
   },
   "next": {
     "title": "Install with kata-deploy (Recommended)",
-    "permalink": "/docs/intro/docs/install/kata-deploy"
+    "permalink": "/docs/install/kata-deploy"
   }
 }

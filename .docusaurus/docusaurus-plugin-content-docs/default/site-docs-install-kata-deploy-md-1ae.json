@@ -7,7 +7,7 @@
   "source": "@site/docs/install/kata-deploy.md",
   "sourceDirName": "install",
   "slug": "/install/kata-deploy",
-  "permalink": "/docs/intro/docs/install/kata-deploy",
+  "permalink": "/docs/install/kata-deploy",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/install/kata-deploy.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Kata Containers installation guides",
-    "permalink": "/docs/intro/docs/install/README"
+    "permalink": "/docs/install/README"
   },
   "next": {
     "title": "Quickstart",
-    "permalink": "/docs/intro/docs/install/quickstart"
+    "permalink": "/docs/install/quickstart"
   }
 }

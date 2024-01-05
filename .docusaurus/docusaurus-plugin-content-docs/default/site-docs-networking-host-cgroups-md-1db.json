@@ -7,7 +7,7 @@
   "source": "@site/docs/networking/host-cgroups.md",
   "sourceDirName": "networking",
   "slug": "/networking/host-cgroups",
-  "permalink": "/docs/intro/docs/networking/host-cgroups",
+  "permalink": "/docs/networking/host-cgroups",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/networking/host-cgroups.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Example command",
-    "permalink": "/docs/intro/docs/install/example-command"
+    "permalink": "/docs/install/example-command"
   },
   "next": {
     "title": "Systemd Cgroup for Agent",
-    "permalink": "/docs/intro/docs/networking/agent-systemd-cgroup"
+    "permalink": "/docs/networking/agent-systemd-cgroup"
   }
 }

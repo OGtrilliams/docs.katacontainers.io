@@ -7,7 +7,7 @@
   "source": "@site/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG.md",
   "sourceDirName": "tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus",
   "slug": "/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG",
-  "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG",
+  "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "sanitized_anchor_name",
-    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README"
+    "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README"
   },
   "next": {
     "title": "Logrus <img src=\"http://i.imgur.com/hTeVwmJ.png\" width=\"40\" height=\"40\" alt=\":walrus:\" class=\"emoji\" title=\":walrus:\"/> [![Build Status](https://travis-ci.org/sirupsen/logrus.svg?branch=master)](https://travis-ci.org/sirupsen/logrus) [![GoDoc](https://godoc.org/github.com/sirupsen/logrus?status.svg)](https://godoc.org/github.com/sirupsen/logrus)",
-    "permalink": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README"
+    "permalink": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README"
   }
 }

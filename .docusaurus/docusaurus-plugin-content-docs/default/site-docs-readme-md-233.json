@@ -7,7 +7,7 @@
   "source": "@site/docs/README.md",
   "sourceDirName": ".",
   "slug": "/README",
-  "permalink": "/docs/intro/docs/README",
+  "permalink": "/docs/README",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/README.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "GLOSSARY",
-    "permalink": "/docs/intro/docs/Glossary"
+    "permalink": "/docs/Glossary"
   },
   "next": {
     "title": "API Hooks Handling",
-    "permalink": "/docs/intro/docs/API Reference/hooks-handling"
+    "permalink": "/docs/API Reference/hooks-handling"
   }
 }

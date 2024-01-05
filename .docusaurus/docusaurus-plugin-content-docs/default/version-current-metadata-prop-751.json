@@ -11,52 +11,52 @@
       {
         "type": "link",
         "label": "Introduction",
-        "href": "/docs/intro/docs/intro"
+        "href": "/docs/intro"
       },
       {
         "type": "link",
         "label": "System Requirements",
-        "href": "/docs/intro/docs/requirements"
+        "href": "/docs/requirements"
       },
       {
         "type": "link",
         "label": "Developer Guide",
-        "href": "/docs/intro/docs/Developer-Guide"
+        "href": "/docs/Developer-Guide"
       },
       {
         "type": "link",
         "label": "Creating a Kata Containers release",
-        "href": "/docs/intro/docs/Release-Process"
+        "href": "/docs/Release-Process"
       },
       {
         "type": "link",
         "label": "Branch Strategy",
-        "href": "/docs/intro/docs/Stable-Branch-Strategy"
+        "href": "/docs/Stable-Branch-Strategy"
       },
       {
         "type": "link",
         "label": "Hypervisors",
-        "href": "/docs/intro/docs/hypervisors"
+        "href": "/docs/hypervisors"
       },
       {
         "type": "link",
         "label": "CODE OF CONDUCT",
-        "href": "/docs/intro/docs/CODE_OF_CONDUCT"
+        "href": "/docs/CODE_OF_CONDUCT"
       },
       {
         "type": "link",
         "label": "Contributing",
-        "href": "/docs/intro/docs/CONTRIBUTING"
+        "href": "/docs/CONTRIBUTING"
       },
       {
         "type": "link",
         "label": "GLOSSARY",
-        "href": "/docs/intro/docs/Glossary"
+        "href": "/docs/Glossary"
       },
       {
         "type": "link",
         "label": "README",
-        "href": "/docs/intro/docs/README"
+        "href": "/docs/README"
       },
       {
         "type": "category",
@@ -65,7 +65,7 @@
           {
             "type": "link",
             "label": "API Hooks Handling",
-            "href": "/docs/intro/docs/API Reference/hooks-handling"
+            "href": "/docs/API Reference/hooks-handling"
           }
         ],
         "collapsed": true,
@@ -78,32 +78,32 @@
           {
             "type": "link",
             "label": "Kata Containers Architecture",
-            "href": "/docs/intro/docs/Architecture/README"
+            "href": "/docs/Architecture/README"
           },
           {
             "type": "link",
             "label": "Architecture History",
-            "href": "/docs/intro/docs/Architecture/history"
+            "href": "/docs/Architecture/history"
           },
           {
             "type": "link",
             "label": "3.0 Architecture",
-            "href": "/docs/intro/docs/Architecture/kata-3.0-arch"
+            "href": "/docs/Architecture/kata-3.0-arch"
           },
           {
             "type": "link",
             "label": "Background Knowledge",
-            "href": "/docs/intro/docs/Architecture/background"
+            "href": "/docs/Architecture/background"
           },
           {
             "type": "link",
             "label": "Guest Assets",
-            "href": "/docs/intro/docs/Architecture/guest-assets"
+            "href": "/docs/Architecture/guest-assets"
           },
           {
             "type": "link",
             "label": "Kubernetes Support",
-            "href": "/docs/intro/docs/Architecture/kubernetes"
+            "href": "/docs/Architecture/kubernetes"
           }
         ],
         "collapsed": true,
@@ -116,12 +116,12 @@
           {
             "type": "link",
             "label": "vCPU Handling | RUST",
-            "href": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs"
+            "href": "/docs/Runtimes/vcpu-handling-runtime-rs"
           },
           {
             "type": "link",
             "label": "vCPU sizing | GOLANG",
-            "href": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-go"
+            "href": "/docs/Runtimes/vcpu-handling-runtime-go"
           }
         ],
         "collapsed": true,
@@ -134,12 +134,12 @@
           {
             "type": "link",
             "label": "Motivation",
-            "href": "/docs/intro/docs/Storage/direct-blk-device-assignment"
+            "href": "/docs/Storage/direct-blk-device-assignment"
           },
           {
             "type": "link",
             "label": "Storage",
-            "href": "/docs/intro/docs/Storage/storage"
+            "href": "/docs/Storage/storage"
           }
         ],
         "collapsed": true,
@@ -152,17 +152,17 @@
           {
             "type": "link",
             "label": "Virtualization Reference Architecture",
-            "href": "/docs/intro/docs/Virtualization/kata-vra"
+            "href": "/docs/Virtualization/kata-vra"
           },
           {
             "type": "link",
             "label": "Virtualization in Kata Containers",
-            "href": "/docs/intro/docs/Virtualization/virtualization"
+            "href": "/docs/Virtualization/virtualization"
           },
           {
             "type": "link",
             "label": "Kata Containers & vSOCKS",
-            "href": "/docs/intro/docs/Virtualization/VSocks"
+            "href": "/docs/Virtualization/VSocks"
           }
         ],
         "collapsed": true,
@@ -175,27 +175,27 @@
           {
             "type": "link",
             "label": "API Design",
-            "href": "/docs/intro/docs/design/kata-api-design"
+            "href": "/docs/design/kata-api-design"
           },
           {
             "type": "link",
             "label": "Design Requirements",
-            "href": "/docs/intro/docs/design/kata-design-requirements"
+            "href": "/docs/design/kata-design-requirements"
           },
           {
             "type": "link",
             "label": "vCPU Pinning Feature",
-            "href": "/docs/intro/docs/design/vcpu-threads-pinning"
+            "href": "/docs/design/vcpu-threads-pinning"
           },
           {
             "type": "link",
             "label": "Nydus Design Proposal",
-            "href": "/docs/intro/docs/design/kata-nydus-design"
+            "href": "/docs/design/kata-nydus-design"
           },
           {
             "type": "link",
             "label": "Kata 2.0 Metrics Design",
-            "href": "/docs/intro/docs/design/kata-2-0-metrics"
+            "href": "/docs/design/kata-2-0-metrics"
           }
         ],
         "collapsed": true,
@@ -208,22 +208,22 @@
           {
             "type": "link",
             "label": "Kata Containers installation guides",
-            "href": "/docs/intro/docs/install/README"
+            "href": "/docs/install/README"
           },
           {
             "type": "link",
             "label": "Install with kata-deploy (Recommended)",
-            "href": "/docs/intro/docs/install/kata-deploy"
+            "href": "/docs/install/kata-deploy"
           },
           {
             "type": "link",
             "label": "Quickstart",
-            "href": "/docs/intro/docs/install/quickstart"
+            "href": "/docs/install/quickstart"
           },
           {
             "type": "link",
             "label": "Example command",
-            "href": "/docs/intro/docs/install/example-command"
+            "href": "/docs/install/example-command"
           }
         ],
         "collapsed": true,
@@ -236,22 +236,22 @@
           {
             "type": "link",
             "label": "Host cgroup Management",
-            "href": "/docs/intro/docs/networking/host-cgroups"
+            "href": "/docs/networking/host-cgroups"
           },
           {
             "type": "link",
             "label": "Systemd Cgroup for Agent",
-            "href": "/docs/intro/docs/networking/agent-systemd-cgroup"
+            "href": "/docs/networking/agent-systemd-cgroup"
           },
           {
             "type": "link",
             "label": "Networking",
-            "href": "/docs/intro/docs/networking/networking"
+            "href": "/docs/networking/networking"
           },
           {
             "type": "link",
             "label": "Kata Containers E2E Flow Diagram",
-            "href": "/docs/intro/docs/networking/end-to-end-flow"
+            "href": "/docs/networking/end-to-end-flow"
           }
         ],
         "collapsed": true,
@@ -264,12 +264,12 @@
           {
             "type": "link",
             "label": "Design Proposals",
-            "href": "/docs/intro/docs/proposals/README"
+            "href": "/docs/proposals/README"
           },
           {
             "type": "link",
             "label": "Tracing Proposals",
-            "href": "/docs/intro/docs/proposals/tracing-proposals"
+            "href": "/docs/proposals/tracing-proposals"
           }
         ],
         "collapsed": true,
@@ -298,7 +298,7 @@
                           {
                             "type": "link",
                             "label": "Agent Control tool",
-                            "href": "/docs/intro/docs/tools/packaging/src/tools/agent-ctl/README"
+                            "href": "/docs/tools/packaging/src/tools/agent-ctl/README"
                           }
                         ],
                         "collapsed": true,
@@ -311,7 +311,7 @@
                           {
                             "type": "link",
                             "label": "CSI Direct Volume Driver",
-                            "href": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/README"
+                            "href": "/docs/tools/packaging/src/tools/csi-kata-directvolume/README"
                           },
                           {
                             "type": "category",
@@ -320,7 +320,7 @@
                               {
                                 "type": "link",
                                 "label": "Deploy Kata Direct Volume CSI and Do Validation",
-                                "href": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol"
+                                "href": "/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol"
                               }
                             ],
                             "collapsed": true,
@@ -337,7 +337,7 @@
                           {
                             "type": "link",
                             "label": "Kata Containers control tool",
-                            "href": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/README"
+                            "href": "/docs/tools/packaging/src/tools/kata-ctl/README"
                           },
                           {
                             "type": "category",
@@ -350,7 +350,7 @@
                                   {
                                     "type": "link",
                                     "label": "kata-log-parser",
-                                    "href": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README"
+                                    "href": "/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README"
                                   }
                                 ],
                                 "collapsed": true,
@@ -371,7 +371,7 @@
                           {
                             "type": "link",
                             "label": "kata-log-parser",
-                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/README"
+                            "href": "/docs/tools/packaging/src/tools/log-parser/README"
                           },
                           {
                             "type": "category",
@@ -392,7 +392,7 @@
                                           {
                                             "type": "link",
                                             "label": "README",
-                                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README"
+                                            "href": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README"
                                           }
                                         ],
                                         "collapsed": true,
@@ -417,7 +417,7 @@
                                               {
                                                 "type": "link",
                                                 "label": "LICENSE",
-                                                "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE"
+                                                "href": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE"
                                               }
                                             ],
                                             "collapsed": true,
@@ -442,12 +442,12 @@
                                           {
                                             "type": "link",
                                             "label": "Changelog",
-                                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG"
+                                            "href": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG"
                                           },
                                           {
                                             "type": "link",
                                             "label": "README",
-                                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README"
+                                            "href": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README"
                                           }
                                         ],
                                         "collapsed": true,
@@ -472,7 +472,7 @@
                                               {
                                                 "type": "link",
                                                 "label": "Blackfriday [![Build Status](https://travis-ci.org/russross/blackfriday.svg?branch=master)](https://travis-ci.org/russross/blackfriday)",
-                                                "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README"
+                                                "href": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README"
                                               }
                                             ],
                                             "collapsed": true,
@@ -497,7 +497,7 @@
                                           {
                                             "type": "link",
                                             "label": "sanitized_anchor_name",
-                                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README"
+                                            "href": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README"
                                           }
                                         ],
                                         "collapsed": true,
@@ -518,12 +518,12 @@
                                           {
                                             "type": "link",
                                             "label": "1.8.1",
-                                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG"
+                                            "href": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG"
                                           },
                                           {
                                             "type": "link",
                                             "label": "Logrus <img src=\"http://i.imgur.com/hTeVwmJ.png\" width=\"40\" height=\"40\" alt=\":walrus:\" class=\"emoji\" title=\":walrus:\"/> [![Build Status](https://travis-ci.org/sirupsen/logrus.svg?branch=master)](https://travis-ci.org/sirupsen/logrus) [![GoDoc](https://godoc.org/github.com/sirupsen/logrus?status.svg)](https://godoc.org/github.com/sirupsen/logrus)",
-                                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README"
+                                            "href": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README"
                                           }
                                         ],
                                         "collapsed": true,
@@ -544,12 +544,12 @@
                                           {
                                             "type": "link",
                                             "label": "Contributor Covenant Code of Conduct",
-                                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT"
+                                            "href": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT"
                                           },
                                           {
                                             "type": "link",
                                             "label": "cli",
-                                            "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README"
+                                            "href": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README"
                                           }
                                         ],
                                         "collapsed": true,
@@ -582,7 +582,7 @@
                                               {
                                                 "type": "link",
                                                 "label": "Building `sys/unix`",
-                                                "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README"
+                                                "href": "/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README"
                                               }
                                             ],
                                             "collapsed": true,
@@ -611,7 +611,7 @@
                                       {
                                         "type": "link",
                                         "label": "YAML support for the Go language",
-                                        "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README"
+                                        "href": "/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README"
                                       }
                                     ],
                                     "collapsed": true,
@@ -624,7 +624,7 @@
                                       {
                                         "type": "link",
                                         "label": "YAML support for the Go language",
-                                        "href": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README"
+                                        "href": "/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README"
                                       }
                                     ],
                                     "collapsed": true,
@@ -649,7 +649,7 @@
                           {
                             "type": "link",
                             "label": "README",
-                            "href": "/docs/intro/docs/tools/packaging/src/tools/runk/README"
+                            "href": "/docs/tools/packaging/src/tools/runk/README"
                           }
                         ],
                         "collapsed": true,
@@ -662,7 +662,7 @@
                           {
                             "type": "link",
                             "label": "Trace Forwarder",
-                            "href": "/docs/intro/docs/tools/packaging/src/tools/trace-forwarder/README"
+                            "href": "/docs/tools/packaging/src/tools/trace-forwarder/README"
                           }
                         ],
                         "collapsed": true,

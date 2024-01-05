@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'Kata Containers | docs',
   tagline: 'docs.katacontainers.io',
   url: 'https://docs.katacontainers.io',
-  baseUrl: '/docs/intro/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -41,10 +41,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Kata Containers Docs',
+        title: 'Kata Containers Documentation',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Kata Containers',
+          src: 'https://katacontainers.io/img/android-chrome-192x192.png',
         },
         items: [
           {
@@ -68,7 +68,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Getting Started',
                 to: '/docs/intro',
               },
             ],
@@ -77,12 +77,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Code of Conduct',
+                href: 'docs/CODE_OF_CONDUCT',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Contributor Guide',
+                href: 'docs/CONTRIBUTING',
               },
               {
                 label: 'Twitter',
@@ -94,17 +94,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'GitHub',
+                to: 'https://github.com/kata-containers',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/kata-containers/kata-containers',
+                label: 'Twitter',
+                href: 'https://twitter.com/katacontainers',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kata Containers. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

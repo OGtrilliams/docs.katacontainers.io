@@ -7,7 +7,7 @@
   "source": "@site/docs/tools/packaging/src/tools/agent-ctl/README.md",
   "sourceDirName": "tools/packaging/src/tools/agent-ctl",
   "slug": "/tools/packaging/src/tools/agent-ctl/README",
-  "permalink": "/docs/intro/docs/tools/packaging/src/tools/agent-ctl/README",
+  "permalink": "/docs/tools/packaging/src/tools/agent-ctl/README",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/tools/packaging/src/tools/agent-ctl/README.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tracing Proposals",
-    "permalink": "/docs/intro/docs/proposals/tracing-proposals"
+    "permalink": "/docs/proposals/tracing-proposals"
   },
   "next": {
     "title": "CSI Direct Volume Driver",
-    "permalink": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/README"
+    "permalink": "/docs/tools/packaging/src/tools/csi-kata-directvolume/README"
   }
 }

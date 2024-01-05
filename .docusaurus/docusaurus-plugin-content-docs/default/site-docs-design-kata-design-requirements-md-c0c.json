@@ -7,7 +7,7 @@
   "source": "@site/docs/design/kata-design-requirements.md",
   "sourceDirName": "design",
   "slug": "/design/kata-design-requirements",
-  "permalink": "/docs/intro/docs/design/kata-design-requirements",
+  "permalink": "/docs/design/kata-design-requirements",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/design/kata-design-requirements.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "API Design",
-    "permalink": "/docs/intro/docs/design/kata-api-design"
+    "permalink": "/docs/design/kata-api-design"
   },
   "next": {
     "title": "vCPU Pinning Feature",
-    "permalink": "/docs/intro/docs/design/vcpu-threads-pinning"
+    "permalink": "/docs/design/vcpu-threads-pinning"
   }
 }

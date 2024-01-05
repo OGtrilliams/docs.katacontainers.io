@@ -7,7 +7,7 @@
   "source": "@site/docs/hypervisors.md",
   "sourceDirName": ".",
   "slug": "/hypervisors",
-  "permalink": "/docs/intro/docs/hypervisors",
+  "permalink": "/docs/hypervisors",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/hypervisors.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Branch Strategy",
-    "permalink": "/docs/intro/docs/Stable-Branch-Strategy"
+    "permalink": "/docs/Stable-Branch-Strategy"
   },
   "next": {
     "title": "CODE OF CONDUCT",
-    "permalink": "/docs/intro/docs/CODE_OF_CONDUCT"
+    "permalink": "/docs/CODE_OF_CONDUCT"
   }
 }

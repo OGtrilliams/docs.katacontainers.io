@@ -2,7 +2,7 @@ export default {
   "title": "Kata Containers | docs",
   "tagline": "docs.katacontainers.io",
   "url": "https://docs.katacontainers.io",
-  "baseUrl": "/docs/intro/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -28,10 +28,10 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Kata Containers Docs",
+      "title": "Kata Containers Documentation",
       "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "alt": "Kata Containers",
+        "src": "https://katacontainers.io/img/android-chrome-192x192.png"
       },
       "items": [
         {
@@ -60,7 +60,7 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Getting Started",
               "to": "/docs/intro"
             }
           ]
@@ -69,12 +69,12 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "Code of Conduct",
+              "href": "docs/CODE_OF_CONDUCT"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "Contributor Guide",
+              "href": "docs/CONTRIBUTING"
             },
             {
               "label": "Twitter",
@@ -86,17 +86,17 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
+              "label": "GitHub",
+              "to": "https://github.com/kata-containers"
             },
             {
-              "label": "GitHub",
-              "href": "https://github.com/kata-containers/kata-containers"
+              "label": "Twitter",
+              "href": "https://twitter.com/katacontainers"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2024 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2024 Kata Containers. Built with Docusaurus."
     },
     "prism": {
       "theme": {

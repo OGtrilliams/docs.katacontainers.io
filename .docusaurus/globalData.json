@@ -1,313 +1,313 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs/intro/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs/intro/docs",
+          "path": "/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "API Reference/hooks-handling",
-              "path": "/docs/intro/docs/API Reference/hooks-handling",
+              "path": "/docs/API Reference/hooks-handling",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Architecture/background",
-              "path": "/docs/intro/docs/Architecture/background",
+              "path": "/docs/Architecture/background",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Architecture/guest-assets",
-              "path": "/docs/intro/docs/Architecture/guest-assets",
+              "path": "/docs/Architecture/guest-assets",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Architecture/history",
-              "path": "/docs/intro/docs/Architecture/history",
+              "path": "/docs/Architecture/history",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Architecture/kata-3.0-arch",
-              "path": "/docs/intro/docs/Architecture/kata-3.0-arch",
+              "path": "/docs/Architecture/kata-3.0-arch",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Architecture/kubernetes",
-              "path": "/docs/intro/docs/Architecture/kubernetes",
+              "path": "/docs/Architecture/kubernetes",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Architecture/README",
-              "path": "/docs/intro/docs/Architecture/README",
+              "path": "/docs/Architecture/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "CODE_OF_CONDUCT",
-              "path": "/docs/intro/docs/CODE_OF_CONDUCT",
+              "path": "/docs/CODE_OF_CONDUCT",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "CONTRIBUTING",
-              "path": "/docs/intro/docs/CONTRIBUTING",
+              "path": "/docs/CONTRIBUTING",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "design/kata-2-0-metrics",
-              "path": "/docs/intro/docs/design/kata-2-0-metrics",
+              "path": "/docs/design/kata-2-0-metrics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "design/kata-api-design",
-              "path": "/docs/intro/docs/design/kata-api-design",
+              "path": "/docs/design/kata-api-design",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "design/kata-design-requirements",
-              "path": "/docs/intro/docs/design/kata-design-requirements",
+              "path": "/docs/design/kata-design-requirements",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "design/kata-nydus-design",
-              "path": "/docs/intro/docs/design/kata-nydus-design",
+              "path": "/docs/design/kata-nydus-design",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "design/vcpu-threads-pinning",
-              "path": "/docs/intro/docs/design/vcpu-threads-pinning",
+              "path": "/docs/design/vcpu-threads-pinning",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Developer-Guide",
-              "path": "/docs/intro/docs/Developer-Guide",
+              "path": "/docs/Developer-Guide",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Glossary",
-              "path": "/docs/intro/docs/Glossary",
+              "path": "/docs/Glossary",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "hypervisors",
-              "path": "/docs/intro/docs/hypervisors",
+              "path": "/docs/hypervisors",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "install/example-command",
-              "path": "/docs/intro/docs/install/example-command",
+              "path": "/docs/install/example-command",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "install/kata-deploy",
-              "path": "/docs/intro/docs/install/kata-deploy",
+              "path": "/docs/install/kata-deploy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "install/quickstart",
-              "path": "/docs/intro/docs/install/quickstart",
+              "path": "/docs/install/quickstart",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "install/README",
-              "path": "/docs/intro/docs/install/README",
+              "path": "/docs/install/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/intro/docs/intro",
+              "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "networking/agent-systemd-cgroup",
-              "path": "/docs/intro/docs/networking/agent-systemd-cgroup",
+              "path": "/docs/networking/agent-systemd-cgroup",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "networking/end-to-end-flow",
-              "path": "/docs/intro/docs/networking/end-to-end-flow",
+              "path": "/docs/networking/end-to-end-flow",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "networking/host-cgroups",
-              "path": "/docs/intro/docs/networking/host-cgroups",
+              "path": "/docs/networking/host-cgroups",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "networking/networking",
-              "path": "/docs/intro/docs/networking/networking",
+              "path": "/docs/networking/networking",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "proposals/README",
-              "path": "/docs/intro/docs/proposals/README",
+              "path": "/docs/proposals/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "proposals/tracing-proposals",
-              "path": "/docs/intro/docs/proposals/tracing-proposals",
+              "path": "/docs/proposals/tracing-proposals",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "README",
-              "path": "/docs/intro/docs/README",
+              "path": "/docs/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Release-Process",
-              "path": "/docs/intro/docs/Release-Process",
+              "path": "/docs/Release-Process",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "requirements",
-              "path": "/docs/intro/docs/requirements",
+              "path": "/docs/requirements",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Runtimes/vcpu-handling-runtime-go",
-              "path": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-go",
+              "path": "/docs/Runtimes/vcpu-handling-runtime-go",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Runtimes/vcpu-handling-runtime-rs",
-              "path": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs",
+              "path": "/docs/Runtimes/vcpu-handling-runtime-rs",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Stable-Branch-Strategy",
-              "path": "/docs/intro/docs/Stable-Branch-Strategy",
+              "path": "/docs/Stable-Branch-Strategy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Storage/direct-blk-device-assignment",
-              "path": "/docs/intro/docs/Storage/direct-blk-device-assignment",
+              "path": "/docs/Storage/direct-blk-device-assignment",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Storage/storage",
-              "path": "/docs/intro/docs/Storage/storage",
+              "path": "/docs/Storage/storage",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/agent-ctl/README",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/agent-ctl/README",
+              "path": "/docs/tools/packaging/src/tools/agent-ctl/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol",
+              "path": "/docs/tools/packaging/src/tools/csi-kata-directvolume/docs/deploy-csi-kata-directvol",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/csi-kata-directvolume/README",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/csi-kata-directvolume/README",
+              "path": "/docs/tools/packaging/src/tools/csi-kata-directvolume/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/kata-ctl/README",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/README",
+              "path": "/docs/tools/packaging/src/tools/kata-ctl/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/kata-ctl/src/log_parser/README",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README",
+              "path": "/docs/tools/packaging/src/tools/kata-ctl/src/log_parser/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/log-parser/README",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/README",
+              "path": "/docs/tools/packaging/src/tools/log-parser/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README",
+              "path": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/BurntSushi/toml/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE",
+              "path": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/cpuguy83/go-md2man/v2/LICENSE",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG",
+              "path": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/CHANGELOG",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README",
+              "path": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/go-logfmt/logfmt/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README",
+              "path": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/russross/blackfriday/v2/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README",
+              "path": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/shurcooL/sanitized_anchor_name/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG",
+              "path": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/CHANGELOG",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README",
+              "path": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/sirupsen/logrus/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT",
+              "path": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/CODE_OF_CONDUCT",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README",
+              "path": "/docs/tools/packaging/src/tools/log-parser/vendor/github.com/urfave/cli/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README",
+              "path": "/docs/tools/packaging/src/tools/log-parser/vendor/golang.org/x/sys/unix/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README",
+              "path": "/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v2/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README",
+              "path": "/docs/tools/packaging/src/tools/log-parser/vendor/gopkg.in/yaml.v3/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/runk/README",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/runk/README",
+              "path": "/docs/tools/packaging/src/tools/runk/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/packaging/src/tools/trace-forwarder/README",
-              "path": "/docs/intro/docs/tools/packaging/src/tools/trace-forwarder/README",
+              "path": "/docs/tools/packaging/src/tools/trace-forwarder/README",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Virtualization/kata-vra",
-              "path": "/docs/intro/docs/Virtualization/kata-vra",
+              "path": "/docs/Virtualization/kata-vra",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Virtualization/virtualization",
-              "path": "/docs/intro/docs/Virtualization/virtualization",
+              "path": "/docs/Virtualization/virtualization",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Virtualization/VSocks",
-              "path": "/docs/intro/docs/Virtualization/VSocks",
+              "path": "/docs/Virtualization/VSocks",
               "sidebar": "tutorialSidebar"
             }
           ]

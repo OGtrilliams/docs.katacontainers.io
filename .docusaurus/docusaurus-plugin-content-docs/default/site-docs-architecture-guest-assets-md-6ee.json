@@ -7,7 +7,7 @@
   "source": "@site/docs/Architecture/guest-assets.md",
   "sourceDirName": "Architecture",
   "slug": "/Architecture/guest-assets",
-  "permalink": "/docs/intro/docs/Architecture/guest-assets",
+  "permalink": "/docs/Architecture/guest-assets",
   "editUrl": "https://github.com/kata-containers/kata-containers/docs/Architecture/guest-assets.md",
   "tags": [],
   "version": "current",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Background Knowledge",
-    "permalink": "/docs/intro/docs/Architecture/background"
+    "permalink": "/docs/Architecture/background"
   },
   "next": {
     "title": "Kubernetes Support",
-    "permalink": "/docs/intro/docs/Architecture/kubernetes"
+    "permalink": "/docs/Architecture/kubernetes"
   }
 }
