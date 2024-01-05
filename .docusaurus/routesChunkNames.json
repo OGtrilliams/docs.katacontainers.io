@@ -133,7 +133,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---docs-intro-markdown-page-393-736"
   },
-  "/docs/intro/docs-212": {
+  "/docs/intro/docs-65a": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-intro-docs-935-f75"
   },
@@ -165,6 +165,14 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-intro-docs-architecture-readm-ec-8-c-3f0"
   },
+  "/docs/intro/docs/CODE_OF_CONDUCT-815": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-code-of-conduc-tc-43-274"
+  },
+  "/docs/intro/docs/CONTRIBUTING-0bc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-contributing-8-d-1-907"
+  },
   "/docs/intro/docs/design/kata-2-0-metrics-f90": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-intro-docs-design-kata-2-0-metrics-7-a-4-8af"
@@ -188,6 +196,14 @@
   "/docs/intro/docs/Developer-Guide-900": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-intro-docs-developer-guide-288-b6e"
+  },
+  "/docs/intro/docs/Glossary-970": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-glossaryb-5-a-af0"
+  },
+  "/docs/intro/docs/hypervisors-06a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-hypervisorse-3-a-01c"
   },
   "/docs/intro/docs/install/example-command-118": {
     "component": "component---theme-doc-item-178-a40",
@@ -233,6 +249,14 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-intro-docs-proposals-tracing-proposals-6-af-536"
   },
+  "/docs/intro/docs/README-16c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-readme-233-452"
+  },
+  "/docs/intro/docs/Release-Process-5f5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-release-processb-66-39e"
+  },
   "/docs/intro/docs/requirements-983": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-intro-docs-requirements-5-ed-761"
@@ -244,6 +268,10 @@
   "/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs-559": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-intro-docs-runtimes-vcpu-handling-runtime-rs-8-e-3-1f5"
+  },
+  "/docs/intro/docs/Stable-Branch-Strategy-75c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-docs-stable-branch-strategy-1-d-2-c11"
   },
   "/docs/intro/docs/Storage/direct-blk-device-assignment-556": {
     "component": "component---theme-doc-item-178-a40",

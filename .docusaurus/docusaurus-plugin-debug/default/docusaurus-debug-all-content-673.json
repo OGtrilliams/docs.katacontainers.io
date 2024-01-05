@@ -35,6 +35,41 @@
                 "id": "Developer-Guide"
               },
               {
+                "type": "doc",
+                "id": "Release-Process",
+                "label": "Creating a Kata Containers release"
+              },
+              {
+                "type": "doc",
+                "id": "Stable-Branch-Strategy",
+                "label": "Branch Strategy"
+              },
+              {
+                "type": "doc",
+                "id": "hypervisors",
+                "label": "Hypervisors"
+              },
+              {
+                "type": "doc",
+                "id": "CODE_OF_CONDUCT",
+                "label": "CODE OF CONDUCT"
+              },
+              {
+                "type": "doc",
+                "id": "CONTRIBUTING",
+                "label": "Contributing"
+              },
+              {
+                "type": "doc",
+                "id": "Glossary",
+                "label": "GLOSSARY"
+              },
+              {
+                "type": "doc",
+                "id": "README",
+                "label": "README"
+              },
+              {
                 "type": "category",
                 "label": "API Reference",
                 "items": [
@@ -660,8 +695,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Developer Guide",
-                "permalink": "/docs/intro/docs/Developer-Guide"
+                "title": "README",
+                "permalink": "/docs/intro/docs/README"
               },
               "next": {
                 "title": "Kata Containers Architecture",
@@ -837,6 +872,62 @@
               }
             },
             {
+              "unversionedId": "CODE_OF_CONDUCT",
+              "id": "CODE_OF_CONDUCT",
+              "isDocsHomePage": false,
+              "title": "CODE_OF_CONDUCT",
+              "description": "Kata Containers Code of Conduct",
+              "source": "@site/docs/CODE_OF_CONDUCT.md",
+              "sourceDirName": ".",
+              "slug": "/CODE_OF_CONDUCT",
+              "permalink": "/docs/intro/docs/CODE_OF_CONDUCT",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/CODE_OF_CONDUCT.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 33,
+              "frontMatter": {
+                "sidebar_position": 33,
+                "sidebar_label": "CODE OF CONDUCT"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Hypervisors",
+                "permalink": "/docs/intro/docs/hypervisors"
+              },
+              "next": {
+                "title": "Contributing",
+                "permalink": "/docs/intro/docs/CONTRIBUTING"
+              }
+            },
+            {
+              "unversionedId": "CONTRIBUTING",
+              "id": "CONTRIBUTING",
+              "isDocsHomePage": false,
+              "title": "Contributing",
+              "description": "This repo is part of Kata Containers",
+              "source": "@site/docs/CONTRIBUTING.md",
+              "sourceDirName": ".",
+              "slug": "/CONTRIBUTING",
+              "permalink": "/docs/intro/docs/CONTRIBUTING",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/CONTRIBUTING.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 34,
+              "frontMatter": {
+                "sidebar_position": 34,
+                "sidebar_label": "Contributing"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "CODE OF CONDUCT",
+                "permalink": "/docs/intro/docs/CODE_OF_CONDUCT"
+              },
+              "next": {
+                "title": "GLOSSARY",
+                "permalink": "/docs/intro/docs/Glossary"
+              }
+            },
+            {
               "unversionedId": "design/kata-2-0-metrics",
               "id": "design/kata-2-0-metrics",
               "isDocsHomePage": false,
@@ -998,8 +1089,64 @@
                 "permalink": "/docs/intro/docs/requirements"
               },
               "next": {
-                "title": "API Hooks Handling",
-                "permalink": "/docs/intro/docs/API Reference/hooks-handling"
+                "title": "Creating a Kata Containers release",
+                "permalink": "/docs/intro/docs/Release-Process"
+              }
+            },
+            {
+              "unversionedId": "Glossary",
+              "id": "Glossary",
+              "isDocsHomePage": false,
+              "title": "Glossary",
+              "description": "See the project glossary hosted in the wiki.",
+              "source": "@site/docs/Glossary.md",
+              "sourceDirName": ".",
+              "slug": "/Glossary",
+              "permalink": "/docs/intro/docs/Glossary",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/Glossary.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 35,
+              "frontMatter": {
+                "sidebar_position": 35,
+                "sidebar_label": "GLOSSARY"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Contributing",
+                "permalink": "/docs/intro/docs/CONTRIBUTING"
+              },
+              "next": {
+                "title": "README",
+                "permalink": "/docs/intro/docs/README"
+              }
+            },
+            {
+              "unversionedId": "hypervisors",
+              "id": "hypervisors",
+              "isDocsHomePage": false,
+              "title": "Hypervisors",
+              "description": "Introduction",
+              "source": "@site/docs/hypervisors.md",
+              "sourceDirName": ".",
+              "slug": "/hypervisors",
+              "permalink": "/docs/intro/docs/hypervisors",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/hypervisors.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 28,
+              "frontMatter": {
+                "sidebar_position": 28,
+                "sidebar_label": "Hypervisors"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Branch Strategy",
+                "permalink": "/docs/intro/docs/Stable-Branch-Strategy"
+              },
+              "next": {
+                "title": "CODE OF CONDUCT",
+                "permalink": "/docs/intro/docs/CODE_OF_CONDUCT"
               }
             },
             {
@@ -1306,6 +1453,62 @@
               }
             },
             {
+              "unversionedId": "README",
+              "id": "README",
+              "isDocsHomePage": false,
+              "title": "README",
+              "description": "CI | Publish Kata Containers payload Kata Containers Nightly CI",
+              "source": "@site/docs/README.md",
+              "sourceDirName": ".",
+              "slug": "/README",
+              "permalink": "/docs/intro/docs/README",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/README.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 37,
+              "frontMatter": {
+                "sidebar_position": 37,
+                "sidebar_label": "README"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "GLOSSARY",
+                "permalink": "/docs/intro/docs/Glossary"
+              },
+              "next": {
+                "title": "API Hooks Handling",
+                "permalink": "/docs/intro/docs/API Reference/hooks-handling"
+              }
+            },
+            {
+              "unversionedId": "Release-Process",
+              "id": "Release-Process",
+              "isDocsHomePage": false,
+              "title": "How to do a Kata Containers Release",
+              "description": "This document lists the tasks required to create a Kata Release.",
+              "source": "@site/docs/Release-Process.md",
+              "sourceDirName": ".",
+              "slug": "/Release-Process",
+              "permalink": "/docs/intro/docs/Release-Process",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/Release-Process.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 16,
+              "frontMatter": {
+                "sidebar_position": 16,
+                "sidebar_label": "Creating a Kata Containers release"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Developer Guide",
+                "permalink": "/docs/intro/docs/Developer-Guide"
+              },
+              "next": {
+                "title": "Branch Strategy",
+                "permalink": "/docs/intro/docs/Stable-Branch-Strategy"
+              }
+            },
+            {
               "unversionedId": "requirements",
               "id": "requirements",
               "isDocsHomePage": false,
@@ -1387,6 +1590,34 @@
               "next": {
                 "title": "vCPU sizing | GOLANG",
                 "permalink": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-go"
+              }
+            },
+            {
+              "unversionedId": "Stable-Branch-Strategy",
+              "id": "Stable-Branch-Strategy",
+              "isDocsHomePage": false,
+              "title": "Stable-Branch-Strategy",
+              "description": "Branch and release maintenance for the Kata Containers project.",
+              "source": "@site/docs/Stable-Branch-Strategy.md",
+              "sourceDirName": ".",
+              "slug": "/Stable-Branch-Strategy",
+              "permalink": "/docs/intro/docs/Stable-Branch-Strategy",
+              "editUrl": "https://github.com/kata-containers/kata-containers/docs/Stable-Branch-Strategy.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 16,
+              "frontMatter": {
+                "sidebar_label": "Branch Strategy",
+                "sidebar_position": 16
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Creating a Kata Containers release",
+                "permalink": "/docs/intro/docs/Release-Process"
+              },
+              "next": {
+                "title": "Hypervisors",
+                "permalink": "/docs/intro/docs/hypervisors"
               }
             },
             {

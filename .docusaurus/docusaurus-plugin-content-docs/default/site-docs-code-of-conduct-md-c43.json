@@ -1,0 +1,28 @@
+{
+  "unversionedId": "CODE_OF_CONDUCT",
+  "id": "CODE_OF_CONDUCT",
+  "isDocsHomePage": false,
+  "title": "CODE_OF_CONDUCT",
+  "description": "Kata Containers Code of Conduct",
+  "source": "@site/docs/CODE_OF_CONDUCT.md",
+  "sourceDirName": ".",
+  "slug": "/CODE_OF_CONDUCT",
+  "permalink": "/docs/intro/docs/CODE_OF_CONDUCT",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/CODE_OF_CONDUCT.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 33,
+  "frontMatter": {
+    "sidebar_position": 33,
+    "sidebar_label": "CODE OF CONDUCT"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hypervisors",
+    "permalink": "/docs/intro/docs/hypervisors"
+  },
+  "next": {
+    "title": "Contributing",
+    "permalink": "/docs/intro/docs/CONTRIBUTING"
+  }
+}

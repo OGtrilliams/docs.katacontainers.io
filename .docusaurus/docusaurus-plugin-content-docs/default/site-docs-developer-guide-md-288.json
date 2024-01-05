@@ -21,7 +21,7 @@
     "permalink": "/docs/intro/docs/requirements"
   },
   "next": {
-    "title": "API Hooks Handling",
-    "permalink": "/docs/intro/docs/API Reference/hooks-handling"
+    "title": "Creating a Kata Containers release",
+    "permalink": "/docs/intro/docs/Release-Process"
   }
 }

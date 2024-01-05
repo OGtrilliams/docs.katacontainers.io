@@ -46,6 +46,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "CODE_OF_CONDUCT",
+              "path": "/docs/intro/docs/CODE_OF_CONDUCT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CONTRIBUTING",
+              "path": "/docs/intro/docs/CONTRIBUTING",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "design/kata-2-0-metrics",
               "path": "/docs/intro/docs/design/kata-2-0-metrics",
               "sidebar": "tutorialSidebar"
@@ -73,6 +83,16 @@
             {
               "id": "Developer-Guide",
               "path": "/docs/intro/docs/Developer-Guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Glossary",
+              "path": "/docs/intro/docs/Glossary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hypervisors",
+              "path": "/docs/intro/docs/hypervisors",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -131,6 +151,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "README",
+              "path": "/docs/intro/docs/README",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Release-Process",
+              "path": "/docs/intro/docs/Release-Process",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "requirements",
               "path": "/docs/intro/docs/requirements",
               "sidebar": "tutorialSidebar"
@@ -143,6 +173,11 @@
             {
               "id": "Runtimes/vcpu-handling-runtime-rs",
               "path": "/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Stable-Branch-Strategy",
+              "path": "/docs/intro/docs/Stable-Branch-Strategy",
               "sidebar": "tutorialSidebar"
             },
             {

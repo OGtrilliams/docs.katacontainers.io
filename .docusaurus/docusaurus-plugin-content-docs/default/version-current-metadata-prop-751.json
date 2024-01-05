@@ -24,6 +24,41 @@
         "href": "/docs/intro/docs/Developer-Guide"
       },
       {
+        "type": "link",
+        "label": "Creating a Kata Containers release",
+        "href": "/docs/intro/docs/Release-Process"
+      },
+      {
+        "type": "link",
+        "label": "Branch Strategy",
+        "href": "/docs/intro/docs/Stable-Branch-Strategy"
+      },
+      {
+        "type": "link",
+        "label": "Hypervisors",
+        "href": "/docs/intro/docs/hypervisors"
+      },
+      {
+        "type": "link",
+        "label": "CODE OF CONDUCT",
+        "href": "/docs/intro/docs/CODE_OF_CONDUCT"
+      },
+      {
+        "type": "link",
+        "label": "Contributing",
+        "href": "/docs/intro/docs/CONTRIBUTING"
+      },
+      {
+        "type": "link",
+        "label": "GLOSSARY",
+        "href": "/docs/intro/docs/Glossary"
+      },
+      {
+        "type": "link",
+        "label": "README",
+        "href": "/docs/intro/docs/README"
+      },
+      {
         "type": "category",
         "label": "API Reference",
         "items": [

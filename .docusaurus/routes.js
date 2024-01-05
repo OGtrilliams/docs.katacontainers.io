@@ -110,7 +110,7 @@ export default [
   },
   {
     path: '/docs/intro/docs',
-    component: ComponentCreator('/docs/intro/docs','212'),
+    component: ComponentCreator('/docs/intro/docs','65a'),
     routes: [
       {
         path: '/docs/intro/docs/API Reference/hooks-handling',
@@ -155,6 +155,18 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/intro/docs/CODE_OF_CONDUCT',
+        component: ComponentCreator('/docs/intro/docs/CODE_OF_CONDUCT','815'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/intro/docs/CONTRIBUTING',
+        component: ComponentCreator('/docs/intro/docs/CONTRIBUTING','0bc'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/intro/docs/design/kata-2-0-metrics',
         component: ComponentCreator('/docs/intro/docs/design/kata-2-0-metrics','f90'),
         exact: true,
@@ -187,6 +199,18 @@ export default [
       {
         path: '/docs/intro/docs/Developer-Guide',
         component: ComponentCreator('/docs/intro/docs/Developer-Guide','900'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/intro/docs/Glossary',
+        component: ComponentCreator('/docs/intro/docs/Glossary','970'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/intro/docs/hypervisors',
+        component: ComponentCreator('/docs/intro/docs/hypervisors','06a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -257,6 +281,18 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/intro/docs/README',
+        component: ComponentCreator('/docs/intro/docs/README','16c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/intro/docs/Release-Process',
+        component: ComponentCreator('/docs/intro/docs/Release-Process','5f5'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/intro/docs/requirements',
         component: ComponentCreator('/docs/intro/docs/requirements','983'),
         exact: true,
@@ -271,6 +307,12 @@ export default [
       {
         path: '/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs',
         component: ComponentCreator('/docs/intro/docs/Runtimes/vcpu-handling-runtime-rs','559'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/intro/docs/Stable-Branch-Strategy',
+        component: ComponentCreator('/docs/intro/docs/Stable-Branch-Strategy','75c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

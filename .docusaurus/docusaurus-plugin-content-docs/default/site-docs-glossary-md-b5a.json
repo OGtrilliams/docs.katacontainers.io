@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Glossary",
+  "id": "Glossary",
+  "isDocsHomePage": false,
+  "title": "Glossary",
+  "description": "See the project glossary hosted in the wiki.",
+  "source": "@site/docs/Glossary.md",
+  "sourceDirName": ".",
+  "slug": "/Glossary",
+  "permalink": "/docs/intro/docs/Glossary",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/Glossary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 35,
+  "frontMatter": {
+    "sidebar_position": 35,
+    "sidebar_label": "GLOSSARY"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing",
+    "permalink": "/docs/intro/docs/CONTRIBUTING"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/intro/docs/README"
+  }
+}

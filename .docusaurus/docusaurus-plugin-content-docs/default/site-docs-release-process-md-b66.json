@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Release-Process",
+  "id": "Release-Process",
+  "isDocsHomePage": false,
+  "title": "How to do a Kata Containers Release",
+  "description": "This document lists the tasks required to create a Kata Release.",
+  "source": "@site/docs/Release-Process.md",
+  "sourceDirName": ".",
+  "slug": "/Release-Process",
+  "permalink": "/docs/intro/docs/Release-Process",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/Release-Process.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "sidebar_position": 16,
+    "sidebar_label": "Creating a Kata Containers release"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Developer Guide",
+    "permalink": "/docs/intro/docs/Developer-Guide"
+  },
+  "next": {
+    "title": "Branch Strategy",
+    "permalink": "/docs/intro/docs/Stable-Branch-Strategy"
+  }
+}

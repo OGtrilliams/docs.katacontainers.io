@@ -1,0 +1,28 @@
+{
+  "unversionedId": "CONTRIBUTING",
+  "id": "CONTRIBUTING",
+  "isDocsHomePage": false,
+  "title": "Contributing",
+  "description": "This repo is part of Kata Containers",
+  "source": "@site/docs/CONTRIBUTING.md",
+  "sourceDirName": ".",
+  "slug": "/CONTRIBUTING",
+  "permalink": "/docs/intro/docs/CONTRIBUTING",
+  "editUrl": "https://github.com/kata-containers/kata-containers/docs/CONTRIBUTING.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 34,
+  "frontMatter": {
+    "sidebar_position": 34,
+    "sidebar_label": "Contributing"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CODE OF CONDUCT",
+    "permalink": "/docs/intro/docs/CODE_OF_CONDUCT"
+  },
+  "next": {
+    "title": "GLOSSARY",
+    "permalink": "/docs/intro/docs/Glossary"
+  }
+}
