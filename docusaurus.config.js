@@ -85,21 +85,33 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 href: 'docs/CONTRIBUTING',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/katacontainers',
+                label: 'Glossary of Terms',
+                href: 'docs/Glossary',
               },
+              {
+                label: 'Slack',
+                href: 'https://join.slack.com/t/katacontainers/shared_invite/zt-16w1u6usn-sK871qbMxVN8KsCP5Gr56A'
+                },
             ],
           },
           {
-            title: 'More',
+            title: 'Social Media',
             items: [
               {
                 label: 'GitHub',
                 to: 'https://github.com/kata-containers',
               },
               {
+                label: 'BlueSky',
+                href: 'https://bsky.app/profile/katacontainers.bsky.social',
+              },
+              {
                 label: 'Twitter',
                 href: 'https://twitter.com/katacontainers',
+              },
+              {
+                label: 'LinkedIn',
+                href: 'https://linkedin.com/in/katacontainers',
               },
             ],
           },
